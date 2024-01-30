@@ -3,8 +3,9 @@ h1 {
   top: 0;
   margin: 0;
   padding: .5rem 0;
-  font-size: 1.5rem;
-  background: #fff;
+  font-size: 1.3rem;
+  word-break: break-all;
+  background: rgba(255, 255, 255, .8);
 }
 
 .post {

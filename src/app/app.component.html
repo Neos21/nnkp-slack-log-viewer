@@ -1,6 +1,14 @@
+<button type="button" class="hamburger-icon" (click)="toggleMenu()">
+  <span class="hamburger-icon-bar"></span>
+  <span class="hamburger-icon-bar"></span>
+  <span class="hamburger-icon-bar"></span>
+</button>
+
 <div class="wrapper">
   <div class="menu">
-    <app-menu />
+    <div class="menu-container">
+      <app-menu />
+    </div>
   </div>
   <div class="contents">
     <router-outlet />

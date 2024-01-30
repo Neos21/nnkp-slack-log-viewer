@@ -4,18 +4,68 @@
   height: 100%;
 }
 
+.hamburger-icon {
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  width: 50px;
+  height: 50px;
+  border: 0;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #151834;
+  outline: 0;
+  cursor: pointer;
+  z-index: calc(Infinity);
+}
+  @media (min-width: 992px) {
+    .hamburger-icon { display: none; }
+  }
+  
+  .hamburger-icon-bar {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 25px;
+    height: 2px;
+    background: #fff;
+  }
+  .hamburger-icon-bar + .hamburger-icon-bar {
+    margin-top: 5px;
+  }
+
 .menu {
   position: fixed;
+  top: 0;
+  left: calc(var(--menu-width) * -1);
   width: var(--menu-width);
   height: 100%;
   overflow-y: auto;
   border-right: 2px solid #dcdcdc;
-  padding: 0 1rem;
   background: #f2f4f7;
-  z-index: calc(Infinity);
+  z-index: 1000;
+  -webkit-touch-callout: none;  /* iOS で長押ししてもポップアップメニューを開かせない */
 }
+  /* 幅が広い時は常時表示 */
+  @media (min-width: 992px) { .menu { left: 0; } }
+  /* 親 (`body`) 要素に `.show-menu` が付与されたらメニューを表示する */
+  :host-context(.show-menu) .menu { left: 0; }
+
+  /* 子要素でスクロールさせる */
+  .menu-container {
+    overflow-y: auto;
+    height: 100%;
+    padding: 0 .5rem;
+    -webkit-overflow-scrolling: touch;
+  }
 
 .contents {
-  margin-left: var(--menu-width);
+  margin-left: 0;
   padding: 0 1rem 1rem;
 }
+  /* メニュー表示時：メニュー幅分の余白を開ける */
+  @media (min-width: 992px) {
+    .contents {
+      margin-left: var(--menu-width);
+    }
+  }
