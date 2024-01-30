@@ -1,0 +1,3207 @@
+[
+  {
+    "subtype": "channel_join",
+    "text": "<@U064A3MMLFM>さんがチャンネルに参加しました",
+    "ts": "1703404825.059469",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "subtype": "channel_topic",
+    "text": "チャンネルのトピックを設定 : こっそり。",
+    "topic": "こっそり。",
+    "ts": "1703405055.767159",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "purpose": "こっそり。ここに書いた脚本を投下します。\n書きながら設定とか決まっていけばいいなーの気持ちもありつつ。わりと趣味的な感じで書くので描写の荒さはご容赦ください。\n\n朝ドラの15分ドラマくらいの短編で、時系列はバラバラで書いていきます（書けるとこから書くんだよのやつ）\n\nバンダイに買ってもらって本当にアニメ化されたらいいよね。いいよね。（言うだけはタダだからさ）",
+    "subtype": "channel_purpose",
+    "text": "がこのチャンネルの説明を「こっそり。ここに書いた脚本を投下します。\n書きながら設定とか決まっていけばいいなーの気持ちもありつつ。わりと趣味的な感じで書くので描写の荒さはご容赦ください。\n\n朝ドラの15分ドラマくらいの短編で、時系列はバラバラで書いていきます（書けるとこから書くんだよのやつ）\n\nバンダイに買ってもらって本当にアニメ化されたらいいよね。いいよね。（言うだけはタダだからさ）」に設定しました",
+    "ts": "1703405055.774729",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XIKvr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "\n【伝説の始まりと物語の終わり】\n\n『ザリガニヨンズ・ドームツアー』の看板が東京ドーム近くの路上に出ている。\n\n警備員がザリガニヨンズファン（男女比半々くらい）をドーム会場へ誘導している。\n\nライブ会場の舞台袖。\n\nたき「よくここまで頑張ったわね。でも、ここもひとつのスタート地点なの。精一杯、ファンに愛されてきなさい」　\n\n満席の客席が今から始まるライブへの期待で熱気に溢れている。\n\nペンライトが眩しいがその色はぼやけてわからない。スポットライトがアイドルにあたる。\n\n「death！deathです。」のドラムが激しくなる。\n\n客席一気に盛り上がって「death！death！death！death！」のコールがかかる。\n\n\nザリガニヨンズの伝説はここから始まり、ザリガニヨンズの物語はここで終える。\n\nTo be continued.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E3EF6E94-433F-444C-BC9A-DB871AC74405",
+    "is_locked": false,
+    "latest_reply": "1703497422.649419",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U064B2U40GM"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "\n【伝説の始まりと物語の終わり】\n\n『ザリガニヨンズ・ドームツアー』の看板が東京ドーム近くの路上に出ている。\n\n警備員がザリガニヨンズファン（男女比半々くらい）をドーム会場へ誘導している。\n\nライブ会場の舞台袖。\n\nたき「よくここまで頑張ったわね。でも、ここもひとつのスタート地点なの。精一杯、ファンに愛されてきなさい」　\n\n満席の客席が今から始まるライブへの期待で熱気に溢れている。\n\nペンライトが眩しいがその色はぼやけてわからない。スポットライトがアイドルにあたる。\n\n「death！deathです。」のドラムが激しくなる。\n\n客席一気に盛り上がって「death！death！death！death！」のコールがかかる。\n\n\nザリガニヨンズの伝説はここから始まり、ザリガニヨンズの物語はここで終える。\n\nTo be continued.",
+    "thread_ts": "1703405155.232879",
+    "ts": "1703405155.232879",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ozpa0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（補足）\n\nザリガニヨンズのメンバーは今後シャッフルする可能性大。\n\nそのため、ドームツアー開催までに現在のメンバーが丸ごと生き残っている可能性は低い。\n\nもしかしたら、メンバー総入れ替えしてるかもしれないし、そらちゃんのソロアイドルかもしれない。\n\n\n\nこれは第一話であり、最終話でもある。\n\nドームツアーまで駆け上るザリガニヨンズは誰なのかも今後の見どころ。\n\n演出はじぇみさんにかなり助けてもらいました。\n（LOVE）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "347DC904-E7DB-4676-ADEC-CD8F5636C5DE",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "（補足）\n\nザリガニヨンズのメンバーは今後シャッフルする可能性大。\n\nそのため、ドームツアー開催までに現在のメンバーが丸ごと生き残っている可能性は低い。\n\nもしかしたら、メンバー総入れ替えしてるかもしれないし、そらちゃんのソロアイドルかもしれない。\n\n\n\nこれは第一話であり、最終話でもある。\n\nドームツアーまで駆け上るザリガニヨンズは誰なのかも今後の見どころ。\n\n演出はじぇみさんにかなり助けてもらいました。\n（LOVE）",
+    "thread_ts": "1703405155.232879",
+    "ts": "1703405375.564989",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LOTZG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なな子さんのお話を聞きながら「すげえ！」「おもろ！」「あちぃ〜！」しか言ってないですが、お力になれたならよかったです( ◜◡◝ )",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B8DEF504-0D7B-45AB-8978-D7CC4C996D43",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "なな子さんのお話を聞きながら「すげえ！」「おもろ！」「あちぃ〜！」しか言ってないですが、お力になれたならよかったです( ◜◡◝ )",
+    "thread_ts": "1703405155.232879",
+    "ts": "1703494600.553839",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SAYiR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "じぇみさんの演出がなかったらこのオープニングシーンにはならなかったとおもいます。（愛）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F5D22FA4-FE7B-44FA-BCB2-A02A42596801",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "じぇみさんの演出がなかったらこのオープニングシーンにはならなかったとおもいます。（愛）",
+    "thread_ts": "1703405155.232879",
+    "ts": "1703497422.649419",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064CLXP068>さんがチャンネルに参加しました",
+    "ts": "1703412176.150579",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U0647CWD0DT>さんがチャンネルに参加しました",
+    "ts": "1703413625.280849",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pf0py",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【音痴なら直せばいいじゃない】\n\n中学2年生になったなな子とそら。放課後の教室で会話。\n\nなな子「ねぇ〜あきらめなよォ」　\n\nそら「いやだいやだいやだいやだ」\n　\nなな子「まぁたAKKオーディション落ちたんでしょお？」　\n\nそら「落ちた」　\n\nなな子「ホラ、諦めなって」　\n\nそら「オンチだからってアイドルの夢を諦めろっていうの？！」　\n\nなな子「うん、そうだけど？」　\n\nそら「………。」　\n\nなな子「アイドルってさぁ、顔が可愛くて、声が可愛くて、ダンスが上手で、歌も上手な子がなるんじゃないの？そらちゃんはさぁ、ダンスは上手だけ\nど、顔はまぁアレだけど、声もまぁ、アレだけど、歌はもっとアレじゃん？」　\n\nそら「………。」　\n\nなな子「え？！ちょ、、、おい！泣くなよぉ」　\n\nそら「わたしだって好きでオンチをやってるわけじゃないんだよ？！わたしだって歌が上手になりたいの！でも、どれだけ歌っても上手にならないのーーーーー！！！」　\n\nなな子「そっか、歌が上手になればいいのか？！」　\n\nそら「そうよ！歌さえ上手になれば今度のAKKオーディションは絶対に合格する！」　\n\nなな子「わかった！音楽室に行こう！」　\n\n\n\nそらの手をとり走り出すなな子。教室を飛び出し、校舎のなかを風を切って走る、螺旋階段を駆け上がって『音楽室』のドアを開こうとするなな子。　\n\n\n\n音楽室\n\n円形の音楽室で、ひとり、みどりがアヴェ・マリアを歌っている。美しい歌声が教室を包む。窓辺で小鳥が囀る。　\n\n「♪♪♪（歌声）」　\n\nバンッと音楽室のドアが開く。　\n驚いて歌うのをやめるみどり。　\n開いたドアからなな子がそらと手を繋いで入ってくる。　\n\nなな子「みどり先輩！！！アイドル、やりませんか？！」　\n\nみどり「やりません。ていうか、あなたたち、、、、、誰？」\n\n\nTo be continued.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d007fa8c-2ff9-45dc-b3f3-03fddb06995f",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "kusa",
+        "users": [
+          "U064CLXP068",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "【音痴なら直せばいいじゃない】\n\n中学2年生になったなな子とそら。放課後の教室で会話。\n\nなな子「ねぇ〜あきらめなよォ」　\n\nそら「いやだいやだいやだいやだ」\n　\nなな子「まぁたAKKオーディション落ちたんでしょお？」　\n\nそら「落ちた」　\n\nなな子「ホラ、諦めなって」　\n\nそら「オンチだからってアイドルの夢を諦めろっていうの？！」　\n\nなな子「うん、そうだけど？」　\n\nそら「………。」　\n\nなな子「アイドルってさぁ、顔が可愛くて、声が可愛くて、ダンスが上手で、歌も上手な子がなるんじゃないの？そらちゃんはさぁ、ダンスは上手だけ\nど、顔はまぁアレだけど、声もまぁ、アレだけど、歌はもっとアレじゃん？」　\n\nそら「………。」　\n\nなな子「え？！ちょ、、、おい！泣くなよぉ」　\n\nそら「わたしだって好きでオンチをやってるわけじゃないんだよ？！わたしだって歌が上手になりたいの！でも、どれだけ歌っても上手にならないのーーーーー！！！」　\n\nなな子「そっか、歌が上手になればいいのか？！」　\n\nそら「そうよ！歌さえ上手になれば今度のAKKオーディションは絶対に合格する！」　\n\nなな子「わかった！音楽室に行こう！」　\n\n\n\nそらの手をとり走り出すなな子。教室を飛び出し、校舎のなかを風を切って走る、螺旋階段を駆け上がって『音楽室』のドアを開こうとするなな子。　\n\n\n\n音楽室\n\n円形の音楽室で、ひとり、みどりがアヴェ・マリアを歌っている。美しい歌声が教室を包む。窓辺で小鳥が囀る。　\n\n「♪♪♪（歌声）」　\n\nバンッと音楽室のドアが開く。　\n驚いて歌うのをやめるみどり。　\n開いたドアからなな子がそらと手を繋いで入ってくる。　\n\nなな子「みどり先輩！！！アイドル、やりませんか？！」　\n\nみどり「やりません。ていうか、あなたたち、、、、、誰？」\n\n\nTo be continued.",
+    "ts": "1703419599.906389",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/@KannagiCHANNEL",
+        "author_name": "Kannagi CHANNEL",
+        "fallback": "YouTube Video: 【女性が歌ってみた】紅／X JAPAN【Band cover】",
+        "from_url": "https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag",
+        "id": 1,
+        "original_url": "https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/yRoRf8gAV_U/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "【女性が歌ってみた】紅／X JAPAN【Band cover】",
+        "title_link": "https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/yRoRf8gAV_U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"【女性が歌ってみた】紅／X JAPAN【Band cover】\"></iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "GLR5r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【第3期生AKK47オーディション会場】　\n\nそら「あわわわ…来ちゃった…！来ちゃったよぉぉぉ…あわわわ」　　\n\nみどり、周りを見渡して。　\n\nみどり「アイドルになりたい人って多いんですね」　\n\nなな子「本当はもっと多いはずだよー、書類選考で落とされている子もいるからね」　\n\nみどり「わたしたち、書類選考なんて応募しましたっけ？」　\n\nなな子「俺が勝手に応募書類書いてだしたんだよー」　\n\nみどり「…えっ…？！」　\n\nなな子「ほらー、この前一緒にﾃﾞｲｽﾞｲﾆｰランドに行ったでしょ？あのときにみんなで撮った写真つけてー、それらしぃ〜応募理由つけてぇ〜書類選考通過ッ！」　\n\nそら・みどり「………。」　\n\nなな子「いいんだよっ！『自薦、他薦問わず』なんだからッ！さぁ、行くよッ」　\n\n審査会場　\n\n係員「こちらにお座りください。審査はひとり5分です。お名前を仰っていただいてから簡単な質問があります。歌やダンスをお願いすることもあります」　\n\nそら、みどり、なな子の順番で座る3人。　\n\n係員「52番の方こちらの部屋へお入りください」　\n\n52番の女子が緊張した様子で「はい」と返事をして別室へ入っていく。　\n\nそら「あわわわ…やっぱり歌の審査があるんだ…あわわわ…」　\n\n落ち着いた様子のみどりを見て、なな子\n\nなな子「みどりちゃんはお歌、何歌うの？」　\n\nみどり「オペラ座の怪人かしら？」　\n\nなな子・そら「………。」　\n\nなな子「みどりちゃん、オペラ座の怪人もいいとおもうけど、今日はアイドルのオーディションだからさ」　\n\nそら「うんうん、歌うなら今どきの曲がいいとおもうよ？」　\n\nみどり「今どきの曲なんて知らないわ」　\n\nなな子、iPodを取り出して「良かったらこれで聴いて、みどりちゃんならすぐに覚えちゃうでしょ」　\n\nみどり「そうね、ありがとう」　\n\niPodのイヤホンを耳にして一曲聴くみどり。　\nその間にそらが順番を呼ばれて席を立つ。\n5分のオーディションを終えて戻ってきたそら、ため息。　\n\nみどりが一曲聴き終わって　\n\nみどり「覚えたわ。ありがとう。歌ってくる」　\n\nなな子「いってらっしゃい！！」　\n\n係員「54番の方こちらへどうぞ」　\n\n別室へ入っていくみどり。閉まるドア。\n\nやがて、みどりの滑らかな歌声が小さく聴こえる。　\n\nそら「やっぱり、みどりちゃんの歌は1番だ」　\n\n滑らかな英語のフレーズが続き、いっときの沈黙の後。　\n\n\n\nみどり「くれないだーーーーーーーーーーー！！！！！！！！！！」\n\n\nTo be continued.\n\n",
+                "type": "text"
+              },
+              {
+                "text": "https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag",
+                "type": "link",
+                "url": "https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D8CD85F7-D8E0-4DA1-9B6E-20F62622879D",
+    "is_locked": false,
+    "latest_reply": "1703675312.139869",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "kusa",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT",
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "reply_count": 7,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U064B2U40GM",
+      "U06478T36MT"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【第3期生AKK47オーディション会場】　\n\nそら「あわわわ…来ちゃった…！来ちゃったよぉぉぉ…あわわわ」　　\n\nみどり、周りを見渡して。　\n\nみどり「アイドルになりたい人って多いんですね」　\n\nなな子「本当はもっと多いはずだよー、書類選考で落とされている子もいるからね」　\n\nみどり「わたしたち、書類選考なんて応募しましたっけ？」　\n\nなな子「俺が勝手に応募書類書いてだしたんだよー」　\n\nみどり「…えっ…？！」　\n\nなな子「ほらー、この前一緒にﾃﾞｲｽﾞｲﾆｰランドに行ったでしょ？あのときにみんなで撮った写真つけてー、それらしぃ〜応募理由つけてぇ〜書類選考通過ッ！」　\n\nそら・みどり「………。」　\n\nなな子「いいんだよっ！『自薦、他薦問わず』なんだからッ！さぁ、行くよッ」　\n\n審査会場　\n\n係員「こちらにお座りください。審査はひとり5分です。お名前を仰っていただいてから簡単な質問があります。歌やダンスをお願いすることもあります」　\n\nそら、みどり、なな子の順番で座る3人。　\n\n係員「52番の方こちらの部屋へお入りください」　\n\n52番の女子が緊張した様子で「はい」と返事をして別室へ入っていく。　\n\nそら「あわわわ…やっぱり歌の審査があるんだ…あわわわ…」　\n\n落ち着いた様子のみどりを見て、なな子\n\nなな子「みどりちゃんはお歌、何歌うの？」　\n\nみどり「オペラ座の怪人かしら？」　\n\nなな子・そら「………。」　\n\nなな子「みどりちゃん、オペラ座の怪人もいいとおもうけど、今日はアイドルのオーディションだからさ」　\n\nそら「うんうん、歌うなら今どきの曲がいいとおもうよ？」　\n\nみどり「今どきの曲なんて知らないわ」　\n\nなな子、iPodを取り出して「良かったらこれで聴いて、みどりちゃんならすぐに覚えちゃうでしょ」　\n\nみどり「そうね、ありがとう」　\n\niPodのイヤホンを耳にして一曲聴くみどり。　\nその間にそらが順番を呼ばれて席を立つ。\n5分のオーディションを終えて戻ってきたそら、ため息。　\n\nみどりが一曲聴き終わって　\n\nみどり「覚えたわ。ありがとう。歌ってくる」　\n\nなな子「いってらっしゃい！！」　\n\n係員「54番の方こちらへどうぞ」　\n\n別室へ入っていくみどり。閉まるドア。\n\nやがて、みどりの滑らかな歌声が小さく聴こえる。　\n\nそら「やっぱり、みどりちゃんの歌は1番だ」　\n\n滑らかな英語のフレーズが続き、いっときの沈黙の後。　\n\n\n\nみどり「くれないだーーーーーーーーーーー！！！！！！！！！！」\n\n\nTo be continued.\n\n<https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag|https://youtu.be/yRoRf8gAV_U?si=zjKWSfTdps0pfeag>",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703464394.454859",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LgX1f",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（みどりちゃん「紅」歌ってくれねぇかなぁ。。。聴きたいです）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C7373604-B67C-442F-92A0-804A743AA8FA",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "（みどりちゃん「紅」歌ってくれねぇかなぁ。。。聴きたいです）",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703464436.390779",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3sk6Y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "愛さざるをえない展開ですが、紅を作中で歌うのは果たして問題ないのでしょうか…？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C28A2DB4-BF01-45ED-A43B-A82E6E6D05F3",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "愛さざるをえない展開ですが、紅を作中で歌うのは果たして問題ないのでしょうか…？",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703494542.561189",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CWMo6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "許可取れればたぶんOK…？\nとれなかったら同じ節で「くれよんだーーー！」とか言ってもらう？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FC70D079-2AAC-4C0A-8077-711C967C4991",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "許可取れればたぶんOK…？\nとれなかったら同じ節で「くれよんだーーー！」とか言ってもらう？",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703497502.965359",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ySv6W",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえず好き放題やって、バンダイから声かかったら修正しましょう(適当)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CBC022F1-1578-4661-94C8-5CB0C8FF2121",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "とりあえず好き放題やって、バンダイから声かかったら修正しましょう(適当)",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703557778.992379",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1CDJs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バンダイがなんとかしてくれる（適当）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DDA7AA18-1CCA-4618-AEF0-24C5623F418D",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "parrot_fast",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "バンダイがなんとかしてくれる（適当）",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703561555.131709",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cb9MN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "52番か……なんか嫌な予感がするな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "44828cda-dd9f-47df-975c-305b6e7841f3",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "52番か……なんか嫌な予感がするな",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703674920.529689",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "71Fmq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バレたか…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "320C6D4C-D35A-4E97-BE0E-BC2D49C8FA08",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "bow",
+        "users": [
+          "U06478T36MT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "バレたか…",
+    "thread_ts": "1703464394.454859",
+    "ts": "1703675312.139869",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064B2U40GM>さんがチャンネルに参加しました",
+    "ts": "1703493336.058209",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SE/SD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【なな子とそらの出会い】\n\n9月　新学期　中学1年生のクラス　ざわざわしている。　始業のチャイムが鳴る。　\n\n教師「転校生を紹介するー！」\n\n教師が黒板に『なな子アメリカザリガニ』と書く。その黒板の前に立つなな子。教室のあちこちでクスクス笑う声が徐々に広がり\n\n男子「なな子アメリカザリガニだってーーー変な名前〜ーーー！！！」\n\n同時に沸き立つ教室。無表情のなな子。\n\nそら「あのっ…」\n\nしかし誰もそらを見ていない。\n\nそら「あのっ！！！！あの！！！！！人の名前を変だとか言うのよくないとおもいます」\n\n立ち上がって大声を出すそら。静まり返る教室。\n\n教師「はい、御手洗さんの言うとおりです。人の名前を変だとか言ってはいけません。なな子さん、空いてる席に座ってください」\n\n無言でそらの隣席に座るなな子。身を縮めて座るそら、小声で\n\nそら「なな子さん、わたし、そらっていうのよろしくね」\n\nなな子、じっとそらを みつめてひとこと\n\nなな子「うん！　なんで？？？」\n\n\n\n\nTo be continued.\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A5CFA5CC-DEC6-4F4B-8553-11CAA801EB58",
+    "is_locked": false,
+    "last_read": "1703561806.232329",
+    "latest_reply": "1703561806.232329",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "kusa",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "reply_count": 5,
+    "reply_users": [
+      "U064CLXP068",
+      "U064A3MMLFM",
+      "U064B2U40GM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": true,
+    "team": "T063VL91V0X",
+    "text": "【なな子とそらの出会い】\n\n9月　新学期　中学1年生のクラス　ざわざわしている。　始業のチャイムが鳴る。　\n\n教師「転校生を紹介するー！」\n\n教師が黒板に『なな子アメリカザリガニ』と書く。その黒板の前に立つなな子。教室のあちこちでクスクス笑う声が徐々に広がり\n\n男子「なな子アメリカザリガニだってーーー変な名前〜ーーー！！！」\n\n同時に沸き立つ教室。無表情のなな子。\n\nそら「あのっ…」\n\nしかし誰もそらを見ていない。\n\nそら「あのっ！！！！あの！！！！！人の名前を変だとか言うのよくないとおもいます」\n\n立ち上がって大声を出すそら。静まり返る教室。\n\n教師「はい、御手洗さんの言うとおりです。人の名前を変だとか言ってはいけません。なな子さん、空いてる席に座ってください」\n\n無言でそらの隣席に座るなな子。身を縮めて座るそら、小声で\n\nそら「なな子さん、わたし、そらっていうのよろしくね」\n\nなな子、じっとそらを みつめてひとこと\n\nなな子「うん！　なんで？？？」\n\n\n\n\nTo be continued.\n",
+    "thread_ts": "1703549549.065589",
+    "ts": "1703549549.065589",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i3yBH",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "明かされる",
+                "type": "text"
+              },
+              {
+                "text": "苗字",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "098B9034-6E5A-4F74-8DD7-CDE86BEA2086",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "明かされる苗字",
+    "thread_ts": "1703549549.065589",
+    "ts": "1703549636.792509",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "f0rK6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "御手洗さんにせざるを得ない。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A8DD72EC-EDCC-46E5-A6D7-3D6FA61FC5F6",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "御手洗さんにせざるを得ない。",
+    "thread_ts": "1703549549.065589",
+    "ts": "1703549789.389719",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SDKHF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（全然関係んですけど）\nじぇみさんから『クリープハイプ』を教わったので\n\n【クリープハイプっぽい歌詞を書いてみた】\n\n\nねぇ、僕たちは好き合っていなかったの？\nキミは僕を好きなはずだった。\n僕はキミに惚れられて困り顔をしながらそっと抱きしめてキミを振る悪い男のはずだった。\n\nなのに、なんでなんでなんでなんで。\n\n僕はキミを好きで、キミは僕をオモチャにするの。\n\n一晩だけの身体を投げだす覚悟がなかった。\n僕の敗因。キミの勝因。\n\n「失恋が趣味なんでしょ」って顔をして、僕に失恋をさせるキミの趣味の悪さ。\n\nお願い僕の前に現れないで。\n楽しそうに笑わないで。\n\nキミに相応しい人間になりたい。\n追いかけているはずなのに、駆け足のキミに追いつけない。\n\nこのまま悲しんでいたい。\nキミから負った傷を舐めながら一生自慰で暮らしたい。\n\n遠くから眺める千手観音。\n眩しくて嗚呼いっそこのままキミを匣に閉じ込めてしまいたい。\n誰にも知られたくない僕だけの宝物。\nそっと蓋を開けて微笑んでくれたらそれでいいのに。（How）\n\n\nごめんねわたしはキミのものじゃない。\nおもっていたのと違ったの。\nドライで大人な関係だってパフォーマンスはもう飽きた。\n\nありのままの自分でかかってきなよ。\n徹底的に潰してあげる。\n\nキミの癖もつまらないプライドもゴミにして真っさらでやり直せたら良いのに。\n\nできないんでしょ。\n泣いてる自分が一番好きなんでしょ。\n死ぬまで泣いていなさいよ。\n\nわたしの世界にキミはいらない。\n\n嘘。\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E1AA63EA-EBAF-4424-B368-22F4479FFAFA",
+    "edited": {
+      "ts": "1703561692.000000",
+      "user": "U064A3MMLFM"
+    },
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "（全然関係んですけど）\nじぇみさんから『クリープハイプ』を教わったので\n\n【クリープハイプっぽい歌詞を書いてみた】\n\n\nねぇ、僕たちは好き合っていなかったの？\nキミは僕を好きなはずだった。\n僕はキミに惚れられて困り顔をしながらそっと抱きしめてキミを振る悪い男のはずだった。\n\nなのに、なんでなんでなんでなんで。\n\n僕はキミを好きで、キミは僕をオモチャにするの。\n\n一晩だけの身体を投げだす覚悟がなかった。\n僕の敗因。キミの勝因。\n\n「失恋が趣味なんでしょ」って顔をして、僕に失恋をさせるキミの趣味の悪さ。\n\nお願い僕の前に現れないで。\n楽しそうに笑わないで。\n\nキミに相応しい人間になりたい。\n追いかけているはずなのに、駆け足のキミに追いつけない。\n\nこのまま悲しんでいたい。\nキミから負った傷を舐めながら一生自慰で暮らしたい。\n\n遠くから眺める千手観音。\n眩しくて嗚呼いっそこのままキミを匣に閉じ込めてしまいたい。\n誰にも知られたくない僕だけの宝物。\nそっと蓋を開けて微笑んでくれたらそれでいいのに。（How）\n\n\nごめんねわたしはキミのものじゃない。\nおもっていたのと違ったの。\nドライで大人な関係だってパフォーマンスはもう飽きた。\n\nありのままの自分でかかってきなよ。\n徹底的に潰してあげる。\n\nキミの癖もつまらないプライドもゴミにして真っさらでやり直せたら良いのに。\n\nできないんでしょ。\n泣いてる自分が一番好きなんでしょ。\n死ぬまで泣いていなさいよ。\n\nわたしの世界にキミはいらない。\n\n嘘。\n",
+    "thread_ts": "1703549549.065589",
+    "ts": "1703550098.636359",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0eZSm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なな子さんの筆ノリノリですね( ◜௰◝و(و ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6F88DBF1-5C11-4F2C-9F29-35A6E531B45D",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "なな子さんの筆ノリノリですね( ◜௰◝و(و ",
+    "thread_ts": "1703549549.065589",
+    "ts": "1703557505.716709",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H5fHN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "クリープハイプ面白かったんですよー(*´艸`*)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BB82E34E-FE8B-402B-AFF8-407E031845D9",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "クリープハイプ面白かったんですよー(*´艸`*)",
+    "thread_ts": "1703549549.065589",
+    "ts": "1703561806.232329",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JSUk3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうして御手洗なのかが気になる(っ ॑꒳ ॑c)ﾜｸﾜｸ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5DCC92AC-716C-4D6C-B8ED-229FE3571DAB",
+    "is_locked": false,
+    "latest_reply": "1703586296.014079",
+    "reply_count": 5,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U0647CWD0DT"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "どうして御手洗なのかが気になる(っ ॑꒳ ॑c)ﾜｸﾜｸ",
+    "thread_ts": "1703552240.899379",
+    "ts": "1703552240.899379",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rmX1Z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "御手洗の理由エピソードもう書いてあるんすよー！（おこられそう）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "151A53F6-6D22-44C4-8EFC-04D08E8A4ADD",
+    "parent_user_id": "U0647CWD0DT",
+    "team": "T063VL91V0X",
+    "text": "御手洗の理由エピソードもう書いてあるんすよー！（おこられそう）",
+    "thread_ts": "1703552240.899379",
+    "ts": "1703561896.119639",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iR9vK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見つけられない御手洗の理由エピソード…（気になる）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B3E9A002-28B8-4AA6-A008-D459FB1C2675",
+    "parent_user_id": "U0647CWD0DT",
+    "team": "T063VL91V0X",
+    "text": "見つけられない御手洗の理由エピソード…（気になる）",
+    "thread_ts": "1703552240.899379",
+    "ts": "1703563179.829499",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R3me/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すまん。わてしのメモ機能の中にある！（投下してない）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DA92DAB8-318B-4ECB-8F24-DA272D60ECA3",
+    "parent_user_id": "U0647CWD0DT",
+    "team": "T063VL91V0X",
+    "text": "すまん。わてしのメモ機能の中にある！（投下してない）",
+    "thread_ts": "1703552240.899379",
+    "ts": "1703579564.075959",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "67rPF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "気になる|*･ω･)ﾁﾗｯ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E5AE5552-B7E1-4228-83C0-3E76538D84B4",
+    "parent_user_id": "U0647CWD0DT",
+    "team": "T063VL91V0X",
+    "text": "気になる|*･ω･)ﾁﾗｯ",
+    "thread_ts": "1703552240.899379",
+    "ts": "1703582250.247879",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iN+wk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あした、出せる予定です ŧ‹”ŧ‹”(●´ㅂ`●)ŧ‹”ŧ‹” ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DE276EFB-3391-46C5-A10B-55B3178DB063",
+    "parent_user_id": "U0647CWD0DT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gyoi",
+        "users": [
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "あした、出せる予定です ŧ‹”ŧ‹”(●´ㅂ`●)ŧ‹”ŧ‹” ",
+    "thread_ts": "1703552240.899379",
+    "ts": "1703586296.014079",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v+Rij",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【アイドルはうんこをしない】\n\n小学5年生のそら。教室で。\n\n男子（そらに向かって）「おい、うんこ女！」\n\nそら「？！？！え？？」　\n\n男子「お前の名前、御手洗（みたらい）だろ？おってあらい〜〜〜！！！」　\n\nそら「えっ……」　\n\n\nその日の放課後、そらの机の上にジャポニカ学習帳（虫の写真が表紙）が置いてある。名前欄に「御手洗そら」と書かれた上にうんこの落書き等がされている。\nうつむくそら。\n\n\n\n朝、そらの家。\n\n\nそらの母「そらちゃん、またお腹痛いの？もう、学校休むの３日目よ？」　\n\nそら、布団の中で\nそら「お腹痛い。学校行きたくない」　\n\nそら母「（ため息）それじゃあお留守番頼むわよ。インターフォンは出なくていいから。行ってきます」　\n\n\n布団に潜ったままのそら。時計の針が進む。\nつけっぱなしのテレビデオから「笑っていいとも」のオープニングテーマが流れる。\n芸能人たちの笑い声がそらを陰鬱な気分にさせる。\n\nテレビに映るタモリが「アイドルはうんこしないんだってな」と言ったのを聞いたそら。テレビを観る。　\n\nタモリ「アイドルはねぇうんこをしないんだってねぇ〜」\n\n客席「アハハ〜」　\n\n\nそら、力のない声で\nそら「アイドルはうんこしない……アイドルはうんこしない」　\n\n布団に戻るそら。\n\n時間が過ぎて夕方。\n\nそら、テレビデオに『懐かしの昭和アイドル特集』と手書きのラベルが貼られたビデオテープを入れる。\n\nテレビデオに山口百恵、松田聖子、中森明菜などのアイドルが映し出される。\n食い入るようにアイドルを観るそら。　\n\nそら「…アイドルは…うんこしない」　\n\n\n\n翌日、朝、学校の教室で。\n\n男子「おい！うんこ女！うんこがたまって休んでたんだろ？」などとからかう。　\n\n\nそら「ggrks」\n\n（ここ、そらちゃんが観てた昭和アイドルの名セリフか、名曲のフレーズとかを言われせたい）　\n\n\n沈黙する男子。笑顔のそら。\n\n\nそら独白　「わたし、アイドルになる！」\n\n\nTo be continued.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EC1B0FCC-976E-496D-BA86-3885E6142E15",
+    "is_locked": false,
+    "latest_reply": "1703768646.310719",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U064CLXP068",
+          "U064B2U40GM",
+          "U06478T36MT"
+        ]
+      }
+    ],
+    "reply_count": 7,
+    "reply_users": [
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【アイドルはうんこをしない】\n\n小学5年生のそら。教室で。\n\n男子（そらに向かって）「おい、うんこ女！」\n\nそら「？！？！え？？」　\n\n男子「お前の名前、御手洗（みたらい）だろ？おってあらい〜〜〜！！！」　\n\nそら「えっ……」　\n\n\nその日の放課後、そらの机の上にジャポニカ学習帳（虫の写真が表紙）が置いてある。名前欄に「御手洗そら」と書かれた上にうんこの落書き等がされている。\nうつむくそら。\n\n\n\n朝、そらの家。\n\n\nそらの母「そらちゃん、またお腹痛いの？もう、学校休むの３日目よ？」　\n\nそら、布団の中で\nそら「お腹痛い。学校行きたくない」　\n\nそら母「（ため息）それじゃあお留守番頼むわよ。インターフォンは出なくていいから。行ってきます」　\n\n\n布団に潜ったままのそら。時計の針が進む。\nつけっぱなしのテレビデオから「笑っていいとも」のオープニングテーマが流れる。\n芸能人たちの笑い声がそらを陰鬱な気分にさせる。\n\nテレビに映るタモリが「アイドルはうんこしないんだってな」と言ったのを聞いたそら。テレビを観る。　\n\nタモリ「アイドルはねぇうんこをしないんだってねぇ〜」\n\n客席「アハハ〜」　\n\n\nそら、力のない声で\nそら「アイドルはうんこしない……アイドルはうんこしない」　\n\n布団に戻るそら。\n\n時間が過ぎて夕方。\n\nそら、テレビデオに『懐かしの昭和アイドル特集』と手書きのラベルが貼られたビデオテープを入れる。\n\nテレビデオに山口百恵、松田聖子、中森明菜などのアイドルが映し出される。\n食い入るようにアイドルを観るそら。　\n\nそら「…アイドルは…うんこしない」　\n\n\n\n翌日、朝、学校の教室で。\n\n男子「おい！うんこ女！うんこがたまって休んでたんだろ？」などとからかう。　\n\n\nそら「ggrks」\n\n（ここ、そらちゃんが観てた昭和アイドルの名セリフか、名曲のフレーズとかを言われせたい）　\n\n\n沈黙する男子。笑顔のそら。\n\n\nそら独白　「わたし、アイドルになる！」\n\n\nTo be continued.",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703634667.421719",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3ab/Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイドル絡みの縛りなきゃ「根性ババ色のお前らよりマシだろ」とか「口からクソ排泄してるのはお前らだろ」とかは思いついた。\n引用すべきアイドルの名台詞俺もググります。\nあるいは、そらちゃんが憧れる(設定の)架空のアイドルの、アイドルっぽい名台詞をここで仕込んどいて後からそのアイドルの開示するのもありかなとか。設定先送りしすぎるとごちゃつくけど。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01bda825-e1e3-4a2c-affc-579437bc840d",
+    "edited": {
+      "ts": "1703758831.000000",
+      "user": "U06478T36MT"
+    },
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "アイドル絡みの縛りなきゃ「根性ババ色のお前らよりマシだろ」とか「口からクソ排泄してるのはお前らだろ」とかは思いついた。\n引用すべきアイドルの名台詞俺もググります。\nあるいは、そらちゃんが憧れる(設定の)架空のアイドルの、アイドルっぽい名台詞をここで仕込んどいて後からそのアイドルの開示するのもありかなとか。設定先送りしすぎるとごちゃつくけど。",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703758787.374319",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3KGdi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これ、テクニカル悪口のセリフなんよね。。。きっと。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FC52FD53-4CBF-4FEF-BA2F-B86EEAA990CE",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "これ、テクニカル悪口のセリフなんよね。。。きっと。。。",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703767341.897839",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WnzDK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そらちゃんのセリフはググれていないけれど、アナオちゃんの設定はググりにググりました（こっそり）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9ADEB923-8A32-4D41-AE6E-8329E68C8EE7",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "そらちゃんのセリフはググれていないけれど、アナオちゃんの設定はググりにググりました（こっそり）",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703767388.336029",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Zrbcw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "愚地独歩のほうじゃなくて本人の設定っすかね？愚地独歩のほうなら任せてね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "18f302b9-e4a3-41a7-9745-b5bb8219821f",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "愚地独歩のほうじゃなくて本人の設定っすかね？愚地独歩のほうなら任せてね",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703767865.531019",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+mw55",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと多分これはストレートな悪口。テクニカルなんていう小細工は使ってない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "505806f0-4574-4ea6-8172-de9dcdacf243",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "あと多分これはストレートな悪口。テクニカルなんていう小細工は使ってない",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703767894.136179",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wQNWW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "愚地独歩の設定まったくわからんから勘でアナオちゃんの能力をきめた。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4A4A2444-FB93-40BC-A6EE-0CAAA5F0D433",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "愚地独歩の設定まったくわからんから勘でアナオちゃんの能力をきめた。",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703768464.465379",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uBFeV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "決まったならよかった！ナイスです！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2e743b5e-ff6d-4273-af23-be299efd700a",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "決まったならよかった！ナイスです！",
+    "thread_ts": "1703634667.421719",
+    "ts": "1703768646.310719",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U06478T36MT>さんがチャンネルに参加しました",
+    "ts": "1703674816.775709",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7yVAx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アニメ化ときいて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2988893f-e10b-416a-934d-a699de10f5d5",
+    "is_locked": false,
+    "latest_reply": "1703675583.254899",
+    "reply_count": 4,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U06478T36MT"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "アニメ化ときいて",
+    "thread_ts": "1703674823.202559",
+    "ts": "1703674823.202559",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "S41af",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「バンダイに買ってもらってアニメ化する」を目標にしています。（全然冗談のマジなやつです）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EE7E559F-147D-49A0-AD81-8C02212810AD",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "「バンダイに買ってもらってアニメ化する」を目標にしています。（全然冗談のマジなやつです）",
+    "thread_ts": "1703674823.202559",
+    "ts": "1703674898.602119",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MYUaR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "読者として楽しませてもらいます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "26700f77-3ccd-4f72-af28-0422a8d27b19",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "読者として楽しませてもらいます",
+    "thread_ts": "1703674823.202559",
+    "ts": "1703675022.439879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dKKAX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プレッシャーァァァァァ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "68D5585D-E6EE-484F-8F88-4AEC7E16936A",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "プレッシャーァァァァァ",
+    "thread_ts": "1703674823.202559",
+    "ts": "1703675276.496899",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WEkAQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "各キャラクターに対する愛を感じるので気にせず突っ走ってください。「作劇上の都合」みたいなもので動かすと出かねない不自然さを、ちゃんと過去のエピソードで補いつつ、キャラクターの人間性の深みを出す手法の習熟度が窺い知れます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "31ca8ed8-6427-4b98-8aea-79f4245ba6f7",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "各キャラクターに対する愛を感じるので気にせず突っ走ってください。「作劇上の都合」みたいなもので動かすと出かねない不自然さを、ちゃんと過去のエピソードで補いつつ、キャラクターの人間性の深みを出す手法の習熟度が窺い知れます。",
+    "thread_ts": "1703674823.202559",
+    "ts": "1703675583.254899",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Al/rz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【最強の美少女アナオちゃん】　\n\n放課後の教室、窓辺で、なな子とそらが話している。\n\nそら「ねぇ、なな子ちゃん」　\n\nなな子「ん〜？」　\n\nそら「今のザリガニヨンズの私たちに足りないものってなんなのかな…？」　\n\nなな子「足りないモノｫ〜？？？」　\n\nそら「ほら、みどりちゃんがザリガニヨンズに入ってくれたから、歌の上手い子はいるでしょ。ダンスは自分で言うのもなんだけど割と自信はあるの。でも、オーディションには合格しなかった…。」　\n\nなな子「ん〜〜〜」　\n\nなな子「見た目が華やかな子かな？。足りないモノって」　\n\nそら「なな子ちゃんもそう思う？」　\n\nなな子「そう思う！」　\n\nそら「はぁ〜（ため息）可愛く生まれたかったなぁ〜」　\n\nなな子「あっ！アナオちゃんだ！ヤッホー！おつかれーー！」\n\n教室の窓から身を乗り出してアナオに手を振るなな子。聞いていないそら。　\n\nそら「でもさ、『アナタは可愛いからわたしたちのアイドルグループに入ってください』なんて図々しくて言えないよね…」　\n\n\n\nなな子「アナオちゃ〜ん！！！キミ可愛いからさー！一緒にアイドルやろうよ！」　\n\nアナオ、（居合道の部活の服装で）なな子を振り返って。最強の笑顔を見せる。　\n\n\nアナオ「はい！やりますっ♡」\n\n\nTo be continued.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C9B793B3-6404-476C-B104-4CAA91A06267",
+    "is_locked": false,
+    "latest_reply": "1703733696.037959",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "dokidoki",
+        "users": [
+          "U06478T36MT",
+          "U064CLXP068",
+          "U064B2U40GM",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "reply_count": 2,
+    "reply_users": [
+      "U0647CWD0DT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【最強の美少女アナオちゃん】　\n\n放課後の教室、窓辺で、なな子とそらが話している。\n\nそら「ねぇ、なな子ちゃん」　\n\nなな子「ん〜？」　\n\nそら「今のザリガニヨンズの私たちに足りないものってなんなのかな…？」　\n\nなな子「足りないモノｫ〜？？？」　\n\nそら「ほら、みどりちゃんがザリガニヨンズに入ってくれたから、歌の上手い子はいるでしょ。ダンスは自分で言うのもなんだけど割と自信はあるの。でも、オーディションには合格しなかった…。」　\n\nなな子「ん〜〜〜」　\n\nなな子「見た目が華やかな子かな？。足りないモノって」　\n\nそら「なな子ちゃんもそう思う？」　\n\nなな子「そう思う！」　\n\nそら「はぁ〜（ため息）可愛く生まれたかったなぁ〜」　\n\nなな子「あっ！アナオちゃんだ！ヤッホー！おつかれーー！」\n\n教室の窓から身を乗り出してアナオに手を振るなな子。聞いていないそら。　\n\nそら「でもさ、『アナタは可愛いからわたしたちのアイドルグループに入ってください』なんて図々しくて言えないよね…」　\n\n\n\nなな子「アナオちゃ〜ん！！！キミ可愛いからさー！一緒にアイドルやろうよ！」　\n\nアナオ、（居合道の部活の服装で）なな子を振り返って。最強の笑顔を見せる。　\n\n\nアナオ「はい！やりますっ♡」\n\n\nTo be continued.",
+    "thread_ts": "1703722151.668969",
+    "ts": "1703722151.668969",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g/U+g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "かわいいを自覚してるあなおちゃん…推せる。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CD5A75DE-B210-4134-9C50-DE4F91C08758",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "かわいいを自覚してるあなおちゃん…推せる。",
+    "thread_ts": "1703722151.668969",
+    "ts": "1703731894.753719",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K9gpn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオちゃんエピソードを書くためにアナオさんをググっています（こっそり）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "750BDED1-43E6-4157-A601-012623A143E3",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アナオちゃんエピソードを書くためにアナオさんをググっています（こっそり）",
+    "thread_ts": "1703722151.668969",
+    "ts": "1703733696.037959",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/@nacoclassic",
+        "author_name": "厳選クラシックちゃんねる / Classical Music Guide",
+        "fallback": "YouTube Video: 【クラシック名曲】初心者でも絶対知ってる！どこかで聴いたことのあるオペラ（+オペレッタ）10選",
+        "from_url": "https://youtu.be/89qkgrIZYy4?si=BHj97sgBSlWmS2vP",
+        "id": 1,
+        "original_url": "https://youtu.be/89qkgrIZYy4?si=BHj97sgBSlWmS2vP",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/89qkgrIZYy4/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "【クラシック名曲】初心者でも絶対知ってる！どこかで聴いたことのあるオペラ（+オペレッタ）10選",
+        "title_link": "https://youtu.be/89qkgrIZYy4?si=BHj97sgBSlWmS2vP",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/89qkgrIZYy4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"【クラシック名曲】初心者でも絶対知ってる！どこかで聴いたことのあるオペラ（+オペレッタ）10選\"></iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "ZFTbD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【誰も指摘してはならぬ】　\n\nアナオが「はい、やります！」と言ってから数日後。部活動の時間。アナオの居合道部の道場前で。　\n\nなな子「あらためて紹介するね、この子はそらちゃん、俺と同じクラスで一緒にアイドルグループをやってるの」　\n\nそら独白『び、美人！！！！』　\n\nそら（緊張しながら）「よろしくお願いします。アナオさん」　\n\n微笑むアナオ\n\nなな子「そらちゃん、アナオちゃんはね、イギリス留学から帰ってきたばかりなんだよ。色々と忙しいからあまり学校には来られてないんだ。そらちゃんがアナオちゃんを知らなかったのも多分そのせいだねー」　\n\nそら「い…イギリス留学…？！」　\n\nアナオ「はい、研究のために毎年イギリスに行くんです。実はもう飛び級で大学も卒業してしまっていて、今は大学院で　",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "strike": true
+                },
+                "text": "膵重炭酸イオン分泌のコンピュータシミュレーションによる難治性膵疾患の治療法の研究",
+                "type": "text"
+              },
+              {
+                "text": "　をさせてもらっているんです。こちらの学校には居合道部がありますから、居合道をやるために通わせてもらっているんです」　\n\nそら「才　色　兼　備ッッッッ！！！」　\n\nアナオ「やだっ♡才色兼備だなんて、そらさんたらぁ〜お上手っ♡」　\n\n\nそら（アナオの様子を伺いながら）「………！？？？」　\n\nそら「、、、、、ア、アナオちゃんて、あの、、、なんていうか、、話すと意外と……（モニョモニョ）」　\n\nなな子「？なに？どうしたのそらちゃん？？」　\n\nそら「なんていうか、話すとなんだか、おじさ（ヒュン！！！）みたぃってゆうか」　\n\nそらの顔面スレスレに野球部のボールが飛んでくる。　\n\nそら「ひっ！！！」　\n\nそらの髪がボールの勢いで舞い上がる。壁にめり込み煙を上げるボール。　\n\n野球部員１「おーーーーい大丈夫かぁ？」　\n\n野球部員２「わりーわりー、手元が狂ったみてぇだ」　\n\n野球部員１が壁にめり込んだ野球ボールを持ち去る。　\n\n（ドキドキドキドキ）動悸がおさまらないそら。　\n\nなな子「危ないなぁ、そらちゃんに当たらなくて良かったよ」　\n\nそら「う、うん」　\n\nなな子「それにしても、アナオちゃんは何ていうか、お」　\n\nなな子の頭上から植木鉢が降ってくる。　\n\nなな子「（お）ちついてるよね」　\n\n不意に姿勢を変えるなな子（アナオに近づく）　植木鉢がなな子の体スレスレを落ちる。　\n\n『ガシャン』と割れる植木鉢。地面に赤い花びらが飛び散る。　\n\nそら「ひぃっ！！！！」　\n\n場所変わって。　音楽室。（トゥーランドット「誰も寝てはならぬ」をBGMにして）　\n\nみどりの前に、なな子、そら、アナオが立っている。\nみどりの背後にはベートーベン、モーツァルト、バッハ、ブラームスなどの名作曲家の肖像画が並んで壁にかかっている。　\n\n3人の自己紹介が済んで。\n\nなな子「そういうわけだから、みどりちゃん、アナオちゃんをよろしくね！」　\n\nみどり「よろしく、アナオさん」　\n\nアナオ「よろしくお願いしまぁすっ♡」　\n\nみどり「！？、、、、アナオさん、その、なんていうか不思議な方ね、、、」　\n\nアナオ「うふっ♡そうですかぁ♡」　\n\nみどり「そう、年齢の割に物事を知りすぎているというか・・・」　\n\n「ピシッ」みどりの背後に掛けられた名作曲家の肖像画のガラスカバーにヒビが入る。　\n\nそら「ひっ！」　\n\n怯えるそら。　\n\nみどり「どこなく人生２周目の余裕があるというか・・・・」　\n\n「ピシッ」先ほどとは別の作曲家の肖像画のガラスカバーにヒビが入る。　\n\nそら「ひっ！！！」（この現象に気がついているのはそらだけ）　\n\nみどり「まるで　",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "着なれない着ぐるみを着て",
+                "type": "text"
+              },
+              {
+                "text": "い…」　\n\n「ピシッ！」　ベートーヴェンの額に狙撃ライフルで撃ち抜かれたような穴があく。　\n\nそら「ひぃぃぃぃぃ……！！！！！！！！」　\n\nそら「うわわｗっわｗｗ」（大声）　\n\nそら「あっ！ねぇ！今日はみんなこの辺でお開きにしない！？」　\n\nなな子「えっ？！なんで？」　\n\nそら「今日はーーーー、、、、、ホラ！あの！ミュージックステーションのスペシャルがやるでしょ！？AKK４７も出るんだよー！みんなテレビの前で正座待機しなきゃ！！！ね！！！！ね！？！？！」　\n\nアナオ「AKK４７！？　楽しみですねっ♡　ねっ、そらさん？」　\n\nアナオに最強の笑顔を向けられるそら。\n\n\nそら「あばばばばばばばば」\n\n\n\nTo be continued.\n\n\n\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/89qkgrIZYy4?si=BHj97sgBSlWmS2vP"
+              },
+              {
+                "text": "\n\n\n「誰も寝てはならぬ」参考。\nチャプターあります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "151398bc-ddf2-44b1-b38c-281452cd59e2",
+    "is_locked": false,
+    "latest_reply": "1703897873.213629",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "kusa",
+        "users": [
+          "U064CLXP068",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "reply_count": 5,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U0647CWD0DT"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【誰も指摘してはならぬ】　\n\nアナオが「はい、やります！」と言ってから数日後。部活動の時間。アナオの居合道部の道場前で。　\n\nなな子「あらためて紹介するね、この子はそらちゃん、俺と同じクラスで一緒にアイドルグループをやってるの」　\n\nそら独白『び、美人！！！！』　\n\nそら（緊張しながら）「よろしくお願いします。アナオさん」　\n\n微笑むアナオ\n\nなな子「そらちゃん、アナオちゃんはね、イギリス留学から帰ってきたばかりなんだよ。色々と忙しいからあまり学校には来られてないんだ。そらちゃんがアナオちゃんを知らなかったのも多分そのせいだねー」　\n\nそら「い…イギリス留学…？！」　\n\nアナオ「はい、研究のために毎年イギリスに行くんです。実はもう飛び級で大学も卒業してしまっていて、今は大学院で　~膵重炭酸イオン分泌のコンピュータシミュレーションによる難治性膵疾患の治療法の研究~　をさせてもらっているんです。こちらの学校には居合道部がありますから、居合道をやるために通わせてもらっているんです」　\n\nそら「才　色　兼　備ッッッッ！！！」　\n\nアナオ「やだっ♡才色兼備だなんて、そらさんたらぁ〜お上手っ♡」　\n\n\nそら（アナオの様子を伺いながら）「………！？？？」　\n\nそら「、、、、、ア、アナオちゃんて、あの、、、なんていうか、、話すと意外と……（モニョモニョ）」　\n\nなな子「？なに？どうしたのそらちゃん？？」　\n\nそら「なんていうか、話すとなんだか、おじさ（ヒュン！！！）みたぃってゆうか」　\n\nそらの顔面スレスレに野球部のボールが飛んでくる。　\n\nそら「ひっ！！！」　\n\nそらの髪がボールの勢いで舞い上がる。壁にめり込み煙を上げるボール。　\n\n野球部員１「おーーーーい大丈夫かぁ？」　\n\n野球部員２「わりーわりー、手元が狂ったみてぇだ」　\n\n野球部員１が壁にめり込んだ野球ボールを持ち去る。　\n\n（ドキドキドキドキ）動悸がおさまらないそら。　\n\nなな子「危ないなぁ、そらちゃんに当たらなくて良かったよ」　\n\nそら「う、うん」　\n\nなな子「それにしても、アナオちゃんは何ていうか、お」　\n\nなな子の頭上から植木鉢が降ってくる。　\n\nなな子「（お）ちついてるよね」　\n\n不意に姿勢を変えるなな子（アナオに近づく）　植木鉢がなな子の体スレスレを落ちる。　\n\n『ガシャン』と割れる植木鉢。地面に赤い花びらが飛び散る。　\n\nそら「ひぃっ！！！！」　\n\n場所変わって。　音楽室。（トゥーランドット「誰も寝てはならぬ」をBGMにして）　\n\nみどりの前に、なな子、そら、アナオが立っている。\nみどりの背後にはベートーベン、モーツァルト、バッハ、ブラームスなどの名作曲家の肖像画が並んで壁にかかっている。　\n\n3人の自己紹介が済んで。\n\nなな子「そういうわけだから、みどりちゃん、アナオちゃんをよろしくね！」　\n\nみどり「よろしく、アナオさん」　\n\nアナオ「よろしくお願いしまぁすっ♡」　\n\nみどり「！？、、、、アナオさん、その、なんていうか不思議な方ね、、、」　\n\nアナオ「うふっ♡そうですかぁ♡」　\n\nみどり「そう、年齢の割に物事を知りすぎているというか・・・」　\n\n「ピシッ」みどりの背後に掛けられた名作曲家の肖像画のガラスカバーにヒビが入る。　\n\nそら「ひっ！」　\n\n怯えるそら。　\n\nみどり「どこなく人生２周目の余裕があるというか・・・・」　\n\n「ピシッ」先ほどとは別の作曲家の肖像画のガラスカバーにヒビが入る。　\n\nそら「ひっ！！！」（この現象に気がついているのはそらだけ）　\n\nみどり「まるで　*着なれない着ぐるみを着て*い…」　\n\n「ピシッ！」　ベートーヴェンの額に狙撃ライフルで撃ち抜かれたような穴があく。　\n\nそら「ひぃぃぃぃぃ……！！！！！！！！」　\n\nそら「うわわｗっわｗｗ」（大声）　\n\nそら「あっ！ねぇ！今日はみんなこの辺でお開きにしない！？」　\n\nなな子「えっ？！なんで？」　\n\nそら「今日はーーーー、、、、、ホラ！あの！ミュージックステーションのスペシャルがやるでしょ！？AKK４７も出るんだよー！みんなテレビの前で正座待機しなきゃ！！！ね！！！！ね！？！？！」　\n\nアナオ「AKK４７！？　楽しみですねっ♡　ねっ、そらさん？」　\n\nアナオに最強の笑顔を向けられるそら。\n\n\nそら「あばばばばばばばば」\n\n\n\nTo be continued.\n\n\n\n<https://youtu.be/89qkgrIZYy4?si=BHj97sgBSlWmS2vP>\n\n\n「誰も寝てはならぬ」参考。\nチャプターあります。",
+    "thread_ts": "1703852724.858229",
+    "ts": "1703852724.858229",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fG5P5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオちゃんがバ美肉おじさんだと匂わせるような発言をする者は抹殺される世界にしました。（でも、気が付いているのはそらちゃんだけという。。。）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bc36a5f9-62d9-4856-a5d4-7bd72c2d712c",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "アナオちゃんがバ美肉おじさんだと匂わせるような発言をする者は抹殺される世界にしました。（でも、気が付いているのはそらちゃんだけという。。。）",
+    "thread_ts": "1703852724.858229",
+    "ts": "1703852836.887659",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tzojg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そんなアナオちゃんでも推します。べ、別に命のきけ…ゴホゴホッ、かわいいは正義って昔から言うもんね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B834E0D6-DC38-47CD-BA15-C84FD60A3B55",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "そんなアナオちゃんでも推します。べ、別に命のきけ…ゴホゴホッ、かわいいは正義って昔から言うもんね！",
+    "thread_ts": "1703852724.858229",
+    "ts": "1703853846.814949",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9YpFt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まさかのアナオちゃん推しそらちゃん、、、！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8EBAA03A-12D8-4B21-8761-56442AABC8E8",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "まさかのアナオちゃん推しそらちゃん、、、！！！",
+    "thread_ts": "1703852724.858229",
+    "ts": "1703855232.014459",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Fs2mD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（ちなみに）\nBGMにしたトゥーランドット「誰も寝てはならぬ」というオペラですが、\n\nトゥーランドット姫が「あの男の名前を突き止めろ！名前がわかるまで誰も寝てはならぬ」と国中に命じたところです（ざっくり言えば）\n\n正体を見破るのかどうなのかという味わいをお楽しみいただきたく。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "88FFCF52-9EE1-4DC7-9FD9-315952570857",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "（ちなみに）\nBGMにしたトゥーランドット「誰も寝てはならぬ」というオペラですが、\n\nトゥーランドット姫が「あの男の名前を突き止めろ！名前がわかるまで誰も寝てはならぬ」と国中に命じたところです（ざっくり言えば）\n\n正体を見破るのかどうなのかという味わいをお楽しみいただきたく。",
+    "thread_ts": "1703852724.858229",
+    "ts": "1703855476.507619",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BhtGL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いつも思うけど、ななこさん博識ですよね。動画も分かりやすかったー！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A8197885-2AE0-42F7-8619-993BD2A89DE9",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "see_no_evil",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "いつも思うけど、ななこさん博識ですよね。動画も分かりやすかったー！",
+    "thread_ts": "1703852724.858229",
+    "ts": "1703897873.213629",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064DQE82NP>さんがチャンネルに参加しました",
+    "ts": "1703900660.768459",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Betvx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "一通り読ませていただきました…！うーん、キャラ表とか相関図がほしい！！！！！！作りたいです！！！！！！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8c9a96f7-ae2e-49af-a9c8-1ab3bb812145",
+    "team": "T063VL91V0X",
+    "text": "一通り読ませていただきました…！うーん、キャラ表とか相関図がほしい！！！！！！作りたいです！！！！！！！！",
+    "ts": "1703912261.475209",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ctfS/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あと、私もアナオちゃん可愛くて推せます……美少女いいよね(バ美肉って何それ美味しいのかな)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9578929-7426-4def-bfb5-28301a51783b",
+    "team": "T063VL91V0X",
+    "text": "あと、私もアナオちゃん可愛くて推せます……美少女いいよね(バ美肉って何それ美味しいのかな)",
+    "ts": "1703912293.534049",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8yo1i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あとはそれぞれがアイドルを目指すきっかけとかも欲しいな〜\n個人的には読んでてμ'sの一年生組を思い浮かべました……和気あいあいしてて可愛いね",
+                "type": "text"
+              },
+              {
+                "name": "face_holding_back_tears",
+                "type": "emoji",
+                "unicode": "1f979"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3b0c5661-106f-4e90-998b-9572831cc929",
+    "team": "T063VL91V0X",
+    "text": "あとはそれぞれがアイドルを目指すきっかけとかも欲しいな〜\n個人的には読んでてμ'sの一年生組を思い浮かべました……和気あいあいしてて可愛いね:face_holding_back_tears:",
+    "ts": "1703912348.234489",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "apwhJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "キャラ表？！（なにそれ、、、！！！無知of無知） ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064DQE82NP"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A62C666E-5573-4B36-9CF4-0E8CD2EA949C",
+    "team": "T063VL91V0X",
+    "text": "キャラ表？！（なにそれ、、、！！！無知of無知） <@U064DQE82NP> ",
+    "ts": "1703997382.728799",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uf83p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "相関図は欲しいですよねー\n\nアナオ→そら→なな子→みどり→？みたいな感じを想定して今のところは書いています〜 ",
+                "type": "text"
+              },
+              {
+                "name": "face_holding_back_tears",
+                "type": "emoji",
+                "unicode": "1f979"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "64484823-7F2D-414A-986D-4CEA634688E7",
+    "team": "T063VL91V0X",
+    "text": "相関図は欲しいですよねー\n\nアナオ→そら→なな子→みどり→？みたいな感じを想定して今のところは書いています〜 :face_holding_back_tears: ",
+    "ts": "1703997469.839469",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ksequ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイドルを目指すキッカケも必要ですよね、、、！\n\n今後、そらちゃん以外のメンバーが「なんとなくアイドル目指してる」みたいになってるので、ここをちゃんと書けたらいいなーとおもっていますー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8AAE0D2B-62B5-4424-A968-961E58414F1E",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "激推し",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アイドルを目指すキッカケも必要ですよね、、、！\n\n今後、そらちゃん以外のメンバーが「なんとなくアイドル目指してる」みたいになってるので、ここをちゃんと書けたらいいなーとおもっていますー",
+    "ts": "1703997582.659879",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WT5A5",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U064A3MMLFM"
+              },
+              {
+                "text": "\nキャラ表というかキャラシ(キャラクターシート)の方が伝わりやすいですかね…？\n要はプロフィール帳(古い)みたいな感じで個々のプロフが分かるようにしたいなーと思いまして…内部で持っておくのと、外に出す用で作りたいかなーと思ってます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74dbdc3c-c21c-4c30-9024-1ff7de73694f",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "トゥンク",
+        "users": [
+          "U064B2U40GM",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "<@U064A3MMLFM>\nキャラ表というかキャラシ(キャラクターシート)の方が伝わりやすいですかね…？\n要はプロフィール帳(古い)みたいな感じで個々のプロフが分かるようにしたいなーと思いまして…内部で持っておくのと、外に出す用で作りたいかなーと思ってます。",
+    "ts": "1704001170.744029",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cf3Xz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今後の展開もwktkしながら見守っていきます…！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6292acd2-6e2e-4281-99d2-37b8d4084159",
+    "team": "T063VL91V0X",
+    "text": "今後の展開もwktkしながら見守っていきます…！",
+    "ts": "1704001250.487039",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tN+Rz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "317C25AC-92D9-4824-8DDE-DFA33BEFD560",
+    "is_locked": false,
+    "latest_reply": "1704090286.479199",
+    "reply_count": 5,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U06478T36MT"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704004101.266899",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FGtDw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【キャラクターまとめ】\n\nアイドルというものは、自分の理想でありつつ、どこか自分を重ねられる部分があるといいのではないかという「基本」を思いつきました。\n\nそこで、どのキャラクターがどのような理想像なのか一覧表を作ってみます\n\nなな子　←　人を嫌わない、引かない、優しい、平等である、茶目っ気がある、好奇心で寄ってきてもらえる、いつでもどこでも声をかけてもらえる、自分が怒っても後から平気で仲良くしてくる、鈍感。\n\nそら　← 　泥水を啜った過去がある。そのため「諦める・開き直る」ができるようになった。見た目は清楚７割ギャル３割。人の言うことは素直に聞く。感謝の気持ちを表す。駆け引きをしない。ノリがいい。\n\nみどり　←　理想通りの、完璧な、どこに連れて行っても恥ずかしくない、失敗しない、笑われない。挫折を乗り越えたことがあるが苦労を見せない。\n\nアナオ　←　自分で書いておいてなんなんですけど、なんでアナオちゃんが推されてるのかわかんねぇっす（他キャラに比べて設定がしっかりしてるから？）\n\nクラウザー　←　（庵野ちゃんはクラウザーさんになります。）軽口を叩く、時々甘える、露骨に嫉妬する、わかりやすい感情表現、「見捨てないで」と言いうくらいには依存体質。\n\n\nと言う感じで。\nこれ、ザリガニの周辺で観測される男性の好みを、キャラに嵌めていっただけなんすけどエグいですね。\n多分、女子のファン層も想定した方がいい。特にクラウザーさんの設定はどこかでフォローしたい。\n\nそれか、いったんこの設定でキャラクター動かしていって、ストーリー展開していくに連れてこの設定を脱いでもらうとかはいいかもしれない。\nそらちゃんの泥水エピソードはこれからですし。\nみどりちゃんもいったんコレで動いてもらって、後からざっくり裏切っていきたい。「そんな女いるわけねーだろクソが」の気持ちをここに。\nキャラの成長と共にファンも成長していったらいいのにね。\n\n感想、ご意見、ご自由にどうぞ〜〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c63f0a7f-12d9-4016-8e9f-f5dff3144a29",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ありがちゅ",
+        "users": [
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "激推し",
+        "users": [
+          "U064DQE82NP",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "【キャラクターまとめ】\n\nアイドルというものは、自分の理想でありつつ、どこか自分を重ねられる部分があるといいのではないかという「基本」を思いつきました。\n\nそこで、どのキャラクターがどのような理想像なのか一覧表を作ってみます\n\nなな子　←　人を嫌わない、引かない、優しい、平等である、茶目っ気がある、好奇心で寄ってきてもらえる、いつでもどこでも声をかけてもらえる、自分が怒っても後から平気で仲良くしてくる、鈍感。\n\nそら　← 　泥水を啜った過去がある。そのため「諦める・開き直る」ができるようになった。見た目は清楚７割ギャル３割。人の言うことは素直に聞く。感謝の気持ちを表す。駆け引きをしない。ノリがいい。\n\nみどり　←　理想通りの、完璧な、どこに連れて行っても恥ずかしくない、失敗しない、笑われない。挫折を乗り越えたことがあるが苦労を見せない。\n\nアナオ　←　自分で書いておいてなんなんですけど、なんでアナオちゃんが推されてるのかわかんねぇっす（他キャラに比べて設定がしっかりしてるから？）\n\nクラウザー　←　（庵野ちゃんはクラウザーさんになります。）軽口を叩く、時々甘える、露骨に嫉妬する、わかりやすい感情表現、「見捨てないで」と言いうくらいには依存体質。\n\n\nと言う感じで。\nこれ、ザリガニの周辺で観測される男性の好みを、キャラに嵌めていっただけなんすけどエグいですね。\n多分、女子のファン層も想定した方がいい。特にクラウザーさんの設定はどこかでフォローしたい。\n\nそれか、いったんこの設定でキャラクター動かしていって、ストーリー展開していくに連れてこの設定を脱いでもらうとかはいいかもしれない。\nそらちゃんの泥水エピソードはこれからですし。\nみどりちゃんもいったんコレで動いてもらって、後からざっくり裏切っていきたい。「そんな女いるわけねーだろクソが」の気持ちをここに。\nキャラの成長と共にファンも成長していったらいいのにね。\n\n感想、ご意見、ご自由にどうぞ〜〜",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704032693.837939",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KEHbs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全然可愛くないキャラ設定はできました。「ひぐらしのなく頃に」みたいなんになりそう。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dbf5827b-df2c-454a-98e9-e64a59342625",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "tN+Rz",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "317C25AC-92D9-4824-8DDE-DFA33BEFD560",
+      "is_locked": false,
+      "latest_reply": "1704090286.479199",
+      "reply_count": 5,
+      "reply_users": [
+        "U064A3MMLFM",
+        "U06478T36MT"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+      "thread_ts": "1704004101.266899",
+      "ts": "1704004101.266899",
+      "type": "message",
+      "user": "U064A3MMLFM"
+    },
+    "subtype": "thread_broadcast",
+    "text": "全然可愛くないキャラ設定はできました。「ひぐらしのなく頃に」みたいなんになりそう。。。",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704032863.466229",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0/gdZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "各キャラで統一した項目でまとめると面白そう。\n①誕生日、②好きなものやこと、③嫌いなものやこと、④兄弟姉妹の有無や育った家庭について\nとか？\n②と③はセットだけど、とくに③からは苦手克服エピソードなり、嫌いになったきっかけなりのエピソードの素材になりそう(ドラえもんでいうネズミみたいな)。②についても、座右の銘とかにすると信念みたいなものが窺知れそう。\n④は、姉御肌キャラとか、末っ子キャラとか、あるいは一人っ子だから兄弟姉妹がほしいと思ってるとかに繋げられそう。あとは「お嬢様」キャラがいたほうが旅行とかのお金のかかることを「うちのパパの自家用ジェットで」的な処理できるし便利？\n\nその他項目として挙げるべき何かがあるかもしれんし、今挙げたのも使えるかどうかわかりませんが、何か言うこと自体が大事やと思うんで言いました。おわり。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8652826-15c9-4881-9418-6f9dd531c384",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "それな",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "各キャラで統一した項目でまとめると面白そう。\n①誕生日、②好きなものやこと、③嫌いなものやこと、④兄弟姉妹の有無や育った家庭について\nとか？\n②と③はセットだけど、とくに③からは苦手克服エピソードなり、嫌いになったきっかけなりのエピソードの素材になりそう(ドラえもんでいうネズミみたいな)。②についても、座右の銘とかにすると信念みたいなものが窺知れそう。\n④は、姉御肌キャラとか、末っ子キャラとか、あるいは一人っ子だから兄弟姉妹がほしいと思ってるとかに繋げられそう。あとは「お嬢様」キャラがいたほうが旅行とかのお金のかかることを「うちのパパの自家用ジェットで」的な処理できるし便利？\n\nその他項目として挙げるべき何かがあるかもしれんし、今挙げたのも使えるかどうかわかりませんが、何か言うこと自体が大事やと思うんで言いました。おわり。",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704088666.911769",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qmgt3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おわってなかった。\n上は個別のキャラクターの独立した要素だけど、「相関図」ってことなら、それぞれのキャラにとって、相手の好きなところと嫌いなところとかもまとめときたいすね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "808ed111-199a-4549-8428-bdde00225f01",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "おわってなかった。\n上は個別のキャラクターの独立した要素だけど、「相関図」ってことなら、それぞれのキャラにとって、相手の好きなところと嫌いなところとかもまとめときたいすね。",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704088758.693919",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "KARIN [カリン] - 大人女子をカワイく。: 【MBTI診断】各性格タイプの相性を仕事・友情・恋愛別に一覧で解説｜16パーソナリティ - KARIN [カリン]",
+        "from_url": "https://karin.app/posts/11061",
+        "id": 1,
+        "original_url": "https://karin.app/posts/11061",
+        "service_icon": "https://karin.app/wp-content/uploads/2022/01/cropped-238893776_949828818910087_3516563528545734499_n-180x180.jpg",
+        "service_name": "KARIN [カリン] - 大人女子をカワイく。",
+        "text": "MBTI診断が気になる！そもそも診断すると何が分かるの？自分の性格が深く知れたら嬉しいな！ 今日は、MBTI診 MBTI診断とは、自己分析や将来のキャリアを考えるときに役立つ性格診断ツールです。今回は、MBTI診断のやり方や16パーソナリティの性格や特徴・適職・相性について分かりやすく解説していきますので、ぜひ参考にしてください。",
+        "thumb_height": 630,
+        "thumb_url": "https://karin.app/wp-content/uploads/2050/12/メディア-2026-64.jpg",
+        "thumb_width": 1200,
+        "title": "【MBTI診断】各性格タイプの相性を仕事・友情・恋愛別に一覧で解説｜16パーソナリティ - KARIN [カリン]",
+        "title_link": "https://karin.app/posts/11061",
+        "ts": 1694723040
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "KuoQd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "相性については",
+                "type": "text"
+              },
+              {
+                "text": "この占いの相性",
+                "type": "link",
+                "url": "https://karin.app/posts/11061"
+              },
+              {
+                "text": " とか参考にしてもいいかも？流行ってるみたいっす。漫画のキャラとかについても分類に当てはめるのが進んでる。\n性格間の相性については、個別の性格同士で検索(例えば「INTP ENFJ 相性」とかって)したほうが早いけど……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "354a785b-bbe6-4723-8ad3-c8756ce610bd",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "相性については<https://karin.app/posts/11061|この占いの相性> とか参考にしてもいいかも？流行ってるみたいっす。漫画のキャラとかについても分類に当てはめるのが進んでる。\n性格間の相性については、個別の性格同士で検索(例えば「INTP ENFJ 相性」とかって)したほうが早いけど……",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704090286.479199",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tN+Rz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "317C25AC-92D9-4824-8DDE-DFA33BEFD560",
+    "is_locked": false,
+    "latest_reply": "1704090286.479199",
+    "reply_count": 5,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U06478T36MT"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704004101.266899",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FGtDw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【キャラクターまとめ】\n\nアイドルというものは、自分の理想でありつつ、どこか自分を重ねられる部分があるといいのではないかという「基本」を思いつきました。\n\nそこで、どのキャラクターがどのような理想像なのか一覧表を作ってみます\n\nなな子　←　人を嫌わない、引かない、優しい、平等である、茶目っ気がある、好奇心で寄ってきてもらえる、いつでもどこでも声をかけてもらえる、自分が怒っても後から平気で仲良くしてくる、鈍感。\n\nそら　← 　泥水を啜った過去がある。そのため「諦める・開き直る」ができるようになった。見た目は清楚７割ギャル３割。人の言うことは素直に聞く。感謝の気持ちを表す。駆け引きをしない。ノリがいい。\n\nみどり　←　理想通りの、完璧な、どこに連れて行っても恥ずかしくない、失敗しない、笑われない。挫折を乗り越えたことがあるが苦労を見せない。\n\nアナオ　←　自分で書いておいてなんなんですけど、なんでアナオちゃんが推されてるのかわかんねぇっす（他キャラに比べて設定がしっかりしてるから？）\n\nクラウザー　←　（庵野ちゃんはクラウザーさんになります。）軽口を叩く、時々甘える、露骨に嫉妬する、わかりやすい感情表現、「見捨てないで」と言いうくらいには依存体質。\n\n\nと言う感じで。\nこれ、ザリガニの周辺で観測される男性の好みを、キャラに嵌めていっただけなんすけどエグいですね。\n多分、女子のファン層も想定した方がいい。特にクラウザーさんの設定はどこかでフォローしたい。\n\nそれか、いったんこの設定でキャラクター動かしていって、ストーリー展開していくに連れてこの設定を脱いでもらうとかはいいかもしれない。\nそらちゃんの泥水エピソードはこれからですし。\nみどりちゃんもいったんコレで動いてもらって、後からざっくり裏切っていきたい。「そんな女いるわけねーだろクソが」の気持ちをここに。\nキャラの成長と共にファンも成長していったらいいのにね。\n\n感想、ご意見、ご自由にどうぞ〜〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c63f0a7f-12d9-4016-8e9f-f5dff3144a29",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ありがちゅ",
+        "users": [
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "激推し",
+        "users": [
+          "U064DQE82NP",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "【キャラクターまとめ】\n\nアイドルというものは、自分の理想でありつつ、どこか自分を重ねられる部分があるといいのではないかという「基本」を思いつきました。\n\nそこで、どのキャラクターがどのような理想像なのか一覧表を作ってみます\n\nなな子　←　人を嫌わない、引かない、優しい、平等である、茶目っ気がある、好奇心で寄ってきてもらえる、いつでもどこでも声をかけてもらえる、自分が怒っても後から平気で仲良くしてくる、鈍感。\n\nそら　← 　泥水を啜った過去がある。そのため「諦める・開き直る」ができるようになった。見た目は清楚７割ギャル３割。人の言うことは素直に聞く。感謝の気持ちを表す。駆け引きをしない。ノリがいい。\n\nみどり　←　理想通りの、完璧な、どこに連れて行っても恥ずかしくない、失敗しない、笑われない。挫折を乗り越えたことがあるが苦労を見せない。\n\nアナオ　←　自分で書いておいてなんなんですけど、なんでアナオちゃんが推されてるのかわかんねぇっす（他キャラに比べて設定がしっかりしてるから？）\n\nクラウザー　←　（庵野ちゃんはクラウザーさんになります。）軽口を叩く、時々甘える、露骨に嫉妬する、わかりやすい感情表現、「見捨てないで」と言いうくらいには依存体質。\n\n\nと言う感じで。\nこれ、ザリガニの周辺で観測される男性の好みを、キャラに嵌めていっただけなんすけどエグいですね。\n多分、女子のファン層も想定した方がいい。特にクラウザーさんの設定はどこかでフォローしたい。\n\nそれか、いったんこの設定でキャラクター動かしていって、ストーリー展開していくに連れてこの設定を脱いでもらうとかはいいかもしれない。\nそらちゃんの泥水エピソードはこれからですし。\nみどりちゃんもいったんコレで動いてもらって、後からざっくり裏切っていきたい。「そんな女いるわけねーだろクソが」の気持ちをここに。\nキャラの成長と共にファンも成長していったらいいのにね。\n\n感想、ご意見、ご自由にどうぞ〜〜",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704032693.837939",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KEHbs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "全然可愛くないキャラ設定はできました。「ひぐらしのなく頃に」みたいなんになりそう。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dbf5827b-df2c-454a-98e9-e64a59342625",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "tN+Rz",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "317C25AC-92D9-4824-8DDE-DFA33BEFD560",
+      "is_locked": false,
+      "latest_reply": "1704090286.479199",
+      "reply_count": 5,
+      "reply_users": [
+        "U064A3MMLFM",
+        "U06478T36MT"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "キャラクターのプロフィール帳、、、！！！！なにそれ可愛い！！！かわいいやつだ！！！可愛い奴ゥゥゥゥ！！！！",
+      "thread_ts": "1704004101.266899",
+      "ts": "1704004101.266899",
+      "type": "message",
+      "user": "U064A3MMLFM"
+    },
+    "subtype": "thread_broadcast",
+    "text": "全然可愛くないキャラ設定はできました。「ひぐらしのなく頃に」みたいなんになりそう。。。",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704032863.466229",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "0/gdZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "各キャラで統一した項目でまとめると面白そう。\n①誕生日、②好きなものやこと、③嫌いなものやこと、④兄弟姉妹の有無や育った家庭について\nとか？\n②と③はセットだけど、とくに③からは苦手克服エピソードなり、嫌いになったきっかけなりのエピソードの素材になりそう(ドラえもんでいうネズミみたいな)。②についても、座右の銘とかにすると信念みたいなものが窺知れそう。\n④は、姉御肌キャラとか、末っ子キャラとか、あるいは一人っ子だから兄弟姉妹がほしいと思ってるとかに繋げられそう。あとは「お嬢様」キャラがいたほうが旅行とかのお金のかかることを「うちのパパの自家用ジェットで」的な処理できるし便利？\n\nその他項目として挙げるべき何かがあるかもしれんし、今挙げたのも使えるかどうかわかりませんが、何か言うこと自体が大事やと思うんで言いました。おわり。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f8652826-15c9-4881-9418-6f9dd531c384",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "それな",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "各キャラで統一した項目でまとめると面白そう。\n①誕生日、②好きなものやこと、③嫌いなものやこと、④兄弟姉妹の有無や育った家庭について\nとか？\n②と③はセットだけど、とくに③からは苦手克服エピソードなり、嫌いになったきっかけなりのエピソードの素材になりそう(ドラえもんでいうネズミみたいな)。②についても、座右の銘とかにすると信念みたいなものが窺知れそう。\n④は、姉御肌キャラとか、末っ子キャラとか、あるいは一人っ子だから兄弟姉妹がほしいと思ってるとかに繋げられそう。あとは「お嬢様」キャラがいたほうが旅行とかのお金のかかることを「うちのパパの自家用ジェットで」的な処理できるし便利？\n\nその他項目として挙げるべき何かがあるかもしれんし、今挙げたのも使えるかどうかわかりませんが、何か言うこと自体が大事やと思うんで言いました。おわり。",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704088666.911769",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Qmgt3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おわってなかった。\n上は個別のキャラクターの独立した要素だけど、「相関図」ってことなら、それぞれのキャラにとって、相手の好きなところと嫌いなところとかもまとめときたいすね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "808ed111-199a-4549-8428-bdde00225f01",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "おわってなかった。\n上は個別のキャラクターの独立した要素だけど、「相関図」ってことなら、それぞれのキャラにとって、相手の好きなところと嫌いなところとかもまとめときたいすね。",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704088758.693919",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "KARIN [カリン] - 大人女子をカワイく。: 【MBTI診断】各性格タイプの相性を仕事・友情・恋愛別に一覧で解説｜16パーソナリティ - KARIN [カリン]",
+        "from_url": "https://karin.app/posts/11061",
+        "id": 1,
+        "original_url": "https://karin.app/posts/11061",
+        "service_icon": "https://karin.app/wp-content/uploads/2022/01/cropped-238893776_949828818910087_3516563528545734499_n-180x180.jpg",
+        "service_name": "KARIN [カリン] - 大人女子をカワイく。",
+        "text": "MBTI診断が気になる！そもそも診断すると何が分かるの？自分の性格が深く知れたら嬉しいな！ 今日は、MBTI診 MBTI診断とは、自己分析や将来のキャリアを考えるときに役立つ性格診断ツールです。今回は、MBTI診断のやり方や16パーソナリティの性格や特徴・適職・相性について分かりやすく解説していきますので、ぜひ参考にしてください。",
+        "thumb_height": 630,
+        "thumb_url": "https://karin.app/wp-content/uploads/2050/12/メディア-2026-64.jpg",
+        "thumb_width": 1200,
+        "title": "【MBTI診断】各性格タイプの相性を仕事・友情・恋愛別に一覧で解説｜16パーソナリティ - KARIN [カリン]",
+        "title_link": "https://karin.app/posts/11061",
+        "ts": 1694723040
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "KuoQd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "相性については",
+                "type": "text"
+              },
+              {
+                "text": "この占いの相性",
+                "type": "link",
+                "url": "https://karin.app/posts/11061"
+              },
+              {
+                "text": " とか参考にしてもいいかも？流行ってるみたいっす。漫画のキャラとかについても分類に当てはめるのが進んでる。\n性格間の相性については、個別の性格同士で検索(例えば「INTP ENFJ 相性」とかって)したほうが早いけど……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "354a785b-bbe6-4723-8ad3-c8756ce610bd",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "相性については<https://karin.app/posts/11061|この占いの相性> とか参考にしてもいいかも？流行ってるみたいっす。漫画のキャラとかについても分類に当てはめるのが進んでる。\n性格間の相性については、個別の性格同士で検索(例えば「INTP ENFJ 相性」とかって)したほうが早いけど……",
+    "thread_ts": "1704004101.266899",
+    "ts": "1704090286.479199",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PZkjK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【そら、アイドルになる】\n\n体育の授業中。なな子、そら、体操着で並んで体育館に座り込む。（生理で見学組）\n\nバトミントンをする生徒たち。\n\nなな子「補欠合格ゥゥゥゥ？！」　\n\nそら「…うん」　\n\nなな子「受かってるのか落ちてるのかわからないじゃないか」　\n\nそら「補欠…で…合格だから…その…」　\n\nなな子「？」　\n\nそら「その…つまり、合格者の誰かが辞退したら繰り上がりで私が合格するかもしれないの」　\n\nなな子「ふぅん、それで、本当に合格するかどうかはいつわかるの？」　\n\nそら「今度、冬元タカオの事務所に行くの…たぶん、そこでわかるよ」　\n\nなな子「へーーー！これでそらちゃんのアイドルデビューが決まるかもしれないんだ！応援するよ！頑張って！」　\n\nそら「…なな子ちゃん…ありがとう！私っわたしっがんばる！！」　\n\nなな子「うん！」　\n\n\n\n冬元タカオ事務所。　\n\nタカオ「君がそらさんだね」　\n\nそら「はい！御手洗そらと申します！ほほほほ、、、、本日はよろしくお願いします！！（ぺこり）」　\n\nタカオ「はっはっはっ（笑）そらさんは良い子ですね。デビューしましょう。きっと日本一のアイドルになれますよ」　\n\nそら（お辞儀をして頭を下げたままで）独白（日本一のアイドルになる…）　\n\nタカオ「よろしく、そらさん」　\n\nタカオがそらへ握手をしようと手を差し出す。　\n\nそら「はい！よろしくお願いします！」　そら満面の笑みで。\n\n\n\n\nTo be continued.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74A5865C-62F1-433D-8D6F-C1045BC5C6C0",
+    "is_locked": false,
+    "latest_reply": "1704327705.411399",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "gekiatsu",
+        "users": [
+          "U064CLXP068",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【そら、アイドルになる】\n\n体育の授業中。なな子、そら、体操着で並んで体育館に座り込む。（生理で見学組）\n\nバトミントンをする生徒たち。\n\nなな子「補欠合格ゥゥゥゥ？！」　\n\nそら「…うん」　\n\nなな子「受かってるのか落ちてるのかわからないじゃないか」　\n\nそら「補欠…で…合格だから…その…」　\n\nなな子「？」　\n\nそら「その…つまり、合格者の誰かが辞退したら繰り上がりで私が合格するかもしれないの」　\n\nなな子「ふぅん、それで、本当に合格するかどうかはいつわかるの？」　\n\nそら「今度、冬元タカオの事務所に行くの…たぶん、そこでわかるよ」　\n\nなな子「へーーー！これでそらちゃんのアイドルデビューが決まるかもしれないんだ！応援するよ！頑張って！」　\n\nそら「…なな子ちゃん…ありがとう！私っわたしっがんばる！！」　\n\nなな子「うん！」　\n\n\n\n冬元タカオ事務所。　\n\nタカオ「君がそらさんだね」　\n\nそら「はい！御手洗そらと申します！ほほほほ、、、、本日はよろしくお願いします！！（ぺこり）」　\n\nタカオ「はっはっはっ（笑）そらさんは良い子ですね。デビューしましょう。きっと日本一のアイドルになれますよ」　\n\nそら（お辞儀をして頭を下げたままで）独白（日本一のアイドルになる…）　\n\nタカオ「よろしく、そらさん」　\n\nタカオがそらへ握手をしようと手を差し出す。　\n\nそら「はい！よろしくお願いします！」　そら満面の笑みで。\n\n\n\n\nTo be continued.",
+    "thread_ts": "1704327681.401149",
+    "ts": "1704327681.401149",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "i1Pz7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そらちゃん、アイドルデビューです！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56194918-EB0F-428D-B7F5-27FDA4852204",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "そらちゃん、アイドルデビューです！！",
+    "thread_ts": "1704327681.401149",
+    "ts": "1704327705.411399",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U063ZCF1H3R>さんがチャンネルに参加しました",
+    "ts": "1704450089.775109",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U063XKA2J5V>さんがチャンネルに参加しました",
+    "ts": "1704687364.968019",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "attachments": [
+      {
+        "author_link": "https://www.youtube.com/@medicitv",
+        "author_name": "medici.tv",
+        "fallback": "YouTube Video: Diana Damrau - Queen of the Night - Mozart The Magic Flute",
+        "from_url": "https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4",
+        "id": 1,
+        "original_url": "https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/pZcaf9GfyWs/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "Diana Damrau - Queen of the Night - Mozart The Magic Flute",
+        "title_link": "https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/pZcaf9GfyWs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Diana Damrau - Queen of the Night - Mozart The Magic Flute\"></iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      },
+      {
+        "author_link": "https://www.youtube.com/@kazuhisakurumada",
+        "author_name": "車田和寿‐音楽に寄せて",
+        "fallback": "YouTube Video: 【名曲】復讐と狂気！「魔笛」より夜の女王のアリアの魅力を解説！世界で数人しか歌えない難曲は本当？モーツァルトが死の間際に見た景色とは？",
+        "from_url": "https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC",
+        "id": 2,
+        "original_url": "https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/",
+        "thumb_height": 360,
+        "thumb_url": "https://i.ytimg.com/vi/xuZxHMOZ7Kg/hqdefault.jpg",
+        "thumb_width": 480,
+        "title": "【名曲】復讐と狂気！「魔笛」より夜の女王のアリアの魅力を解説！世界で数人しか歌えない難曲は本当？モーツァルトが死の間際に見た景色とは？",
+        "title_link": "https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC",
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/xuZxHMOZ7Kg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"【名曲】復讐と狂気！「魔笛」より夜の女王のアリアの魅力を解説！世界で数人しか歌えない難曲は本当？モーツァルトが死の間際に見た景色とは？\"></iframe>",
+        "video_html_height": 225,
+        "video_html_width": 400
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "BDo3l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【そらからのお手紙】　\n\n（筆ペンで達筆）\n\n前略　なな子アメリカザリガニ様　\n　お元気ですか。なかなかゆっくり電話もできないのでお手紙しました。\n私は冬本先生のプロデュースでデビューすることになりました。\nAkk47に入るのかなって思っていたんだけど、新しいアイドルグループのメンバーとしてデビューします。（まだみんなには内緒にしてください）\n憧れのAKKにはなれなかったけれど、私は私の置かれた場所で頑張ろうと思います。\n\n「アイドルになりたい」なんて夢みたいなことを言った私の背中を押してくれたなな子ちゃんに本当に感謝しています。\n会えなくなる時間が増えてしまうかもしれないけれど、なな子ちゃんはずっと私の友達です。　（以下文章続く）\n\n\n\n手紙を畳むなな子。\n\n音楽室、黒板の下に座り込んでいる。\n\n\n\n（回想）　ある日の音楽室。\n\nモーツァルト「夜の女王」の歌声（誰が歌っているのかはわからない）。\n\n\n黒板の下でそらとなな子、並んで床に座って。　\n\n\nそら「なな子ちゃん、あのね、私、、、アイドルになりたいんだ」　\n\n\nなな子「ふーーーん」　\n\n\nそら（おずおずと）「あの、、、なんで、アイドルになりたいか聞いてくれる？」　　\n\n\nなな子「なんで？」　\n\n\nそら「あのね、、、わたし、、、、、」　\n\n（そらの声がするが聞き取れない）\n\n\n夜の女王の歌声が響く。\n\n\n\n\nTo be continued.\n\n\n夜の女王はこちら↓\n",
+                "type": "text"
+              },
+              {
+                "text": "https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4",
+                "type": "link",
+                "url": "https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4"
+              },
+              {
+                "text": "\n\n\n夜の女王の解説はこちら↓\n",
+                "type": "text"
+              },
+              {
+                "text": "https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC",
+                "type": "link",
+                "url": "https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "00C24B45-993A-4000-9972-4BE6D8173CC0",
+    "edited": {
+      "ts": "1704772095.000000",
+      "user": "U064A3MMLFM"
+    },
+    "is_locked": false,
+    "latest_reply": "1704838588.384759",
+    "reply_count": 6,
+    "reply_users": [
+      "U064DQE82NP",
+      "U064A3MMLFM",
+      "U0647CWD0DT"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【そらからのお手紙】　\n\n（筆ペンで達筆）\n\n前略　なな子アメリカザリガニ様　\n　お元気ですか。なかなかゆっくり電話もできないのでお手紙しました。\n私は冬本先生のプロデュースでデビューすることになりました。\nAkk47に入るのかなって思っていたんだけど、新しいアイドルグループのメンバーとしてデビューします。（まだみんなには内緒にしてください）\n憧れのAKKにはなれなかったけれど、私は私の置かれた場所で頑張ろうと思います。\n\n「アイドルになりたい」なんて夢みたいなことを言った私の背中を押してくれたなな子ちゃんに本当に感謝しています。\n会えなくなる時間が増えてしまうかもしれないけれど、なな子ちゃんはずっと私の友達です。　（以下文章続く）\n\n\n\n手紙を畳むなな子。\n\n音楽室、黒板の下に座り込んでいる。\n\n\n\n（回想）　ある日の音楽室。\n\nモーツァルト「夜の女王」の歌声（誰が歌っているのかはわからない）。\n\n\n黒板の下でそらとなな子、並んで床に座って。　\n\n\nそら「なな子ちゃん、あのね、私、、、アイドルになりたいんだ」　\n\n\nなな子「ふーーーん」　\n\n\nそら（おずおずと）「あの、、、なんで、アイドルになりたいか聞いてくれる？」　　\n\n\nなな子「なんで？」　\n\n\nそら「あのね、、、わたし、、、、、」　\n\n（そらの声がするが聞き取れない）\n\n\n夜の女王の歌声が響く。\n\n\n\n\nTo be continued.\n\n\n夜の女王はこちら↓\n<https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4|https://youtu.be/pZcaf9GfyWs?si=DfSiaYcMrrLRf5u4>\n\n\n夜の女王の解説はこちら↓\n<https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC|https://youtu.be/xuZxHMOZ7Kg?si=GECS7DjtiP092jzC>\n",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704759637.865959",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YTAVJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "1番気になるとこで終わってしまった……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e44adba9-5126-4194-8aa8-f392a5351eba",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "1番気になるとこで終わってしまった……",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704766947.483569",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4+Bla",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そらちゃんがアイドルになりたい理由エピソードは実はもう載ってる、、、はず、、、、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "746561C6-E5E0-44F8-89D5-CDB41ABC3983",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "そらちゃんがアイドルになりたい理由エピソードは実はもう載ってる、、、はず、、、、",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704770221.087359",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "muDdT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もしかして、あの",
+                "type": "text"
+              },
+              {
+                "name": "hankey",
+                "type": "emoji",
+                "unicode": "1f4a9"
+              },
+              {
+                "text": "エピソードですか！？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d8ecbd33-ce68-4b7c-90db-e4f24689e386",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "もしかして、あの:hankey:エピソードですか！？",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704772033.837709",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BeB4i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もしかしなくてもあの",
+                "type": "text"
+              },
+              {
+                "name": "hankey",
+                "type": "emoji",
+                "unicode": "1f4a9"
+              },
+              {
+                "text": "エピソード、、、！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EF4EB49E-AD4C-4F04-AB50-B23A766C0EC4",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "hankey",
+        "users": [
+          "U064DQE82NP",
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "もしかしなくてもあの:hankey:エピソード、、、！！！",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704772065.755419",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "client_msg_id": "96261C12-CFC3-4234-AE4B-03A50E725C44",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1704798240,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06CYMN9A9K",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_4335.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U0647CWD0DT/F06CYMN9A9K/img_4335.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06CYMN9A9K-7a68621b98",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 832406,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 768,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 360,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 540,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_800.jpg",
+        "thumb_800_h": 1067,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06CYMN9A9K-11b2e2fe5a/img_4335_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 720,
+        "thumb_tiny": "AwAwACSKO2iaNWIOSM9aeLSH0b86WH/UJ/u04cZpAOWygPZv++qeLG3/ALp/76pYzkVMvamBkXKLHcOijCg8VFU13/x9y/71Q0xF6D/UJ9KdTIP9Qn0p45qRj0qwvaoEFTpnj8aYGVd/8fcv+9UNTXn/AB9y/WoaYi7B/wAe6fSpF61ViukSJVIYkCnfbEH8LVIy6tTLWeL9B/A3504ako/5Zt+dMCC9/wCPuX6/0qCnTyiWZpAMbu1MzTA//9k=",
+        "timestamp": 1704798240,
+        "title": "IMG_4335",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06CYMN9A9K/img_4335.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06CYMN9A9K/download/img_4335.jpg",
+        "user": "U0647CWD0DT",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM",
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "激推し",
+        "users": [
+          "U064DQE82NP",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "text": "",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704798247.976199",
+    "type": "message",
+    "upload": false,
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "t+PvG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本物のお手紙きてるやん！！！！本物のやつぅ！！！！、！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43A85A6D-0BDC-4CCA-8E98-77E262F742F8",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "本物のお手紙きてるやん！！！！本物のやつぅ！！！！、！",
+    "thread_ts": "1704759637.865959",
+    "ts": "1704838588.384759",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nYKN4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【アイドルだってうんこする！】　　\n\n喫茶「チェス」　店内。　\n\nインベーダーゲームの机の上にチェスボードが置かれる。　\n\n向かい合って座りチェスに興じるアナオとみどり。　\n\nとなりの席でインベーダーゲームに熱中するなな子。　\n\nチェスをしながらアナオとみどりの会話。　\n\nみどり「なな子さん、そらさんが芸能事務所に入られてからずいぶん大人しくなりましたね」　\n\nアナオ「そうでしょうか？わたくしには変わらないように見えますわ♪」　\n\nみどり「そらさんが居ないから寂しそうに見えますけれど」　\n\nアナオ「今はインベーダーゲームに夢中なんですよ」　\n\nみどり「アナオさんは寂しくないんです？」　　\n\nアナオ「寂しいですわ♪チェック」　\n\nみどり「………あまり、そうは見えませんけれど」（みどり駒を動かして）　\n\nアナオ「直接お顔を拝見する機会は少なくなってしまったけれど、そらさんはもう芸能人ですもの♪チェック」　\n\nアナオの膝の上に少年マンデーが置かれている。\n\n少年マンデーの表紙をそらのグラビアが飾る。\n\n『下剋上アイドル御手洗そら』の文字。\n\n\nみどり「………」　\n\n\nなな子「うわーーーーーー！！！！やられたーーーーー！！！！！」　　\n\nアナオ「チェックメイト♪」　\n\nチェスのママ「うるさいんだよっアンタたちはッ」　\n\nアナオの通学鞄に手作りのマスコット（そらの人形）が揺れる。\n\nなな子「すいませぇぇーーーーん」（ふざけて）　\n\nカランカランと喫茶店のドアの音。　\n\n\n\n喫茶チェスを出で、都会の雑踏の中を歩くなな子。\n\n交差点で立ち止まり、ビルの大看板に目を向けている。\n\n『補欠合格からのセンター抜擢！下剋上アイドル御手洗そら⭐︎新曲は「",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "strike": false
+                },
+                "text": "アイドルだってうんこする」",
+                "type": "text"
+              },
+              {
+                "text": "』　\n\n\nなな子「そらちゃん…きみは…」\n\n\n\n\nTo be continued.\n\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AF4647CB-0103-48AE-BEB0-2630E67F22C9",
+    "is_locked": false,
+    "latest_reply": "1704874450.031639",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "hao",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U064B2U40GM"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【アイドルだってうんこする！】　　\n\n喫茶「チェス」　店内。　\n\nインベーダーゲームの机の上にチェスボードが置かれる。　\n\n向かい合って座りチェスに興じるアナオとみどり。　\n\nとなりの席でインベーダーゲームに熱中するなな子。　\n\nチェスをしながらアナオとみどりの会話。　\n\nみどり「なな子さん、そらさんが芸能事務所に入られてからずいぶん大人しくなりましたね」　\n\nアナオ「そうでしょうか？わたくしには変わらないように見えますわ♪」　\n\nみどり「そらさんが居ないから寂しそうに見えますけれど」　\n\nアナオ「今はインベーダーゲームに夢中なんですよ」　\n\nみどり「アナオさんは寂しくないんです？」　　\n\nアナオ「寂しいですわ♪チェック」　\n\nみどり「………あまり、そうは見えませんけれど」（みどり駒を動かして）　\n\nアナオ「直接お顔を拝見する機会は少なくなってしまったけれど、そらさんはもう芸能人ですもの♪チェック」　\n\nアナオの膝の上に少年マンデーが置かれている。\n\n少年マンデーの表紙をそらのグラビアが飾る。\n\n『下剋上アイドル御手洗そら』の文字。\n\n\nみどり「………」　\n\n\nなな子「うわーーーーーー！！！！やられたーーーーー！！！！！」　　\n\nアナオ「チェックメイト♪」　\n\nチェスのママ「うるさいんだよっアンタたちはッ」　\n\nアナオの通学鞄に手作りのマスコット（そらの人形）が揺れる。\n\nなな子「すいませぇぇーーーーん」（ふざけて）　\n\nカランカランと喫茶店のドアの音。　\n\n\n\n喫茶チェスを出で、都会の雑踏の中を歩くなな子。\n\n交差点で立ち止まり、ビルの大看板に目を向けている。\n\n『補欠合格からのセンター抜擢！下剋上アイドル御手洗そら⭐︎新曲は「*アイドルだってうんこする」*』　\n\n\nなな子「そらちゃん…きみは…」\n\n\n\n\nTo be continued.\n\n\n",
+    "thread_ts": "1704846348.208529",
+    "ts": "1704846348.208529",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pVy3h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "（補足）",
+                "type": "text"
+              },
+              {
+                "text": "\n",
+                "type": "text"
+              },
+              {
+                "text": "冬本タカオのプロデュースでデビューしたそらのアイドルグループの名前は「NS7」（エスエヌセブン）",
+                "type": "text"
+              },
+              {
+                "text": "\n\n",
+                "type": "text"
+              },
+              {
+                "text": "『なんでもしますアイドル』としてステージで歌うだけでなく、グラビア誌や、バラエティ番組の体当たり企画もこなす7人組アイドル。",
+                "type": "text"
+              },
+              {
+                "text": "\n\n",
+                "type": "text"
+              },
+              {
+                "text": "そらは補欠合格からのセンターポジション獲得までをストーリーにした下剋上アイドルとして活動中。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "684DAA88-EC48-4415-9E0B-D355A58A5087",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "（補足）\n冬本タカオのプロデュースでデビューしたそらのアイドルグループの名前は「NS7」（エスエヌセブン）\n\n『なんでもしますアイドル』としてステージで歌うだけでなく、グラビア誌や、バラエティ番組の体当たり企画もこなす7人組アイドル。\n\nそらは補欠合格からのセンターポジション獲得までをストーリーにした下剋上アイドルとして活動中。",
+    "thread_ts": "1704846348.208529",
+    "ts": "1704846381.908649",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9uGHx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "チェスのママだ！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7E51CCE9-E757-47F6-819E-DA5AAE4C8899",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "チェスのママだ！",
+    "thread_ts": "1704846348.208529",
+    "ts": "1704860617.185149",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hzfTr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ずっと誤解され続けているチェスのママを、チェスのママとして出しました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "25BA82F2-14DF-4E55-9B78-C90365A1049F",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ずっと誤解され続けているチェスのママを、チェスのママとして出しました。",
+    "thread_ts": "1704846348.208529",
+    "ts": "1704874450.031639",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WSye+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【クラウザー様降臨】　\n\n夕方の公園。　\n\nブランコを漕ぐセーラー服の美少女。　\nギーーーーコ　ギーーーーーーコ　　　\n\n美少女「………」　\n\nそこを通りかかるみどり。美少女と目が合うがすぐにそらす。　\n\n\n数日後。　\n放課後の音楽室で。　\n\nなな子「はぁぁぁぁぁ〜ひまだな〜〜ひまだな〜〜〜」　\n\nアナオ「ひまですねぇ」　\n\nなな子「大体さー、そらちゃんがさーーー、アイドルになりたぁいって言ったからアイドルグループ作ったのにさぁー」　\n\n\n微笑むアナオ、手にはそらを模った手作りのマスコット。　\n\n\nなな子「なのにさぁ〜〜〜、もう、そらちゃんアイドルになっちゃってるじゃん、やることないじゃん」　\n\n\nそらのマスコットをぎゅっと握るアナオ（毎日握ってるので汚れてきている）　\n\n\nなな子「ああああああ、、、、、ひまだよぅ、ひまだよぅ」　\n\n\nみどり「残った私たちだけでアイドルはやらないんです？」　\n\n\nなな子（しばらく考えて）「やってもいいけどォ、ビジュアル担当のアナオちゃんと、お歌担当のみどりちゃんと、特技なしの俺じゃね〜〜〜なんっつぅか、アイドルとしてのインパクトが弱いっていうか、このアイドル戦国時代を戦うのにポカチュー1匹だけで旅に出るトシコみたいな？？？無謀すぎるんだよ。俺は勝ち目がある勝負をしたいの！」　\n\n\n\nみどり「そらさんがいれば勝ち目はあった、ということですか？」　\n\n\nなな子「いや、ないけどさ。なんか、やりたいって言うんだから叶えてあげたいっていうか、、、、、、、」　\n\n\n沈黙。　\n\n\n\nなな子「……ホントはさ、一緒にがんばりたかった」　　\n\n\n\n\n\nなな子「でも、しょーがないよね！俺らと頑張る前にそらちゃんが夢叶えちゃったんだからさ」　\n\n\n\nアナオ「応援しませんか？」　\n\nアナオ「みんなでそらさんを応援するです。わたくし、おふたりにもマスコットを作ったんです。ほら、お揃い♡」　\n\n\nアナオ、みどりとなな子にそらのマスコットを手渡す。　\n\n\nなな子「わぁぁぁぁ！！！すげぇ！！！！いいの？！これ、もらっちゃってもいいの？！」　\n\n\nさっそくマスコットを鞄につけるみどり。　\n\n\n\n？？？「ちょーーーーっとまったあぁぁぁぁぁぁぁぁ！！！！！」\n\n\nなな子・みどり・アナオ「？！？！？！」\n\n\n\n？？？「それ！SN7の御手洗そらでしょ？！アタシはそんなの認めないんだから！！！！」\n\n\n\n\nTo be continued.",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EC76FEB9-0C57-4A36-85AF-2C95C2FFDD80",
+    "edited": {
+      "ts": "1704965230.000000",
+      "user": "U064A3MMLFM"
+    },
+    "is_locked": false,
+    "latest_reply": "1704978542.694719",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "gekiatsu",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT",
+          "U063XKA2J5V",
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "sob",
+        "users": [
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "reply_count": 3,
+    "reply_users": [
+      "U064A3MMLFM",
+      "U0647CWD0DT",
+      "U063XKA2J5V"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "【クラウザー様降臨】　\n\n夕方の公園。　\n\nブランコを漕ぐセーラー服の美少女。　\nギーーーーコ　ギーーーーーーコ　　　\n\n美少女「………」　\n\nそこを通りかかるみどり。美少女と目が合うがすぐにそらす。　\n\n\n数日後。　\n放課後の音楽室で。　\n\nなな子「はぁぁぁぁぁ〜ひまだな〜〜ひまだな〜〜〜」　\n\nアナオ「ひまですねぇ」　\n\nなな子「大体さー、そらちゃんがさーーー、アイドルになりたぁいって言ったからアイドルグループ作ったのにさぁー」　\n\n\n微笑むアナオ、手にはそらを模った手作りのマスコット。　\n\n\nなな子「なのにさぁ〜〜〜、もう、そらちゃんアイドルになっちゃってるじゃん、やることないじゃん」　\n\n\nそらのマスコットをぎゅっと握るアナオ（毎日握ってるので汚れてきている）　\n\n\nなな子「ああああああ、、、、、ひまだよぅ、ひまだよぅ」　\n\n\nみどり「残った私たちだけでアイドルはやらないんです？」　\n\n\nなな子（しばらく考えて）「やってもいいけどォ、ビジュアル担当のアナオちゃんと、お歌担当のみどりちゃんと、特技なしの俺じゃね〜〜〜なんっつぅか、アイドルとしてのインパクトが弱いっていうか、このアイドル戦国時代を戦うのにポカチュー1匹だけで旅に出るトシコみたいな？？？無謀すぎるんだよ。俺は勝ち目がある勝負をしたいの！」　\n\n\n\nみどり「そらさんがいれば勝ち目はあった、ということですか？」　\n\n\nなな子「いや、ないけどさ。なんか、やりたいって言うんだから叶えてあげたいっていうか、、、、、、、」　\n\n\n沈黙。　\n\n\n\nなな子「……ホントはさ、一緒にがんばりたかった」　　\n\n\n\n\n\nなな子「でも、しょーがないよね！俺らと頑張る前にそらちゃんが夢叶えちゃったんだからさ」　\n\n\n\nアナオ「応援しませんか？」　\n\nアナオ「みんなでそらさんを応援するです。わたくし、おふたりにもマスコットを作ったんです。ほら、お揃い♡」　\n\n\nアナオ、みどりとなな子にそらのマスコットを手渡す。　\n\n\nなな子「わぁぁぁぁ！！！すげぇ！！！！いいの？！これ、もらっちゃってもいいの？！」　\n\n\nさっそくマスコットを鞄につけるみどり。　\n\n\n\n？？？「ちょーーーーっとまったあぁぁぁぁぁぁぁぁ！！！！！」\n\n\nなな子・みどり・アナオ「？！？！？！」\n\n\n\n？？？「それ！SN7の御手洗そらでしょ？！アタシはそんなの認めないんだから！！！！」\n\n\n\n\nTo be continued.",
+    "thread_ts": "1704964918.467259",
+    "ts": "1704964918.467259",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CwOJr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ようやく、クラウザーさんを出せました ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EB5D6023-73FF-4A6C-8140-C0981390E154",
+    "edited": {
+      "ts": "1704964983.000000",
+      "user": "U064A3MMLFM"
+    },
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "ようやく、クラウザーさんを出せました :pray: ",
+    "thread_ts": "1704964918.467259",
+    "ts": "1704964959.761629",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IxnWq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なな子ちゃんの本音が泣ける…！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A4050D04-6C1B-4FD4-8449-B48729C19EBD",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "see_no_evil",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "なな子ちゃんの本音が泣ける…！",
+    "thread_ts": "1704964918.467259",
+    "ts": "1704971853.045689",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SKu3b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "毎日3分間ぐらいの尺でやってるショートアニメみがあってとても良い…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9EF70475-CA46-4AB8-9AB1-535ABDC9A0E7",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "joy",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "そ_り",
+        "users": [
+          "U064B2U40GM",
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "毎日3分間ぐらいの尺でやってるショートアニメみがあってとても良い…",
+    "thread_ts": "1704964918.467259",
+    "ts": "1704978542.694719",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  }
+]

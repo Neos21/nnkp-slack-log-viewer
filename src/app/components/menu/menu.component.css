@@ -1,0 +1,45 @@
+h2,
+ul,
+a {
+  color: #151834b3;
+}
+
+h1 {
+  margin: 0;
+  padding: .5rem 0;
+  font-size: 1.5rem;
+}
+  h1 a {
+    text-decoration: none;
+  }
+
+h2 {
+  font-size: 1rem;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+  ul details ul {
+    padding-left: 2rem;
+  }
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+summary {
+  display: block;  /* 三角を消す */
+  padding: .1rem .5rem;
+  cursor: pointer;
+}
+  summary:hover {
+    border-radius: 6px;
+    background: #ffe601;
+  }
+
+img {
+  border-radius: 4px;
+}

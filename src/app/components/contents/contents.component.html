@@ -1,0 +1,24 @@
+<h1>{{ headline }}</h1>
+
+@if(error == null) {
+  @for(post of contents; track $index) {
+    <div class="post">
+      <div class="image">
+        <img [src]="getImageUrl(post.user)" width="24" height="24">
+      </div>
+      <div class="content-body">
+        <div class="header">
+          <span class="user-name">{{ getUserName(post.user) }}</span>
+          <span class="post-time">{{ convertTsToJst(post.ts) }}</span>
+        </div>
+        <div class="post-text">{{ replaceUserNames(post.text) }}</div>
+      </div>
+    </div>
+  }
+  @empty {
+    <div>メニューから見たいチャンネルを選択してください</div>
+  }
+}
+@else {
+  <app-error [error]="error" />
+}

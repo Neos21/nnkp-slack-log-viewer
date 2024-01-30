@@ -1,0 +1,20 @@
+.wrapper {
+  --menu-width: 300px;
+  
+  height: 100%;
+}
+
+.menu {
+  position: fixed;
+  width: var(--menu-width);
+  height: 100%;
+  overflow-y: auto;
+  border-right: 2px solid #dcdcdc;
+  padding: 0 1rem;
+  background: #f2f4f7;
+}
+
+.contents {
+  margin-left: var(--menu-width);
+  padding: 0 1rem 1rem;
+}

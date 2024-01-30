@@ -1,0 +1,30 @@
+<h1><a [routerLink]="['']">Slack Viewer</a></h1>
+
+@if(error == null) {
+  <h2>チャンネル</h2>
+  <ul>
+    <li *ngFor="let channel of channels">
+      <details>
+        <summary>{{ channel.name }}</summary>
+        <ul>
+          <li *ngFor="let fileName of channel.file_names">
+            <a [routerLink]="['']" [queryParams]="{ channel_name: channel.name, directory_name: channel.directory_name, file_name: fileName }">{{ fileName }}</a>
+          </li>
+        </ul>
+      </details>
+    </li>
+  </ul>
+  
+  <hr>
+  
+  <h2>メンバ</h2>
+  <ul>
+    <li *ngFor="let user of users">
+      <img [src]="user.profile.image_24" width="24" height="24">
+      {{ user.profile.display_name || user.real_name }}
+    </li>
+  </ul>
+}
+@else {
+  <app-error [error]="error" />
+}
