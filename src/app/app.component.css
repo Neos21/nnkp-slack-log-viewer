@@ -1,5 +1,5 @@
 .wrapper {
-  --menu-width: 300px;
+  --menu-width: 275px;
   
   height: 100%;
 }
@@ -12,10 +12,10 @@
   border-right: 2px solid #dcdcdc;
   padding: 0 1rem;
   background: #f2f4f7;
+  z-index: calc(Infinity);
 }
 
 .contents {
-  min-width: 400px;
   margin-left: var(--menu-width);
   padding: 0 1rem 1rem;
 }
