@@ -1,0 +1,5821 @@
+[
+  {
+    "subtype": "channel_join",
+    "text": "<@U064A3MMLFM>さんがチャンネルに参加しました",
+    "ts": "1699147796.607899",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "inviter": "U064A3MMLFM",
+    "subtype": "channel_join",
+    "text": "<@U06478T36MT>さんがチャンネルに参加しました",
+    "ts": "1699147799.646219",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "inviter": "U064A3MMLFM",
+    "subtype": "channel_join",
+    "text": "<@U064CLXP068>さんがチャンネルに参加しました",
+    "ts": "1699147799.712909",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U0647CWD0DT>さんがチャンネルに参加しました",
+    "ts": "1699154250.760579",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "purpose": "大人向けの話ができる場所です☆",
+    "subtype": "channel_purpose",
+    "text": "がこのチャンネルの説明を「大人向けの話ができる場所です☆」に設定しました",
+    "ts": "1699155778.120369",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064P0YB15X>さんがチャンネルに参加しました",
+    "ts": "1699156243.218449",
+    "type": "message",
+    "user": "U064P0YB15X"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064416N422>さんがチャンネルに参加しました",
+    "ts": "1699175578.332809",
+    "type": "message",
+    "user": "U064416N422"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064P9PGZR7>さんがチャンネルに参加しました",
+    "ts": "1699176129.552009",
+    "type": "message",
+    "user": "U064P9PGZR7"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064AMJKU0J>さんがチャンネルに参加しました",
+    "ts": "1699178563.419019",
+    "type": "message",
+    "user": "U064AMJKU0J"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064AS42F7V>さんがチャンネルに参加しました",
+    "ts": "1699193179.018799",
+    "type": "message",
+    "user": "U064AS42F7V"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U063XKA2J5V>さんがチャンネルに参加しました",
+    "ts": "1699242597.035499",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U0649JQRK8V>さんがチャンネルに参加しました",
+    "ts": "1699250964.807599",
+    "type": "message",
+    "user": "U0649JQRK8V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cY9Yi",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日っておにぎりのフルヌード撮影会の日でした？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D4232D42-71E6-4E13-8EFF-C66E53746EDB",
+    "team": "T063VL91V0X",
+    "text": "今日っておにぎりのフルヌード撮影会の日でした？",
+    "ts": "1699262565.814569",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "shKjw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "勝手にフルヌードにすな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ec066129-860a-4e0c-93b4-62ab30cbe318",
+    "team": "T063VL91V0X",
+    "text": "勝手にフルヌードにすな",
+    "ts": "1699262588.478459",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EO/YO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "違う意味で具でてしまうぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "75781aac-dc30-4317-b60a-f53b8488c443",
+    "team": "T063VL91V0X",
+    "text": "違う意味で具でてしまうぞ",
+    "ts": "1699262600.250139",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v4U0a",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりの具（意味深）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CFE059B6-1DBB-4BDD-95C6-F714028C5B56",
+    "team": "T063VL91V0X",
+    "text": "おにぎりの具（意味深）",
+    "ts": "1699262620.501169",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XycD1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "光飛ばして加工してもらうか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b9d4bd13-fad6-4fb8-bf96-08db8cd30259",
+    "team": "T063VL91V0X",
+    "text": "光飛ばして加工してもらうか",
+    "ts": "1699262656.011139",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SLQLL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ブーメランパンツで山手線のってるの、なんだかゾクゾクするわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e2b85297-8760-4155-8bdc-e566de1fb046",
+    "team": "T063VL91V0X",
+    "text": "ブーメランパンツで山手線のってるの、なんだかゾクゾクするわ",
+    "ts": "1699262769.372349",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j1EYc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "撮影今日じゃないのん？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0620417C-F7E9-4452-9554-F42B2C215F97",
+    "team": "T063VL91V0X",
+    "text": "撮影今日じゃないのん？",
+    "ts": "1699264159.295859",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "93NPT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今からだよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "80a221cd-77fe-4510-8b6f-10e78123da05",
+    "team": "T063VL91V0X",
+    "text": "今からだよ",
+    "ts": "1699264451.769299",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "su+uT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "悲報、俺、場所を間違える",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e24f3e8f-210e-4eea-b854-f3e0d6eefbe1",
+    "team": "T063VL91V0X",
+    "text": "悲報、俺、場所を間違える",
+    "ts": "1699264914.862269",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aDBJ4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今からなの？！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D82D31B3-B5ED-4BE1-8C22-5B12459771AF",
+    "team": "T063VL91V0X",
+    "text": "今からなの？！",
+    "ts": "1699265057.282999",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pu5zX",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと、撮れ次第ここに投げてもろて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "70BDCCD5-10AB-4190-845D-02F2902F31BE",
+    "team": "T063VL91V0X",
+    "text": "ちょっと、撮れ次第ここに投げてもろて",
+    "ts": "1699265068.731929",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hGu/K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今から(19時からの予定のところ俺が場所を間違え移動中)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "563eb56c-3859-4acf-b1c6-205d59527e56",
+    "team": "T063VL91V0X",
+    "text": "今から(19時からの予定のところ俺が場所を間違え移動中)",
+    "ts": "1699265082.039829",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3JHyD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかんに謝った方がいい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "47783B21-7E58-4F3A-8278-985F635CA3A1",
+    "team": "T063VL91V0X",
+    "text": "ちょうかんに謝った方がいい",
+    "ts": "1699265110.307979",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ctKM/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめんなさいちょうかん……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9bf9950e-ff03-4b57-907d-98028b975be6",
+    "team": "T063VL91V0X",
+    "text": "ごめんなさいちょうかん……",
+    "ts": "1699265122.992709",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Pm7zT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかんここいるのかしら？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "98483A0D-EF6A-458B-A865-C5600459DD02",
+    "team": "T063VL91V0X",
+    "text": "ちょうかんここいるのかしら？",
+    "ts": "1699265436.194139",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lkxGh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " いた！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "16FB4522-AE65-4EC8-A8A6-A9E9F0C510CD",
+    "team": "T063VL91V0X",
+    "text": "<@U064AS42F7V> いた！",
+    "ts": "1699265447.545879",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "D2jsE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たぶんこれ許されてないわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "333a4bca-d86d-49de-8461-c6ae1e6d8359",
+    "team": "T063VL91V0X",
+    "text": "たぶんこれ許されてないわ",
+    "ts": "1699265795.690859",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jz8F7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お詫びのフルヌードお待ちしております",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D5D77575-9697-4AC8-B5A3-436FAD883EF4",
+    "team": "T063VL91V0X",
+    "text": "お詫びのフルヌードお待ちしております",
+    "ts": "1699265836.792089",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HmtKC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それを撮らされるちょうかんにダメージ増えるだけでは",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4e08ae3a-c5d8-498e-89f3-430a205b6e8e",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "wakaru",
+        "users": [
+          "U064A3MMLFM",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "それを撮らされるちょうかんにダメージ増えるだけでは",
+    "ts": "1699265861.464059",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064DQE82NP>さんがチャンネルに参加しました",
+    "ts": "1699269483.029159",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U063ZCF1H3R>さんがチャンネルに参加しました",
+    "ts": "1699269871.837349",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U064B2U40GM>さんがチャンネルに参加しました",
+    "ts": "1699270820.963409",
+    "type": "message",
+    "user": "U064B2U40GM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BkPyT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかん、遅れてきた俺をすげぇ優しく迎えてくださいました……職場のちょうかん初めてみたけど優しくてかっこよかった！！ありがとうございました！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "21b1673c-7e28-454c-9d88-852346455db1",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "zarigani_run",
+        "users": [
+          "U0647CWD0DT",
+          "U064B2U40GM",
+          "U064416N422"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U0647CWD0DT",
+          "U064AMJKU0J"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ちょうかん、遅れてきた俺をすげぇ優しく迎えてくださいました……職場のちょうかん初めてみたけど優しくてかっこよかった！！ありがとうございました！！！",
+    "ts": "1699273703.739609",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sfgsg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "え？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "81BB2780-A30E-496D-8FCC-50E48281435C",
+    "team": "T063VL91V0X",
+    "text": "え？",
+    "ts": "1699275462.149739",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "e2YRL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "フルヌードは？？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "28CA4F76-F18B-459F-9FE2-F406E498A04A",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "そ_り",
+        "users": [
+          "U064416N422"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "フルヌードは？？？",
+    "ts": "1699275466.800639",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "TqZUW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "話の順番としておすさんのセミヌードが済んでからみたいなところないすか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "829cfd73-3a66-48f0-81d9-5f1b99e3c5a4",
+    "team": "T063VL91V0X",
+    "text": "話の順番としておすさんのセミヌードが済んでからみたいなところないすか？",
+    "ts": "1699276771.365679",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qcWL4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そんなことより見てくれよこの2ショット。顔の大きさと服のグレード違いすぎてアップロードしたくないぐらいだったぜ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "40dd1137-8d01-4592-a9a6-25ef6a6c19b4",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1699277840,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F064EH4BYTU",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "Screenshot_20231106-223612_PowerPoint.jpg",
+        "original_h": 702,
+        "original_w": 949,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U06478T36MT/F064EH4BYTU/screenshot_20231106-223612_powerpoint.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F064EH4BYTU-dd45c97ce1",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 33472,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_360.jpg",
+        "thumb_360_h": 266,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_480.jpg",
+        "thumb_480_h": 355,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_720.jpg",
+        "thumb_720_h": 533,
+        "thumb_720_w": 720,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F064EH4BYTU-1a6768fd9c/screenshot_20231106-223612_powerpoint_800.jpg",
+        "thumb_800_h": 592,
+        "thumb_800_w": 800,
+        "thumb_tiny": "AwAjADCY9aUVSuppBOY1bC8dqgJaMh43J+tAGuKUVWsJmkjZpPmwccCrQbPQfhQAtFHeigDOdkjvWd8HjA9uOtMnKSyAR5x6461IyK7bmUE+tMMKg5Crj0IqOZFuDH2ciWyOJGGc9Ac1ajlUnjf0zkiqEcGSy8djmrfmAWbNgAgbcelVuS1bckWZHwVbIPapQc9Kxo5fLbdjI6VaW8VVUrknPIPpTAUUUCiuc6QjH7xvoKgkZv3i5OCScVYj/wBY30FVpOr/AI1tE55DQP3I9xUSVN/yxX6VClUSf//Z",
+        "timestamp": 1699277840,
+        "title": "Screenshot_20231106-223612_PowerPoint.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F064EH4BYTU/screenshot_20231106-223612_powerpoint.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F064EH4BYTU/download/screenshot_20231106-223612_powerpoint.jpg",
+        "user": "U06478T36MT",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 4,
+        "name": "thumbsup_all",
+        "users": [
+          "U064A3MMLFM",
+          "U064B2U40GM",
+          "U063XKA2J5V",
+          "U064AMJKU0J"
+        ]
+      }
+    ],
+    "text": "そんなことより見てくれよこの2ショット。顔の大きさと服のグレード違いすぎてアップロードしたくないぐらいだったぜ。",
+    "ts": "1699277849.554669",
+    "type": "message",
+    "upload": false,
+    "user": "U06478T36MT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U065F8WL0EN>さんがチャンネルに参加しました",
+    "ts": "1699873157.203969",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U066859HEJC>さんがチャンネルに参加しました",
+    "ts": "1699919136.886109",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "v4ABD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりの海パン写真流れてこないんですけど、検閲されているんですか？ ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U06478T36MT"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B8151ACA-081D-4430-AB49-CCB77114F7CC",
+    "team": "T063VL91V0X",
+    "text": "おにぎりの海パン写真流れてこないんですけど、検閲されているんですか？ <@U06478T36MT> <@U064AS42F7V> ",
+    "ts": "1699952211.558409",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "sVbKO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いつのまにか海パンになってるやん……ネットサーファーやからか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "48ab320d-0c68-49a8-ba5c-1583f8391aa7",
+    "team": "T063VL91V0X",
+    "text": "いつのまにか海パンになってるやん……ネットサーファーやからか？",
+    "ts": "1699952575.864369",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/8M7P",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかんが撮ってくれた写真だからちょうかんの許可がないと出せないんだよなァ！！\nあーーー残念だなァァ！！かっくいーーーのになぁ！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7d3c607f-72e1-417b-962b-75dec37b6975",
+    "team": "T063VL91V0X",
+    "text": "ちょうかんが撮ってくれた写真だからちょうかんの許可がないと出せないんだよなァ！！\nあーーー残念だなァァ！！かっくいーーーのになぁ！！",
+    "ts": "1699952763.376199",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+hWl0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかん、通知切ってるからなぁ",
+                "type": "text"
+              },
+              {
+                "name": "loudspeaker",
+                "type": "emoji",
+                "unicode": "1f4e2"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C8ECC72E-621C-4869-89F2-21B8E8E4D2CB",
+    "team": "T063VL91V0X",
+    "text": "ちょうかん、通知切ってるからなぁ:loudspeaker: <@U064AS42F7V> ",
+    "ts": "1699959805.307969",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RdQeg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺が海パン流さないのをちょうかんのせいにしていくスタイル大成功",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b4620e3-5492-414f-80e5-eb59861f2a97",
+    "team": "T063VL91V0X",
+    "text": "俺が海パン流さないのをちょうかんのせいにしていくスタイル大成功",
+    "ts": "1699963819.785469",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V8iJk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "許可します。（私のせいにはさせないスタイル）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "069DD4E6-6224-4A07-A9AF-11DE931C2F84",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "許可します。（私のせいにはさせないスタイル）",
+    "ts": "1699969875.251239",
+    "type": "message",
+    "user": "U064AS42F7V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hCn+5",
+        "elements": [
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53da09cd-3952-4092-801a-72ed1e462684",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1699970348,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F065KJA9HFF",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "20231114_225855.jpg",
+        "original_h": 510,
+        "original_w": 877,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U06478T36MT/F065KJA9HFF/20231114_225855.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F065KJA9HFF-6e2d8f8492",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 11986,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_360.jpg",
+        "thumb_360_h": 209,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_480.jpg",
+        "thumb_480_h": 279,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_720.jpg",
+        "thumb_720_h": 419,
+        "thumb_720_w": 720,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F065KJA9HFF-07c8091d0f/20231114_225855_800.jpg",
+        "thumb_800_h": 465,
+        "thumb_800_w": 800,
+        "thumb_tiny": "AwAbADB9FJRWhAtJRSOSBx1JwKAHccgHJH3h6U0H5iMdPequ9/NZhxjqPWrQHzE/SkncbQtFFFMQU2QhY2J7CnUHkc0AVLb/AFo3DqMirIx5jdM8UuB6ClpJWG2f/9k=",
+        "timestamp": 1699970348,
+        "title": "20231114_225855.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F065KJA9HFF/20231114_225855.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F065KJA9HFF/download/20231114_225855.jpg",
+        "user": "U06478T36MT",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 5,
+        "name": "clap",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT",
+          "U063XKA2J5V",
+          "U064P9PGZR7",
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "くまえり",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "clap::skin-tone-2",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "text": "",
+    "ts": "1699970351.600889",
+    "type": "message",
+    "upload": false,
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "3/LUl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マジで元の写真よすぎるから流しそうになったのは内緒。改めてちょうかんに感謝！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "395d05c8-0a52-4d08-ba50-14bf9c170407",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U0647CWD0DT",
+          "U064AMJKU0J"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "マジで元の写真よすぎるから流しそうになったのは内緒。改めてちょうかんに感謝！",
+    "ts": "1699971090.728339",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "w0g/n",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "変態仮面じゃんwwwwwwwww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "06563BCC-CA98-4B00-AA5E-783F222B387E",
+    "is_locked": false,
+    "latest_reply": "1700012795.125459",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U06478T36MT"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "変態仮面じゃんwwwwwwwww",
+    "thread_ts": "1700006949.181419",
+    "ts": "1700006949.181419",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2tLXw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "誰が変態仮面やパンツ被ってないやろ！？笑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e68d9dcf-3391-476b-bc7a-2cb301bfb85f",
+    "parent_user_id": "U064A3MMLFM",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "see_no_evil",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "誰が変態仮面やパンツ被ってないやろ！？笑",
+    "thread_ts": "1700006949.181419",
+    "ts": "1700012795.125459",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "K7WxV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "素晴らしい肉体美です(笑)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B36E4A38-B262-40F1-823B-F13F14074EBC",
+    "is_locked": false,
+    "latest_reply": "1700012850.843689",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "reply_count": 1,
+    "reply_users": [
+      "U06478T36MT"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "素晴らしい肉体美です(笑)",
+    "thread_ts": "1700012454.445559",
+    "ts": "1700012454.445559",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GhAuU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「(笑)」が不安を煽るゥ！？笑\nありがとうございます僕も素晴らしい肉体美だと思います！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b98a79a4-e7eb-4c64-8fe0-303ac040b3c9",
+    "parent_user_id": "U0647CWD0DT",
+    "team": "T063VL91V0X",
+    "text": "「(笑)」が不安を煽るゥ！？笑\nありがとうございます僕も素晴らしい肉体美だと思います！",
+    "thread_ts": "1700012454.445559",
+    "ts": "1700012850.843689",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vNEGD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんな……反応してくれよォ……！勇気出したんだよォ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8f1f460b-f96d-456d-813d-6be98e772565",
+    "team": "T063VL91V0X",
+    "text": "みんな……反応してくれよォ……！勇気出したんだよォ",
+    "ts": "1700012874.888029",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Hvz9N",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すげぇ！！！めっちゃかっこいい！！！！元の写真出さないんですかァ！？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "21D8F3F0-5D25-431D-87E2-278009BF5934",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT",
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "すげぇ！！！めっちゃかっこいい！！！！元の写真出さないんですかァ！？？",
+    "ts": "1700013730.865839",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cNw+x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すごい！シックスパック！！！\n元の写真出さないんですかァ！！？？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AAB249EF-3DE1-4035-9C01-7102536AE89D",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT",
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "thumbsup_all",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "すごい！シックスパック！！！\n元の写真出さないんですかァ！！？？？",
+    "ts": "1700014693.870359",
+    "type": "message",
+    "user": "U064AS42F7V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EuAp9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ムキムキおにぎり！\nちょうかんさんの撮影秘話もお願いします",
+                "type": "text"
+              },
+              {
+                "name": "laughing",
+                "type": "emoji",
+                "unicode": "1f606"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "df965f54-2b52-4705-98eb-abc329780788",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ムキムキおにぎり！\nちょうかんさんの撮影秘話もお願いします:laughing:",
+    "ts": "1700016607.043139",
+    "type": "message",
+    "user": "U064AMJKU0J"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U065L1LHGFQ>さんがチャンネルに参加しました",
+    "ts": "1700017293.705269",
+    "type": "message",
+    "user": "U065L1LHGFQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a1rBz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おすさんだ！！！おすさんだ！！！！\nようこそ！おすさん！！！ ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U065L1LHGFQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "86F242AC-C58D-43C1-9C9E-0A4BA99C1663",
+    "team": "T063VL91V0X",
+    "text": "おすさんだ！！！おすさんだ！！！！\nようこそ！おすさん！！！ <@U065L1LHGFQ> ",
+    "ts": "1700017415.537219",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dRFHt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっちでは初めまして！\n俺は脱いだぞ、次脱ぐのはは誰だろうなァ！？\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U065L1LHGFQ"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "902ebc6d-79a5-4a9c-9092-b2dd6700aa53",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1700017449,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06659WBS7K",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "onigiri0329bwre.jpg",
+        "original_h": 7540,
+        "original_w": 5655,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U06478T36MT/F06659WBS7K/onigiri0329bwre.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06659WBS7K-d6fa7eee9a",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 738168,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 768,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 360,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 540,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_800.jpg",
+        "thumb_800_h": 1067,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06659WBS7K-155ec9d577/onigiri0329bwre_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 720,
+        "thumb_tiny": "AwAwACTOopwFOWMyHCjJoAZikxVprZhynzDHY81ARQAyilooAeBTzKRgKflHTFMHSkP3cGgCQuyklT3/ACpH5OR35poyc0uMCgBhopTSUAKDQ/IpoNBNAAvBBNPJph6UZ4oAUmkzSUUAf//Z",
+        "timestamp": 1700017449,
+        "title": "onigiri0329bwre.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06659WBS7K/onigiri0329bwre.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06659WBS7K/download/onigiri0329bwre.jpg",
+        "user": "U06478T36MT",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1700020079.756029",
+    "reactions": [
+      {
+        "count": 5,
+        "name": "clap",
+        "users": [
+          "U0647CWD0DT",
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064B2U40GM",
+          "U064AMJKU0J"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "raised_hands",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "see_no_evil",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 4,
+        "name": "生",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064DQE82NP",
+          "U064416N422"
+        ]
+      },
+      {
+        "count": 4,
+        "name": "存",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064DQE82NP",
+          "U064416N422"
+        ]
+      },
+      {
+        "count": 4,
+        "name": "戦",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064DQE82NP",
+          "U064416N422"
+        ]
+      },
+      {
+        "count": 4,
+        "name": "略",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064DQE82NP",
+          "U064416N422"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "parrot_fast",
+        "users": [
+          "U063XKA2J5V",
+          "U064B2U40GM",
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "clap::skin-tone-2",
+        "users": [
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "raised_hands::skin-tone-2",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "reply_count": 5,
+    "reply_users": [
+      "U06478T36MT",
+      "U0647CWD0DT",
+      "U064DQE82NP"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "text": "こっちでは初めまして！\n俺は脱いだぞ、次脱ぐのはは誰だろうなァ！？\n<@U065L1LHGFQ>",
+    "thread_ts": "1700017487.661519",
+    "ts": "1700017487.661519",
+    "type": "message",
+    "upload": false,
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gwQu7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "元画像と違うの貼っちゃったけど顔バレしたくないのでここらへんで",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "43a92dcd-9e3b-49db-96bd-168e0824542e",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "元画像と違うの貼っちゃったけど顔バレしたくないのでここらへんで",
+    "thread_ts": "1700017487.661519",
+    "ts": "1700017613.216599",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5NcGE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう今さら顔バレもくそもねえな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "53596737-02ea-40b4-9a66-99d2740cb76b",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1700018515,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F065L377GDU",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "onigiri0395re.jpg",
+        "original_h": 7416,
+        "original_w": 5563,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U06478T36MT/F065L377GDU/onigiri0395re.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F065L377GDU-0e9c4b5977",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 648663,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 768,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 360,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 540,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_800.jpg",
+        "thumb_800_h": 1066,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F065L377GDU-481238ee24/onigiri0395re_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 720,
+        "thumb_tiny": "AwAwACTNpcUCnKD0AzQA0c0Yp2B6c96ULQD0I8UYqTFGKBXEUEkAdTUyybAQoBHrUSdaeMKuG60DY0sXb2PanKc59RSIQue57UoXaOepoBiHrSUE80maCQSllIwMdaapxSH5moGPjI3U5zURO1+OlDNmgHqBPNJmkooGf//Z",
+        "timestamp": 1700018515,
+        "title": "onigiri0395re.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F065L377GDU/onigiri0395re.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F065L377GDU/download/onigiri0395re.jpg",
+        "user": "U06478T36MT",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "clap",
+        "users": [
+          "U0647CWD0DT",
+          "U064A3MMLFM",
+          "U063XKA2J5V"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "gekiatsu",
+        "users": [
+          "U063XKA2J5V",
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "thanks",
+        "users": [
+          "U063XKA2J5V",
+          "U064DQE82NP"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "clap::skin-tone-2",
+        "users": [
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "text": "もう今さら顔バレもくそもねえな",
+    "thread_ts": "1700017487.661519",
+    "ts": "1700018526.148159",
+    "type": "message",
+    "upload": false,
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "StuI6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "実は貼りたくて仕方なかったやつですね。\n素晴らしい肉体美です。\n一瞬おパンツ合成かと思いました。\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U06478T36MT"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C81F7FE3-DF2B-43A5-AF48-DAF54B4F43E7",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "see_no_evil",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "実は貼りたくて仕方なかったやつですね。\n素晴らしい肉体美です。\n一瞬おパンツ合成かと思いました。\n<@U06478T36MT> ",
+    "thread_ts": "1700017487.661519",
+    "ts": "1700018645.255389",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cubsq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "脱ぎたがりの貼りたがりがバレたか……！その欲求抗いがたく……！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "811139c9-94d1-43bb-8a24-a104cd03a260",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "thanks",
+        "users": [
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "脱ぎたがりの貼りたがりがバレたか……！その欲求抗いがたく……！",
+    "thread_ts": "1700017487.661519",
+    "ts": "1700018698.477249",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lW0mm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06478T36MT"
+              },
+              {
+                "text": "さいっこーーーですね…………素晴らしすぎる筋肉……ありがとうございます…………",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5c1565e1-9b7e-4984-a3a9-0e5b0b515f60",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "face_holding_back_tears",
+        "users": [
+          "U06478T36MT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "<@U06478T36MT>さいっこーーーですね…………素晴らしすぎる筋肉……ありがとうございます…………:pray:",
+    "thread_ts": "1700017487.661519",
+    "ts": "1700020079.756029",
+    "type": "message",
+    "user": "U064DQE82NP"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4qJnx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2caa69ac-0ad8-4556-bce2-e64f6156d2a2",
+    "edited": {
+      "ts": "1700017672.000000",
+      "user": "U06478T36MT"
+    },
+    "is_locked": false,
+    "latest_reply": "1700058904.077899",
+    "reply_count": 3,
+    "reply_users": [
+      "U063XKA2J5V",
+      "U064AS42F7V"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700017508.630259",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m1Ojx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ライティングめっちゃかっこいいので、どんなイメージで撮影されたのかも教えていただきたいです",
+                "type": "text"
+              },
+              {
+                "name": "heart_hands",
+                "type": "emoji",
+                "unicode": "1faf6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F1BE89E6-1F42-4736-8463-E8D562B55FA5",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "そ_り",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "raised_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ライティングめっちゃかっこいいので、どんなイメージで撮影されたのかも教えていただきたいです:heart_hands: <@U064AS42F7V> ",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700019554.607639",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lvdfP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ライディングはなるべく身体の筋肉の凹凸が出るように意識して、尚且つ顔にはレンブラントというライディング方法になるように組んでみました！\n\nそれとカラフルなやつは映画「ジョンウィック」の照明を参考にライディングしてます〜\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U063XKA2J5V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CC431C4A-93D0-4AC8-A0C3-AB0F45988479",
+    "reactions": [
+      {
+        "count": 5,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U064AMJKU0J",
+          "U0647CWD0DT",
+          "U064A3MMLFM",
+          "U063XKA2J5V"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064AMJKU0J"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "thx",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "kami",
+        "users": [
+          "U063XKA2J5V",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "root": {
+      "blocks": [
+        {
+          "block_id": "4qJnx",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "2caa69ac-0ad8-4556-bce2-e64f6156d2a2",
+      "edited": {
+        "ts": "1700017672.000000",
+        "user": "U06478T36MT"
+      },
+      "is_locked": false,
+      "latest_reply": "1700058904.077899",
+      "reply_count": 3,
+      "reply_users": [
+        "U063XKA2J5V",
+        "U064AS42F7V"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+      "thread_ts": "1700017508.630259",
+      "ts": "1700017508.630259",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ライディングはなるべく身体の筋肉の凹凸が出るように意識して、尚且つ顔にはレンブラントというライディング方法になるように組んでみました！\n\nそれとカラフルなやつは映画「ジョンウィック」の照明を参考にライディングしてます〜\n<@U063XKA2J5V> ",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700050389.212149",
+    "type": "message",
+    "user": "U064AS42F7V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BSO5A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " うわあぁ！！！影が強く出るセッティングだったんですね！めっちゃ雰囲気出てかっけええぇ！！！！そして映画の作中にこんなオシャレな照明のシーンが！？ブチ上がるな！！？\n\nご教示ありがとうございます… ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "sparkles",
+                "type": "emoji",
+                "unicode": "2728"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "sparkles",
+                "type": "emoji",
+                "unicode": "2728"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "sparkles",
+                "type": "emoji",
+                "unicode": "2728"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "face_holding_back_tears",
+                "type": "emoji",
+                "unicode": "1f979"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02724E89-1472-42D1-B218-8D6630D14591",
+    "edited": {
+      "ts": "1700058929.000000",
+      "user": "U063XKA2J5V"
+    },
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "<@U064AS42F7V> うわあぁ！！！影が強く出るセッティングだったんですね！めっちゃ雰囲気出てかっけええぇ！！！！そして映画の作中にこんなオシャレな照明のシーンが！？ブチ上がるな！！？\n\nご教示ありがとうございます… :pray: :pray: :pray: :sparkles: :sparkles: :sparkles: :face_holding_back_tears: ",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700058904.077899",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uCaJZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おすさんだー！こっちでは初めまして！脱ぐんですか？脱ぐんですよね？？？\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U065L1LHGFQ"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "11C6262D-DBE5-4137-953A-66E416929474",
+    "team": "T063VL91V0X",
+    "text": "おすさんだー！こっちでは初めまして！脱ぐんですか？脱ぐんですよね？？？\n<@U065L1LHGFQ> ",
+    "ts": "1700018602.091339",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+yL7r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "脱ぐ男性しかいないのかなここは",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CD498A80-2D32-4464-82A1-F459FEA1FCAA",
+    "team": "T063VL91V0X",
+    "text": "脱ぐ男性しかいないのかなここは",
+    "ts": "1700018653.555559",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Xel/2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デジタル脱衣所と化してるよな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dfdb6177-fd6f-4e74-bf2a-6829950a03d6",
+    "team": "T063VL91V0X",
+    "text": "デジタル脱衣所と化してるよな",
+    "ts": "1700018724.803729",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O9C/B",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "デジタルタトゥー入れてるから銭湯いけへんようになって脱ぐ場がなくなってまう",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1c51fc24-9fe7-4e13-ab84-94eb1268fe6c",
+    "is_locked": false,
+    "latest_reply": "1700019651.838979",
+    "reply_count": 1,
+    "reply_users": [
+      "U063XKA2J5V"
+    ],
+    "reply_users_count": 1,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "デジタルタトゥー入れてるから銭湯いけへんようになって脱ぐ場がなくなってまう",
+    "thread_ts": "1700018751.524199",
+    "ts": "1700018751.524199",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UkVGN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(デジタル)タトゥー入った集団の脱衣所、治安悪すぎで笑いました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2046EFC8-7D01-49AE-A797-B541AE471302",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "laughing",
+        "users": [
+          "U06478T36MT",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "(デジタル)タトゥー入った集団の脱衣所、治安悪すぎで笑いました",
+    "thread_ts": "1700018751.524199",
+    "ts": "1700019651.838979",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lYHKp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今はだるだるおじさんボディなので目指せおにぎりで仕上げておきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ac12904b-174c-469c-b9f1-6c0071d95387",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM",
+          "U0647CWD0DT",
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "piggy",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "今はだるだるおじさんボディなので目指せおにぎりで仕上げておきます",
+    "ts": "1700024796.437459",
+    "type": "message",
+    "user": "U065L1LHGFQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "muZJr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "がんばってこれに戻したい所存",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89aad0a6-1d48-46cd-90b4-115108e0101b",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1700039552,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F065QV91KEZ",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_ocz7fr.jpg",
+        "original_h": 1024,
+        "original_w": 1012,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U065L1LHGFQ/F065QV91KEZ/img_ocz7fr.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F065QV91KEZ-3161f47345",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 56046,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 1012,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 356,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 474,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 712,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_800.jpg",
+        "thumb_800_h": 809,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F065QV91KEZ-f07a6b6486/img_ocz7fr_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 949,
+        "thumb_tiny": "AwAwAC/Q8xc4J5qCZQpDDoeKJuC3HOeKSMMy4fmmiGxVH3afimlcbB6U45A4p7CFopm4+9KpJNRGabsNxaEmH7zPv/SlBCoWY4UUsqlnwO5/pVa9cb44Oi5BY+1O40rsl5lU7hhX+6O+KftKooJzjvSGRXYbc4HtQs6PIYwDkdeKmSTVile9yAlASreZknkYPNTxjgdenemNJ+/ESgjPQ4pJrj7OQpXf7jisoQd7sqT00LEzFMEDOetQlBI+/uBgVLcdB+P8qjiNb2uZ3sxq+YkhzjDdqaImSfco+9196lk/1i/SpQAy47jpQ4jUrlcsROpbqGAB+tRzuYgp2hyeufWnTY8yNeh3g49ahvDtOwfePNSM/9k=",
+        "timestamp": 1700039552,
+        "title": "IMG_ocz7fr.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F065QV91KEZ/img_ocz7fr.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F065QV91KEZ/download/img_ocz7fr.jpg",
+        "user": "U065L1LHGFQ",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "is_locked": false,
+    "latest_reply": "1700048469.144399",
+    "reactions": [
+      {
+        "count": 6,
+        "name": "gekiatsu",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT",
+          "U064B2U40GM",
+          "U064A3MMLFM",
+          "U064DQE82NP",
+          "U064AMJKU0J"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "piggy",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "dokidoki",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "pray",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "raised_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "reply_count": 7,
+    "reply_users": [
+      "U06478T36MT",
+      "U065L1LHGFQ",
+      "U0647CWD0DT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 4,
+    "subscribed": false,
+    "text": "がんばってこれに戻したい所存",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700039579.491819",
+    "type": "message",
+    "upload": false,
+    "user": "U065L1LHGFQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wGnsc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すげーーーーーーー！！！、",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9922b17f-6c6a-404e-98a4-71b2890a828d",
+    "parent_user_id": "U065L1LHGFQ",
+    "team": "T063VL91V0X",
+    "text": "すげーーーーーーー！！！、",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700039602.786939",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "uGw4U",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あざっす！！！もう何年も前なので無理そうですができる限り仕上げます！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "00e46428-4557-47c9-b6f9-1bfd76b2a5e5",
+    "parent_user_id": "U065L1LHGFQ",
+    "team": "T063VL91V0X",
+    "text": "あざっす！！！もう何年も前なので無理そうですができる限り仕上げます！",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700039749.924789",
+    "type": "message",
+    "user": "U065L1LHGFQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1Q7AS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "マッスルメモリーあるからきっといけます！！！\n機会あれば合トレして色々教えてもらいたいっす！！！合トレのためだけに大阪帰省まであるんでそちらもご一考を！笑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b10d7ba9-e186-4ec5-8e0b-d44c97d51f7b",
+    "parent_user_id": "U065L1LHGFQ",
+    "team": "T063VL91V0X",
+    "text": "マッスルメモリーあるからきっといけます！！！\n機会あれば合トレして色々教えてもらいたいっす！！！合トレのためだけに大阪帰省まであるんでそちらもご一考を！笑",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700039832.750119",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Bj4YG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わいは正しいフォームとか全く知らないでやってたから逆に教わる立場なんよ〜！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "19199e8a-2bff-4aff-bd69-c50e7a89b7d3",
+    "parent_user_id": "U065L1LHGFQ",
+    "team": "T063VL91V0X",
+    "text": "わいは正しいフォームとか全く知らないでやってたから逆に教わる立場なんよ〜！！！",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700040132.879189",
+    "type": "message",
+    "user": "U065L1LHGFQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lvQJx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "バカなッッッ！？！？センスだけでここまでの僧帽筋を……！？それはそれで見て学ばせてもらいたいですね……！！\n自分なんかでよければフォーム等の知識だけはそれなりにあるのでぜひぜひ！！\n撮影日程決まったらそのオマケぐらいの感覚で付き合ってやってください……！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "01676d47-c68a-4463-8077-61d1e023aba7",
+    "parent_user_id": "U065L1LHGFQ",
+    "team": "T063VL91V0X",
+    "text": "バカなッッッ！？！？センスだけでここまでの僧帽筋を……！？それはそれで見て学ばせてもらいたいですね……！！\n自分なんかでよければフォーム等の知識だけはそれなりにあるのでぜひぜひ！！\n撮影日程決まったらそのオマケぐらいの感覚で付き合ってやってください……！！！",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700040265.189099",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hC4IT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここでも素晴らしい筋肉様…\nありがたや、ありがたや",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2881FC81-06E4-4EE7-91ED-1736B2E553F1",
+    "parent_user_id": "U065L1LHGFQ",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "pray",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ここでも素晴らしい筋肉様…\nありがたや、ありがたや",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700043065.613529",
+    "type": "message",
+    "user": "U0647CWD0DT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "WIo3D",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まじ。おすさんの筋肉の才能が凄すぎる。ジュラシックカップ予選通過するやつだ…！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0A5F9419-8414-4A73-B92A-68814E6FA727",
+    "parent_user_id": "U065L1LHGFQ",
+    "team": "T063VL91V0X",
+    "text": "まじ。おすさんの筋肉の才能が凄すぎる。ジュラシックカップ予選通過するやつだ…！！",
+    "thread_ts": "1700039579.491819",
+    "ts": "1700048469.144399",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5M9bV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もうこのチャンネル筋トレ部だろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "72a2e9bb-07c4-402d-b6e3-9d709a914e35",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U0647CWD0DT",
+          "U064B2U40GM",
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "もうこのチャンネル筋トレ部だろ",
+    "ts": "1700040505.490819",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2T460",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "筋トレ部作ってもろて ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " \n筋トレしたらひとこと報告してみんなからリアクションもらう部活で。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FA75392F-E4E5-4A26-AD5F-2CD0D3C8033B",
+    "is_locked": false,
+    "latest_reply": "1700054398.008149",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "reply_count": 2,
+    "reply_users": [
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "筋トレ部作ってもろて :pray: \n筋トレしたらひとこと報告してみんなからリアクションもらう部活で。",
+    "thread_ts": "1700048543.348429",
+    "ts": "1700048543.348429",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "bbiHx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ほんとにつくりました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "56080808-ef43-44c8-b2dc-66a0544f2484",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "ほんとにつくりました",
+    "thread_ts": "1700048543.348429",
+    "ts": "1700049952.624249",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7YQIZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "本当に作ってた。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d7cf6d86-e5f3-47a4-94b4-ee761ec997cb",
+    "parent_user_id": "U064A3MMLFM",
+    "team": "T063VL91V0X",
+    "text": "本当に作ってた。",
+    "thread_ts": "1700048543.348429",
+    "ts": "1700054398.008149",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/Pz2k",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " \nちょうかんへ\nおにぎりの写真掲載の許可ありがとうございます〜 ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " \nどうぞこれからもななプロをよろしくお願い致します",
+                "type": "text"
+              },
+              {
+                "name": "woman-bowing",
+                "type": "emoji",
+                "unicode": "1f647-200d-2640-fe0f"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2F4B08F4-980E-42C2-9314-184FCD2428B0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "clap",
+        "users": [
+          "U06478T36MT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "<@U064AS42F7V> \nちょうかんへ\nおにぎりの写真掲載の許可ありがとうございます〜 :pray: \nどうぞこれからもななプロをよろしくお願い致します:woman-bowing:",
+    "ts": "1700049091.423669",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q8Dsm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオも体重100kg切ったら裸自撮りあげる\nもうちょっとなんだ。頑張るあなる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7371038e-4067-4efa-92bc-b8ea75559956",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "+1",
+        "users": [
+          "U06478T36MT",
+          "U064AMJKU0J",
+          "U064A3MMLFM",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アナオも体重100kg切ったら裸自撮りあげる\nもうちょっとなんだ。頑張るあなる",
+    "ts": "1700049607.234179",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dzvzW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "筋トレはしてないけど",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9c49878-71fc-4c46-8b80-632f452501e7",
+    "is_locked": false,
+    "latest_reply": "1700049902.373319",
+    "reply_count": 3,
+    "reply_users": [
+      "U06478T36MT",
+      "U065F8WL0EN"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "筋トレはしてないけど",
+    "thread_ts": "1700049626.793259",
+    "ts": "1700049626.793259",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RB8Ij",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "っしてないんかーーーい！？笑\n\n僕も体重100kg超えてたときあるんで筋トレマジおすすめです！！！裸仲間待ってます！！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6b9868b0-a0c0-4198-b862-a3b686c7b81c",
+    "parent_user_id": "U065F8WL0EN",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U065F8WL0EN",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "っしてないんかーーーい！？笑\n\n僕も体重100kg超えてたときあるんで筋トレマジおすすめです！！！裸仲間待ってます！！！！",
+    "thread_ts": "1700049626.793259",
+    "ts": "1700049721.447739",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gp0W4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "筋トレは主義に反するのでしてないです。花山薫理論を実践してます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b840c2da-b629-4e6d-8c00-50f03995e408",
+    "parent_user_id": "U065F8WL0EN",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "gekiatsu",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "筋トレは主義に反するのでしてないです。花山薫理論を実践してます",
+    "thread_ts": "1700049626.793259",
+    "ts": "1700049815.068729",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "caH8i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "生まれつきの強者が鍛えるのは卑怯と断じるその精神性……！！！バキシリーズで一番好きなキャラなのでそのお気持ちめっちゃわかります……！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "def02c9c-8c6c-4e01-abe9-df41357997fc",
+    "parent_user_id": "U065F8WL0EN",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U065F8WL0EN",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "生まれつきの強者が鍛えるのは卑怯と断じるその精神性……！！！バキシリーズで一番好きなキャラなのでそのお気持ちめっちゃわかります……！！！",
+    "thread_ts": "1700049626.793259",
+    "ts": "1700049902.373319",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4qJnx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2caa69ac-0ad8-4556-bce2-e64f6156d2a2",
+    "edited": {
+      "ts": "1700017672.000000",
+      "user": "U06478T36MT"
+    },
+    "is_locked": false,
+    "latest_reply": "1700058904.077899",
+    "reply_count": 3,
+    "reply_users": [
+      "U063XKA2J5V",
+      "U064AS42F7V"
+    ],
+    "reply_users_count": 2,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700017508.630259",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "m1Ojx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ライティングめっちゃかっこいいので、どんなイメージで撮影されたのかも教えていただきたいです",
+                "type": "text"
+              },
+              {
+                "name": "heart_hands",
+                "type": "emoji",
+                "unicode": "1faf6"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F1BE89E6-1F42-4736-8463-E8D562B55FA5",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "そ_り",
+        "users": [
+          "U06478T36MT",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "raised_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ライティングめっちゃかっこいいので、どんなイメージで撮影されたのかも教えていただきたいです:heart_hands: <@U064AS42F7V> ",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700019554.607639",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "lvdfP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ライディングはなるべく身体の筋肉の凹凸が出るように意識して、尚且つ顔にはレンブラントというライディング方法になるように組んでみました！\n\nそれとカラフルなやつは映画「ジョンウィック」の照明を参考にライディングしてます〜\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U063XKA2J5V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CC431C4A-93D0-4AC8-A0C3-AB0F45988479",
+    "reactions": [
+      {
+        "count": 5,
+        "name": "thanks",
+        "users": [
+          "U06478T36MT",
+          "U064AMJKU0J",
+          "U0647CWD0DT",
+          "U064A3MMLFM",
+          "U063XKA2J5V"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V",
+          "U064AMJKU0J"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "thx",
+        "users": [
+          "U064A3MMLFM",
+          "U063XKA2J5V"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "kami",
+        "users": [
+          "U063XKA2J5V",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "root": {
+      "blocks": [
+        {
+          "block_id": "4qJnx",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "2caa69ac-0ad8-4556-bce2-e64f6156d2a2",
+      "edited": {
+        "ts": "1700017672.000000",
+        "user": "U06478T36MT"
+      },
+      "is_locked": false,
+      "latest_reply": "1700058904.077899",
+      "reply_count": 3,
+      "reply_users": [
+        "U063XKA2J5V",
+        "U064AS42F7V"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "ちょうかんによる誕生秘話気になる！！\n俺が遅れたときのブチギレを放出したってください！！！",
+      "thread_ts": "1700017508.630259",
+      "ts": "1700017508.630259",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ライディングはなるべく身体の筋肉の凹凸が出るように意識して、尚且つ顔にはレンブラントというライディング方法になるように組んでみました！\n\nそれとカラフルなやつは映画「ジョンウィック」の照明を参考にライディングしてます〜\n<@U063XKA2J5V> ",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700050389.212149",
+    "type": "message",
+    "user": "U064AS42F7V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BSO5A",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U064AS42F7V"
+              },
+              {
+                "text": " うわあぁ！！！影が強く出るセッティングだったんですね！めっちゃ雰囲気出てかっけええぇ！！！！そして映画の作中にこんなオシャレな照明のシーンが！？ブチ上がるな！！？\n\nご教示ありがとうございます… ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "pray",
+                "type": "emoji",
+                "unicode": "1f64f"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "sparkles",
+                "type": "emoji",
+                "unicode": "2728"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "sparkles",
+                "type": "emoji",
+                "unicode": "2728"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "sparkles",
+                "type": "emoji",
+                "unicode": "2728"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "name": "face_holding_back_tears",
+                "type": "emoji",
+                "unicode": "1f979"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "02724E89-1472-42D1-B218-8D6630D14591",
+    "edited": {
+      "ts": "1700058929.000000",
+      "user": "U063XKA2J5V"
+    },
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "<@U064AS42F7V> うわあぁ！！！影が強く出るセッティングだったんですね！めっちゃ雰囲気出てかっけええぇ！！！！そして映画の作中にこんなオシャレな照明のシーンが！？ブチ上がるな！！？\n\nご教示ありがとうございます… :pray: :pray: :pray: :sparkles: :sparkles: :sparkles: :face_holding_back_tears: ",
+    "thread_ts": "1700017508.630259",
+    "ts": "1700058904.077899",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FcB5H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさん１００キロまでもう少しと聞いて。（勝手に小柄な人だとおもってた）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "717058c3-098c-4ba6-98b4-56980f57207f",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アナオさん１００キロまでもう少しと聞いて。（勝手に小柄な人だとおもってた）",
+    "ts": "1700053366.286299",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QcD3r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "この Slack つけマン毛 生えすぎでは",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "23814B21-DE45-4F78-A337-2DA01D80E338",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "くまえり",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "この Slack つけマン毛 生えすぎでは",
+    "ts": "1700303371.337679",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fv1CE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "きゃりーぱみゅぱみゅかよってなりますね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89706ea7-5058-4a4a-aba5-0b0f72d43d09",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "question",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "grey_question",
+        "users": [
+          "U064CLXP068",
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "きゃりーぱみゅぱみゅかよってなりますね",
+    "ts": "1700303399.185689",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QL/Cz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちょっと歌ってみてもらわないと分かんないですね……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "07901CC9-89D1-420A-A5A9-05EFB2590CF4",
+    "is_locked": false,
+    "last_read": "1700306830.915149",
+    "latest_reply": "1700306830.915149",
+    "reply_count": 4,
+    "reply_users": [
+      "U06478T36MT",
+      "U064CLXP068",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": true,
+    "team": "T063VL91V0X",
+    "text": "ちょっと歌ってみてもらわないと分かんないですね……",
+    "thread_ts": "1700303702.005269",
+    "ts": "1700303702.005269",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VcdDO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(これでした……)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae047e53-08f1-4956-8996-2d0bb06cc4d3",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1700303923,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F0665U34V70",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "Screenshot_20231118-193806_Chrome.jpg",
+        "original_h": 1868,
+        "original_w": 1045,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U06478T36MT/F0665U34V70/screenshot_20231118-193806_chrome.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F0665U34V70-5560063d31",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 126192,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 573,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 201,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 269,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 403,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_800.jpg",
+        "thumb_800_h": 1430,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F0665U34V70-d97e62d403/screenshot_20231118-193806_chrome_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 537,
+        "thumb_tiny": "AwAwABrQOMn5unvSqR69enNBP0oB/wAgUAQzK7uDGFYYwcmnLHIFAJ5x61MKKAGZ+lOGab3PNAB7YNAD6KBnvRQAw9egpQf84pC3PWjcfWgB4OaKRTmloA//2Q==",
+        "timestamp": 1700303923,
+        "title": "Screenshot_20231118-193806_Chrome.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F0665U34V70/screenshot_20231118-193806_chrome.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F0665U34V70/download/screenshot_20231118-193806_chrome.jpg",
+        "user": "U06478T36MT",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "parent_user_id": "U064CLXP068",
+    "text": "(これでした……)",
+    "thread_ts": "1700303702.005269",
+    "ts": "1700303935.249409",
+    "type": "message",
+    "upload": false,
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5gm4O",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "つーけマン",
+                "type": "text"
+              },
+              {
+                "text": " つーけマン つーけーマンツー毛……",
+                "type": "text"
+              },
+              {
+                "text": "\nですか……？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "51402D93-057D-4B75-8043-1CC7CBEFD812",
+    "parent_user_id": "U064CLXP068",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "え",
+        "users": [
+          "U064CLXP068",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "つーけマン つーけマン つーけーマンツー毛……\nですか……？",
+    "thread_ts": "1700303702.005269",
+    "ts": "1700303994.109909",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Q5LJc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おとこのこにもおんなのこにもある付けるタイプの魔法です",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c613d031-7bc8-4408-8e2e-0a80d287421c",
+    "parent_user_id": "U064CLXP068",
+    "team": "T063VL91V0X",
+    "text": "おとこのこにもおんなのこにもある付けるタイプの魔法です",
+    "thread_ts": "1700303702.005269",
+    "ts": "1700304078.626909",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LTukh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "鵺ちゃんににゃおすの歌を見て欲しい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A214128C-5B9D-4CEB-B706-C9E0BB3C9F56",
+    "parent_user_id": "U064CLXP068",
+    "team": "T063VL91V0X",
+    "text": "鵺ちゃんににゃおすの歌を見て欲しい",
+    "thread_ts": "1700303702.005269",
+    "ts": "1700306830.915149",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qIetD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今日体重測ったら100.2kgだった。100kg切りまでもうちょっと",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9646c25e-c8dc-433f-b165-18e3f24e9145",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "gekiatsu",
+        "users": [
+          "U0647CWD0DT",
+          "U064A3MMLFM",
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "今日体重測ったら100.2kgだった。100kg切りまでもうちょっと",
+    "ts": "1700303908.130199",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "tWTj9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう秒読みですねぇ！！！ナイスファイトです！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b145b84d-e245-4d29-88e4-f6f603e8c95e",
+    "team": "T063VL91V0X",
+    "text": "もう秒読みですねぇ！！！ナイスファイトです！！",
+    "ts": "1700304015.394089",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7sVuE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさん、あとちょっとだ！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3A958DB4-4AEC-4D56-B8E8-6A62EA8833F2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "+1",
+        "users": [
+          "U065F8WL0EN"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アナオさん、あとちょっとだ！！！",
+    "ts": "1700306860.833309",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "omUmz",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "上半身裸はここに貼ったらいいかな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "f33fdbc5-11cd-4788-af5e-c398b840c9df",
+    "team": "T063VL91V0X",
+    "text": "上半身裸はここに貼ったらいいかな",
+    "ts": "1700310379.692459",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5NUrC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "上半身裸を貼るためのチャンネルですしね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ce64f024-b5f0-4783-9ece-74a1f3da3336",
+    "team": "T063VL91V0X",
+    "text": "上半身裸を貼るためのチャンネルですしね",
+    "ts": "1700310413.406239",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LTuqy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なるほど。そうだったんですねw",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "03d29d14-cac4-4530-9063-7d5239f868d2",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U06478T36MT",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "なるほど。そうだったんですねw",
+    "ts": "1700310439.072719",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZSnF6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "鵺ちゃんとのLINEを置いてゆきますね。\nおもにうんこの話",
+                "type": "text"
+              },
+              {
+                "name": "hankey",
+                "type": "emoji",
+                "unicode": "1f4a9"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B0573946-96FB-49E2-A707-9D800DC5F595",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1701056612,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F0675D94CT0",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "LINE_capture_722749394.221444.jpg",
+        "original_h": 3442,
+        "original_w": 828,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064A3MMLFM/F0675D94CT0/line_capture_722749394.221444.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F0675D94CT0-51a6b05306",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 218796,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 246,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 87,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 115,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 173,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_800.jpg",
+        "thumb_800_h": 3326,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F0675D94CT0-cded21e71a/line_capture_722749394.221444_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 231,
+        "thumb_tiny": "AwAwAAu6VB64pML7UEA4zj8TTcf7v50mIecY5xTR+H6U4/dpo/z1oYDicLkmmjJGd2aVifQke1AJx9002B//2Q==",
+        "timestamp": 1701056612,
+        "title": "LINE_capture_722749394.221444",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F0675D94CT0/line_capture_722749394.221444.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F0675D94CT0/download/line_capture_722749394.221444.jpg",
+        "user": "U064A3MMLFM",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 4,
+        "name": "hankey",
+        "users": [
+          "U065F8WL0EN",
+          "U066859HEJC",
+          "U064B2U40GM",
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "text": "鵺ちゃんとのLINEを置いてゆきますね。\nおもにうんこの話:hankey:",
+    "ts": "1701056641.822179",
+    "type": "message",
+    "upload": false,
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ynCHF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "世界のために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85F0670A-1FB4-4980-9C5B-7D027E6164B2",
+    "reactions": [
+      {
+        "count": 4,
+        "name": "tekunikaru",
+        "users": [
+          "U064A3MMLFM",
+          "U064B2U40GM",
+          "U066859HEJC",
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "世界のために。",
+    "ts": "1701056692.245209",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hCn+5",
+        "elements": [
+          {
+            "elements": [],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d5bf8e64-cd9e-45b8-9fb9-e57b3d8185d9",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1701058099,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06813YPDPA",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "20220728_213041.jpg",
+        "original_h": 348,
+        "original_w": 640,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U065L1LHGFQ/F06813YPDPA/20220728_213041.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06813YPDPA-d00b3b80f9",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 12655,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06813YPDPA-5bf1760579/20220728_213041_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06813YPDPA-5bf1760579/20220728_213041_360.jpg",
+        "thumb_360_h": 196,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06813YPDPA-5bf1760579/20220728_213041_480.jpg",
+        "thumb_480_h": 261,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06813YPDPA-5bf1760579/20220728_213041_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06813YPDPA-5bf1760579/20220728_213041_80.jpg",
+        "thumb_tiny": "AwAaADCcRJ6U7ykH8IoV1xhuoPenE7iCCcD0qC9StOoCZAxUSpjP4HpVq4QuoAHXilnjCRkjqcZ/Cl0DqVaQ0tIaQyysisDgHj2p0c6E9+OelR2/3DT4Pvp/1z/rVMTJDMme/wCVQTFAny5znvmrZ+8PxqG4/wBX+NSIpbxnHP5UE0pqN+oqrBc//9k=",
+        "timestamp": 1701058099,
+        "title": "20220728_213041.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06813YPDPA/20220728_213041.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06813YPDPA/download/20220728_213041.jpg",
+        "user": "U065L1LHGFQ",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 3,
+        "name": "hankey",
+        "users": [
+          "U065F8WL0EN",
+          "U064B2U40GM",
+          "U064CLXP068"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "性教育",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "しましょうか1",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "しましょうか2",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "しましょうか3",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "text": "",
+    "ts": "1701058102.191539",
+    "type": "message",
+    "upload": false,
+    "user": "U065L1LHGFQ"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GWwxx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これが……「大人向け」か？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "45aa5702-c5ed-42b9-bbfd-40f99e55a5aa",
+    "team": "T063VL91V0X",
+    "text": "これが……「大人向け」か？",
+    "ts": "1701082184.042769",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "s9Kji",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おとな向けですよね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C3014FDF-7F5D-4314-9C50-E2E9A067AEA9",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "おとな向けですよね？",
+    "ts": "1701082360.143819",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MWLjt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どこがやねんほぼコロコロコミックやないか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ef3059b9-5320-44f2-ac46-309ad1d64653",
+    "team": "T063VL91V0X",
+    "text": "どこがやねんほぼコロコロコミックやないか",
+    "ts": "1701082373.202499",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n7vWx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うんこ！うんこ〜！！！（うた）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F42FED64-2DA6-4906-A281-DC88C70A1BB6",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "うんこ！うんこ〜！！！（うた）",
+    "ts": "1701082387.616959",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gPUfO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大人のうんこ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EA14E600-932F-4461-9DB5-6AD6181E93D2",
+    "team": "T063VL91V0X",
+    "text": "大人のうんこ",
+    "ts": "1701082409.636469",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "hYsBU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たきちゃんは「うんこ」って言わないよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "138697CB-4EBD-415A-B134-D71F1B9F484E",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "たきちゃんは「うんこ」って言わないよ",
+    "ts": "1701082412.620749",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pValL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "品があると思われたいので…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D9D08E83-F813-41CA-AA80-E9C7BC64F401",
+    "team": "T063VL91V0X",
+    "text": "品があると思われたいので…",
+    "ts": "1701082455.765039",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "oSk/h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "巻き込み事故起こってるやん。巻きグソやめい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1b58f97a-d87f-4455-aa33-655440cff11d",
+    "team": "T063VL91V0X",
+    "text": "巻き込み事故起こってるやん。巻きグソやめい",
+    "ts": "1701082465.484879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9z/wc",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "たきちゃんのうんこはザリガニが代わりに出しています",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B64DA51A-729A-45D9-8BCD-BBA0456FCC41",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "たきちゃんのうんこはザリガニが代わりに出しています",
+    "ts": "1701082488.253419",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "5OkRf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "怒ってたはずのノブリスオブリージュ自分から言い出すスタイル",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ae98c2f5-45ea-46b5-b74d-fa4fb30709f1",
+    "team": "T063VL91V0X",
+    "text": "怒ってたはずのノブリスオブリージュ自分から言い出すスタイル",
+    "ts": "1701082524.229659",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cTS3i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "怒りごと水に流したんやなって",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "76d877af-292e-496a-bcbd-e1e6235539c5",
+    "team": "T063VL91V0X",
+    "text": "怒りごと水に流したんやなって",
+    "ts": "1701082556.767539",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "XOGkF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "貴族の義務としてたきちゃんの分のうんこはわたしが引き受けます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "045990B1-A7BD-4624-95AA-C47E54015C2C",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "貴族の義務としてたきちゃんの分のうんこはわたしが引き受けます。",
+    "ts": "1701082566.017499",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Y5yNj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "よろしくお願いいたします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "835D8008-561F-4E41-9636-FDF7C587263D",
+    "team": "T063VL91V0X",
+    "text": "よろしくお願いいたします",
+    "ts": "1701082589.481159",
+    "type": "message",
+    "user": "U063XKA2J5V"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OPlWe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まかせろぉ！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "332CF27F-4B2E-4CBA-AF38-D827E28D54CB",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "face_holding_back_tears",
+        "users": [
+          "U063XKA2J5V"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "まかせろぉ！",
+    "ts": "1701082599.174939",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "CBTbN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「ノブリスオブリージュ」のなかでも「ブリブリ」の字かくれてるしな。ブリブリしてってください",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c958cc39-ee8b-4e29-bced-56c535f3226a",
+    "team": "T063VL91V0X",
+    "text": "「ノブリスオブリージュ」のなかでも「ブリブリ」の字かくれてるしな。ブリブリしてってください",
+    "ts": "1701082600.985459",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rz8OD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ノブレスから変えたのにツッコミなかったから自己解説よ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a21d00f1-a065-4228-ab1c-431fc29f1305",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "pleading_face",
+        "users": [
+          "U063XKA2J5V",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ノブレスから変えたのにツッコミなかったから自己解説よ",
+    "ts": "1701082627.432879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "j/r9K",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ノブレスオブリージュ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E1237280-166A-49DB-95B8-0B3487CC34AD",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ノブレスオブリージュ",
+    "ts": "1701082648.571429",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ao8sw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どんまい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FFED79C1-D36D-496A-9B82-E8B6AA747AD0",
+    "team": "T063VL91V0X",
+    "text": "どんまい",
+    "ts": "1701082664.794609",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+9g6l",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "尻拭いは自分でやるもんやなって。ダイベンしてもらえると思わんとこ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "722a9d4e-9872-4223-a1da-638cce253674",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "thx",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "くまえり",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "尻拭いは自分でやるもんやなって。ダイベンしてもらえると思わんとこ。",
+    "ts": "1701082746.434169",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U0684HU4T7X>さんがチャンネルに参加しました",
+    "ts": "1701434824.169239",
+    "type": "message",
+    "user": "U0684HU4T7X"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U0688GV3TJ6>さんがチャンネルに参加しました",
+    "ts": "1701445660.603169",
+    "type": "message",
+    "user": "U0688GV3TJ6"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U068NVA73FU>さんがチャンネルに参加しました",
+    "ts": "1701772108.447649",
+    "type": "message",
+    "user": "U068NVA73FU"
+  },
+  {
+    "subtype": "channel_join",
+    "text": "<@U069YBM4C0Y>さんがチャンネルに参加しました",
+    "ts": "1702033939.353189",
+    "type": "message",
+    "user": "U069YBM4C0Y"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "8EhlG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめんなさい。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D754ED71-E4C3-48A4-88F1-1C66739D1CAE",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1703423162,
+        "display_as_bot": false,
+        "duration_ms": 20253,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "mp4",
+        "has_rich_preview": false,
+        "hls": "https://files.slack.com/files-tmb/T063VL91V0X-F06BJUSUTMJ-1be9b29e41/file.m3u8?_xcb=778fe",
+        "hls_embed": "data:application/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NzM1OTczLEFWRVJBR0UtQkFORFdJRFRIPTY5NTgyMyxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj01MDB4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk0xWk1PVEZXTUZndFJqQTJRa3BWVTFWVVRVb3RNV0psT1dJeU9XVTBNUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJNMVpNT1RGV01GZ3RSakEyUWtwVlUxVlVUVW90TVdKbE9XSXlPV1UwTVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyTTFaTU9URldNRmd0UmpBMlFrcFZVMVZVVFVvdE1XSmxPV0l5T1dVME1TOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TXk1MGN3b2pSVmhVU1U1R09qSXVNak0yTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk0xWk1PVEZXTUZndFJqQTJRa3BWVTFWVVRVb3RNV0psT1dJeU9XVTBNUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05DNTBjd29qUlZoVUxWZ3RSVTVFVEVsVFZBbz0KI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTQyOTcxNCxBVkVSQUdFLUJBTkRXSURUSD00MTY2OTIsQ09ERUNTPSJhdmMxLjY0MDAxZSxtcDRhLjQwLjUiLFJFU09MVVRJT049MzM0eDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDA2M1ZMOTFWMFgtRjA2QkpVU1VUTUotMWJlOWIyOWU0MS9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTXzdRVkJSLm0zdTgK",
+        "id": "F06BJUSUTMJ",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "video",
+        "media_progress": {
+          "duration_ms": 20343,
+          "max_offset_ms": 20343,
+          "media_watched": true,
+          "offset_ms": 20343
+        },
+        "mimetype": "video/mp4",
+        "mode": "hosted",
+        "mp4": "https://files.slack.com/files-tmb/T063VL91V0X-F06BJUSUTMJ-1be9b29e41/rpreplay_final1703423109.mp4",
+        "mp4_low": "https://files.slack.com/files-tmb/T063VL91V0X-F06BJUSUTMJ-1be9b29e41/rpreplay_final1703423109_trans.mp4",
+        "name": "RPReplay_Final1703423109.MP4",
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064CLXP068/F06BJUSUTMJ/rpreplay_final1703423109.mp4",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06BJUSUTMJ-e569d3e5c4",
+        "pretty_type": "MPEG 4ビデオ",
+        "public_url_shared": false,
+        "size": 8471216,
+        "thumb_video": "https://files.slack.com/files-tmb/T063VL91V0X-F06BJUSUTMJ-1be9b29e41/rpreplay_final1703423109_thumb_video.jpeg",
+        "thumb_video_h": 1556,
+        "thumb_video_w": 720,
+        "timestamp": 1703423162,
+        "title": "RPReplay_Final1703423109",
+        "transcription": {
+          "status": "none"
+        },
+        "url_private": "https://files.slack.com/files-tmb/T063VL91V0X-F06BJUSUTMJ-1be9b29e41/rpreplay_final1703423109.mp4",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06BJUSUTMJ/download/rpreplay_final1703423109.mp4",
+        "user": "U064CLXP068",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U065F8WL0EN"
+        ]
+      }
+    ],
+    "text": "ごめんなさい。",
+    "ts": "1703423167.892879",
+    "type": "message",
+    "upload": false,
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/yn1j",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「大人向け」ってヒントとこの動きから何かを察するゲーム始まったか",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6d766ce5-94e8-4bb7-825d-85fe146bbe78",
+    "team": "T063VL91V0X",
+    "text": "「大人向け」ってヒントとこの動きから何かを察するゲーム始まったか",
+    "ts": "1703424936.848989",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "30EnF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "てか眼帯きれいになってる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "13dfd408-78ec-414a-ac9c-9c8351f2246a",
+    "team": "T063VL91V0X",
+    "text": "てか眼帯きれいになってる",
+    "ts": "1703424968.772909",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Rx0LL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "寝起きにすごいもん見たwwww",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B560B80C-2BB6-4E6C-8CBD-5A2F40C61A5D",
+    "team": "T063VL91V0X",
+    "text": "寝起きにすごいもん見たwwww",
+    "ts": "1703449862.515769",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+DGlG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そして眼帯はきれいに！！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E09053AB-110E-45C8-8DB0-4B7670255555",
+    "team": "T063VL91V0X",
+    "text": "そして眼帯はきれいに！！！",
+    "ts": "1703449875.952919",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rdV6i",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "2004年の正月・",
+                "type": "text"
+              },
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "ちんこカルピス",
+                "type": "text"
+              },
+              {
+                "text": "の写真を発掘しました。閲覧注意です。\n\n",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          },
+          {
+            "elements": [
+              {
+                "text": "僕が元旦から熱を出して寝込んでいた時、「吸呑器」にカルピスを注いでくれた父が\nおもむろに吸呑器を股間に添えた様子を、我が家では「ちんこカルピス」と呼称しています。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_quote"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "876bf794-024a-4d3e-b008-4211a9887a2c",
+    "display_as_bot": false,
+    "files": [
+      {
+        "id": "F06CE0REEDC",
+        "mode": "tombstone"
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC",
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC",
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "くまえり",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "koubashi",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "生",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 3,
+        "name": "ちんちん",
+        "users": [
+          "U066859HEJC",
+          "U064B2U40GM",
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ええやん",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ええやん2",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "tekunikaru",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "bu_g",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "text": "2004年の正月・*ちんこカルピス*の写真を発掘しました。閲覧注意です。\n\n&gt; 僕が元旦から熱を出して寝込んでいた時、「吸呑器」にカルピスを注いでくれた父が\n&gt; おもむろに吸呑器を股間に添えた様子を、我が家では「ちんこカルピス」と呼称しています。",
+    "ts": "1704453372.805739",
+    "type": "message",
+    "upload": false,
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rBsRB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "例のロゴシールを試作しましたよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "85D191A2-7900-4F2B-96D2-F1A41634E426",
+    "team": "T063VL91V0X",
+    "text": "例のロゴシールを試作しましたよ",
+    "ts": "1704537950.375539",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xd64x",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "せかいのために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f82a7a5-c3db-47ca-9c3d-70339fdaa422",
+    "team": "T063VL91V0X",
+    "text": "せかいのために。",
+    "ts": "1704538026.209439",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "client_msg_id": "878FF8F5-9169-4A04-898A-EAD0AB8C4C39",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1704538095,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06CMV37A13",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_4277.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U066859HEJC/F06CMV37A13/img_4277.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06CMV37A13-d7ceb6dc9a",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 1786992,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_1024.jpg",
+        "thumb_1024_h": 768,
+        "thumb_1024_w": 1024,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_360.jpg",
+        "thumb_360_h": 270,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_480.jpg",
+        "thumb_480_h": 360,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_720.jpg",
+        "thumb_720_h": 540,
+        "thumb_720_w": 720,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_800.jpg",
+        "thumb_800_h": 600,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV37A13-ef69a93963/img_4277_960.jpg",
+        "thumb_960_h": 720,
+        "thumb_960_w": 960,
+        "thumb_tiny": "AwAkADCBxyDikX6Gpov9dH9aubvlX5u9IDPpg5b1FX7g/uZeR+XSs9etAxGTD4HSlbk9fpT+S3UDFM3kMQB3oAsQHM6D3q5ggKDjrVSBQsoOAMZ6mrQYHaOPzpiGXP8AqJOnUfzqnGBzVuYAwsCByR3qvgKMqOlJjEyuc45qB433ZC8E9asKhHPPXvTkDYKnGBSAQc4oI4oXtQen40wBfSnADimr1pw7UAPZF35x3x+FMUnzSvYVI33v+BVGv+vakB//2Q==",
+        "timestamp": 1704538095,
+        "title": "IMG_4277",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06CMV37A13/img_4277.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06CMV37A13/download/img_4277.jpg",
+        "user": "U066859HEJC",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ゆーゆーおるぐ",
+        "users": [
+          "U064B2U40GM",
+          "U064A3MMLFM",
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "text": "",
+    "ts": "1704538106.636759",
+    "type": "message",
+    "upload": false,
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "PulKM",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "プリクラみたいになってるwwｗｗ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5bd3ceb2-9e49-4d76-9133-1ec4bb3569f7",
+    "team": "T063VL91V0X",
+    "text": "プリクラみたいになってるwwｗｗ",
+    "ts": "1704538126.919519",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "P8OBe",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "QRコードを使用してファミマかローソンで印刷できます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A4373F51-52E1-4B2F-ADD1-9656180E9282",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1704538321,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F06CMV6VD3P",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "IMG_4278.png",
+        "original_h": 2532,
+        "original_w": 1170,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U066859HEJC/F06CMV6VD3P/img_4278.png",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06CMV6VD3P-84d5377a86",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 319751,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_1024.png",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 473,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_360.png",
+        "thumb_360_h": 360,
+        "thumb_360_w": 166,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_480.png",
+        "thumb_480_h": 480,
+        "thumb_480_w": 222,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_64.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_720.png",
+        "thumb_720_h": 720,
+        "thumb_720_w": 333,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_80.png",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_800.png",
+        "thumb_800_h": 1731,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06CMV6VD3P-a4b18de25b/img_4278_960.png",
+        "thumb_960_h": 960,
+        "thumb_960_w": 444,
+        "thumb_tiny": "AwAwABaYITgjHPTJo8t/VPzpJeEi/GohyRxVOTIUFYmKFQCcc+hzSUo/1KfU0lWtUZyVmOeNpI02gHGc81GIJM8qPzFOoqeUpTsOKlIkU9RnvTaKKpKxLd3cKKKTI9RQIWiiigD/2Q==",
+        "timestamp": 1704538321,
+        "title": "IMG_4278",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06CMV6VD3P/img_4278.png",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06CMV6VD3P/download/img_4278.png",
+        "user": "U066859HEJC",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "text": "QRコードを使用してファミマかローソンで印刷できます",
+    "ts": "1704538326.674549",
+    "type": "message",
+    "upload": false,
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "pyW2G",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "休日の間にやってきます",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F4FC67F9-159C-4629-87E1-CA8E0A7CBBB6",
+    "team": "T063VL91V0X",
+    "text": "休日の間にやってきます",
+    "ts": "1704539682.433899",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6pAlw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "怒られそうなので公に自慢しないように。特に鵺の名前出さないでもろて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "25C9192B-B0A0-4756-9479-3A0CC5187BEF",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U064B2U40GM",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "怒られそうなので公に自慢しないように。特に鵺の名前出さないでもろて",
+    "ts": "1704540411.316289",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zgLxY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これいつのまにか街中にあったらビビるなー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5EB99989-2465-4754-B07D-3AF04B2AB90B",
+    "team": "T063VL91V0X",
+    "text": "これいつのまにか街中にあったらビビるなー",
+    "ts": "1704540449.868709",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FjiCQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ローソンで手に入れてきました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A3E563E8-5241-4836-898E-D635CC3BF95C",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1705307240,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06DW7L88JF",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_3182.jpg",
+        "original_h": 4032,
+        "original_w": 2268,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064A3MMLFM/F06DW7L88JF/img_3182.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06DW7L88JF-c969b4311f",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 392139,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 576,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 270,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 405,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_800.jpg",
+        "thumb_800_h": 1422,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06DW7L88JF-332c6ab1e8/img_3182_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 540,
+        "thumb_tiny": "AwAwABu3SUE4BpueE+br+tIB1FIDndyDzRQAjHg/Sm55TpSO4DbcZJFIxy6kjtTAcp4OcdadmmqQy9MHNOwKAK8h/eg+lGd8o9qjLE896FlSNvnODj0qSi1RUH2uH+/+hpftcP8Af/Q1RJ//2Q==",
+        "timestamp": 1705307240,
+        "title": "IMG_3182",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06DW7L88JF/img_3182.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06DW7L88JF/download/img_3182.jpg",
+        "user": "U064A3MMLFM",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ゆーゆーおるぐ",
+        "users": [
+          "U0647CWD0DT",
+          "U064CLXP068",
+          "U064DQE82NP"
+        ]
+      }
+    ],
+    "text": "ローソンで手に入れてきました。",
+    "ts": "1705307253.392239",
+    "type": "message",
+    "upload": false,
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wIjy4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "せかいのために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "61EDC2B1-41C9-4185-BC79-57039CD68AE3",
+    "team": "T063VL91V0X",
+    "text": "せかいのために。",
+    "ts": "1705307258.677859",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wIjy4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "せかいのために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D471F6F4-5F33-4C26-B6EF-7159BF822D1E",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ゆーゆーおるぐ",
+        "users": [
+          "U0647CWD0DT"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "せかいのために。",
+    "ts": "1705307756.858509",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "attachments": [
+      {
+        "fallback": "FANZA: 「挿れるのもいいね」と君が言ったから今日は僕らのアナル記念日 花音うらら",
+        "from_url": "https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_1435clo00215/",
+        "id": 1,
+        "original_url": "https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_1435clo00215/",
+        "service_icon": "https://www.dmm.co.jp/favicon.ico",
+        "service_name": "FANZA",
+        "text": "とっても可愛い花音うららチャンが、奥さんがノーマルゆえにアブノーマルな性癖を満たすことが出来ずに悶々としている既婚男性のリクエストに応えてくれちゃいましたっ！メイドさんに扮し...",
+        "thumb_height": 200,
+        "thumb_url": "https://pics.dmm.co.jp/digital/video/h_1435clo00215/h_1435clo00215ps.jpg",
+        "thumb_width": 147,
+        "title": "「挿れるのもいいね」と君が言ったから今日は僕らのアナル記念日 花音うらら",
+        "title_link": "https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_1435clo00215/"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "UsfRr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「挿れるのもいいね」と君が言ったから今日は僕らのアナル記念日 花音うらら\n",
+                "type": "text"
+              },
+              {
+                "type": "link",
+                "url": "https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_1435clo00215/"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8f695a44-65a9-4f5e-8191-0ce4d1f615d9",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "gekiatsu",
+        "users": [
+          "U065F8WL0EN"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "kusa",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "「挿れるのもいいね」と君が言ったから今日は僕らのアナル記念日 花音うらら\n<https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=h_1435clo00215/>",
+    "ts": "1705753711.936319",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "yxS3r",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんだこれは",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74E659BC-3FD0-4BA5-8B2C-EB7188F53F6E",
+    "team": "T063VL91V0X",
+    "text": "なんだこれは",
+    "ts": "1705895688.187899",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "vUTsV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "色々ギリギリだよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "52D7BB41-959D-4DD9-821E-07E0FF3FC8AA",
+    "team": "T063VL91V0X",
+    "text": "色々ギリギリだよ",
+    "ts": "1705895722.204669",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  }
+]
