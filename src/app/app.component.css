@@ -15,6 +15,7 @@
 }
 
 .contents {
+  min-width: 400px;
   margin-left: var(--menu-width);
   padding: 0 1rem 1rem;
 }
