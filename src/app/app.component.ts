@@ -1,5 +1,5 @@
 import { Component, Inject, OnInit, Renderer2 } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { NavigationEnd, Router, RouterOutlet } from '@angular/router';
 
 import { UsersService } from './services/users.service';
 import { MenuComponent } from './components/menu/menu.component';
@@ -20,6 +20,7 @@ export class AppComponent implements OnInit {
   
   constructor(
     private readonly renderer2: Renderer2,
+    private readonly router: Router,
     @Inject(DOCUMENT) private readonly document: Document,
     private readonly usersService: UsersService
   ) { }
@@ -31,6 +32,13 @@ export class AppComponent implements OnInit {
     catch(error) {
       console.error('AppComponent#ngOnInit()', error);
     }
+    // ページ遷移時はサイドメニューを閉じ、ページトップに遷移させる
+    this.router.events.subscribe(event => {
+      if(event instanceof NavigationEnd) {
+        this.toggleMenu(false);
+        window.scrollTo(0, 0);
+      }
+    });
   }
   
   public toggleMenu(isShown?: boolean): void {

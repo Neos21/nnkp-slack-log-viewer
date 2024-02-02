@@ -16,7 +16,7 @@
   background: #151834;
   outline: 0;
   cursor: pointer;
-  z-index: calc(Infinity);
+  z-index: 3000;
 }
   @media (min-width: 992px) {
     .hamburger-icon { display: none; }
@@ -34,6 +34,26 @@
     margin-top: 5px;
   }
 
+.menu-background {  /* button */
+  display: none;
+}
+.menu-background span { visibility: hidden; }  /* テキストは非表示 */
+:host-context(.show-menu) .menu-background {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .5);
+  z-index: 1000;  /* `.menu` より下・`.header` より上 */
+  cursor: pointer;
+}
+  /* 幅が広い時：常に表示させない */
+  @media (min-width: 992px) {
+    :host-context(.show-menu) .menu-background { display: none; }
+  }
+
 .menu {
   position: fixed;
   top: 0;
@@ -43,7 +63,8 @@
   overflow-y: auto;
   border-right: 2px solid #dcdcdc;
   background: #f2f4f7;
-  z-index: 1000;
+  transition: left .2s;
+  z-index: 2000;
   -webkit-touch-callout: none;  /* iOS で長押ししてもポップアップメニューを開かせない */
 }
   /* 幅が広い時は常時表示 */
