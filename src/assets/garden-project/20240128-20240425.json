@@ -1,0 +1,1283 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "hCyBT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "eyes",
+                "type": "emoji",
+                "unicode": "1f440"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5F8F43FC-C72C-49F9-9BF7-32AC7204498B",
+    "team": "T063VL91V0X",
+    "text": ":eyes: ",
+    "ts": "1708506139.024029",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "mtHtu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "進んでるわけないお庭プロジェクト！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CDEC0315-D177-4114-BC9B-164FF131A659",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "進んでるわけないお庭プロジェクト！！",
+    "ts": "1708506786.540399",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UOnef",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "eyes",
+                "type": "emoji",
+                "unicode": "1f440"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4510C99A-AC99-4BD6-9B60-000386964644",
+    "team": "T063VL91V0X",
+    "text": ":eyes:",
+    "ts": "1710283445.360939",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z4FY/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "進んでるわけない！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "916B4616-499B-451C-B2D0-6B3CF68E125B",
+    "team": "T063VL91V0X",
+    "text": "進んでるわけない！！",
+    "ts": "1710300287.011599",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "nTChq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "穴埋まってるだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "73E99A08-6E7B-4CC1-8BBC-D865B84AC73D",
+    "team": "T063VL91V0X",
+    "text": "穴埋まってるだろ",
+    "ts": "1710402364.709019",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "GS25E",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "埋まってると思うけどこわくてみてない",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DB2587DC-12FF-42E1-96B1-F2D7F5B5468F",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "埋まってると思うけどこわくてみてない",
+    "ts": "1710403762.805639",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "I5GQ+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "見なさいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "624B8A75-2206-43F2-88FA-C95F9378B2EE",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "zarigani_run",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "見なさいよ",
+    "ts": "1710404163.135089",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "H9A/c",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "色々それどころじゃないわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C31FC5FF-1368-468D-BFE9-5C35D94D44CF",
+    "team": "T063VL91V0X",
+    "text": "色々それどころじゃないわ",
+    "ts": "1710407417.926519",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "W98Qa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "また掘れば良いしへーきへーき",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9513ac69-226c-4d14-96a9-300f72d1f905",
+    "team": "T063VL91V0X",
+    "text": "また掘れば良いしへーきへーき",
+    "ts": "1710407455.505399",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zRe2y",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "すみません。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BF6C6288-5976-474A-9604-963F65DA8FAA",
+    "team": "T063VL91V0X",
+    "text": "すみません。",
+    "ts": "1713163088.744879",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KGEVp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ゴールデンウィークに穴を掘ります。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F2765E8B-C11E-4F2F-B996-ACECBE3EF0BA",
+    "team": "T063VL91V0X",
+    "text": "ゴールデンウィークに穴を掘ります。",
+    "ts": "1713163102.800739",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wNGJg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "正確にはハツリです。（コンクリートぶっ壊す）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "9B0006A0-D183-4761-AEA9-D91B2A65D181",
+    "team": "T063VL91V0X",
+    "text": "正確にはハツリです。（コンクリートぶっ壊す）",
+    "ts": "1713163118.629839",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "xTG0s",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "カレンダー通りのお休みの日に穴掘りをします。\nいつでも構いません、お手伝いいただける方を募集します！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "682CB4D3-222C-4E9C-B516-4FDAD5C84EE1",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "+1",
+        "users": [
+          "U065F8WL0EN",
+          "U064AMJKU0J"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "カレンダー通りのお休みの日に穴掘りをします。\nいつでも構いません、お手伝いいただける方を募集します！！",
+    "ts": "1713163163.389429",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iAs75",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "目標、「基礎ブロック全部入れる」です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B96504EF-9FF0-4D6D-8CA5-BED49276A9BB",
+    "team": "T063VL91V0X",
+    "text": "目標、「基礎ブロック全部入れる」です。",
+    "ts": "1713163197.886119",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7ejjx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "タイムスケジュールは\n\n11時頃集合\n14時掘り終了\nその後スーパー銭湯に行きます。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A1047341-C6BE-41A1-BA6E-578398BA305D",
+    "team": "T063VL91V0X",
+    "text": "タイムスケジュールは\n\n11時頃集合\n14時掘り終了\nその後スーパー銭湯に行きます。",
+    "ts": "1713163261.037829",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rWt5S",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "どうぞよろしくお願いいたします ",
+                "type": "text"
+              },
+              {
+                "name": "balloon",
+                "type": "emoji",
+                "unicode": "1f388"
+              },
+              {
+                "text": " \n@channel このチャンネル内全員にメンションしています",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "BC256358-6DFF-41A0-B2B0-97E8443F4D33",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "どうぞよろしくお願いいたします :balloon: \n@channel このチャンネル内全員にメンションしています",
+    "ts": "1713163304.735469",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KLkEL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "熱中症に注意",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0E6845D7-D955-4D46-BD8B-0A144B9C3251",
+    "team": "T063VL91V0X",
+    "text": "熱中症に注意",
+    "ts": "1713164002.468239",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "droMC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "とりあえずアナオさんを確保したっぽいです！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0723FAFC-4A25-42AB-BC80-D63761922879",
+    "team": "T063VL91V0X",
+    "text": "とりあえずアナオさんを確保したっぽいです！",
+    "ts": "1713168822.379219",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iCYn0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "スポドリ用意しますね。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3FE72C3E-1CEA-42ED-8BD9-E2808E0AB77B",
+    "team": "T063VL91V0X",
+    "text": "スポドリ用意しますね。",
+    "ts": "1713168831.811119",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "6MDK1",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "具志堅用高から借りたコンクリートブロッカーまだ我が家にあります ",
+                "type": "text"
+              },
+              {
+                "name": "ok_hand",
+                "type": "emoji",
+                "unicode": "1f44c"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3FACEC8A-620D-4774-91AE-E4710AF5507D",
+    "team": "T063VL91V0X",
+    "text": "具志堅用高から借りたコンクリートブロッカーまだ我が家にあります :ok_hand: ",
+    "ts": "1713168856.769289",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "jI/jw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "穴掘り、何日くらいを予定してますか？\nこもりちゃんも行きたいそうで、連れて行ってもよいですかね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c1107951-5835-4b95-aa3f-1fabbf03da4f",
+    "team": "T063VL91V0X",
+    "text": "穴掘り、何日くらいを予定してますか？\nこもりちゃんも行きたいそうで、連れて行ってもよいですかね？",
+    "ts": "1713480292.676499",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qFVv/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いつでも大丈夫なんですけど、ななこさんの都合の悪い日はありますか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "debfc50e-6ad0-4684-ae4e-04ecb7a5be1f",
+    "team": "T063VL91V0X",
+    "text": "いつでも大丈夫なんですけど、ななこさんの都合の悪い日はありますか？",
+    "ts": "1713480672.846109",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Njt3Q",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こもりちゃん来るん？！遠いけど大丈夫そ？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "CA50B959-C0B7-474C-8869-42D816099425",
+    "team": "T063VL91V0X",
+    "text": "こもりちゃん来るん？！遠いけど大丈夫そ？？",
+    "ts": "1713485578.766589",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "RxFrl",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大丈夫らしいです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "dfe37602-e11c-409d-84c1-e0e2241c7a3b",
+    "team": "T063VL91V0X",
+    "text": "大丈夫らしいです",
+    "ts": "1713485607.602999",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VF3Jw",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "Rikoも確保したっぽいですね！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "AB09B367-BE9E-4F2C-A302-FA43AFED5FD7",
+    "team": "T063VL91V0X",
+    "text": "Rikoも確保したっぽいですね！",
+    "ts": "1713485639.441719",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZT1HJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "range": "channel",
+                "type": "broadcast"
+              },
+              {
+                "text": " 穴掘りの日程を決めます。\n５月3日(金)、4日(土)、5日(日)、いずれも祝日です。\nご都合の良い日を教えてください。\n参加者が最も多い日を開催日とします。\n",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U065F8WL0EN"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U063ZCF1H3R"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064AMJKU0J"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U066859HEJC"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U0649JQRK8V"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U06478T36MT"
+              },
+              {
+                "text": "  来られそうな方にメンションしました。穴を掘りに来てください！！！\n\n集合場所　名城線・自由ヶ丘駅\n集合時間　11時頃\n穴掘り終了目安　14時頃\n掘り終わったら近くのスーパー銭湯へ行く予定です。\n持ち物　軍手、金属製のスコップ、汚れてもいい服装\n\n現状、掘った穴が埋まってきています。\n\nアナオさんのお知り合いのこもりさん（女子）も来てくださるそうです♪",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8B55FEB1-4DB3-46F0-BFA5-78DF2C38D657",
+    "team": "T063VL91V0X",
+    "text": "<!channel> 穴掘りの日程を決めます。\n５月3日(金)、4日(土)、5日(日)、いずれも祝日です。\nご都合の良い日を教えてください。\n参加者が最も多い日を開催日とします。\n<@U065F8WL0EN> <@U063ZCF1H3R> <@U064AMJKU0J> <@U066859HEJC> <@U0649JQRK8V> <@U06478T36MT>  来られそうな方にメンションしました。穴を掘りに来てください！！！\n\n集合場所　名城線・自由ヶ丘駅\n集合時間　11時頃\n穴掘り終了目安　14時頃\n掘り終わったら近くのスーパー銭湯へ行く予定です。\n持ち物　軍手、金属製のスコップ、汚れてもいい服装\n\n現状、掘った穴が埋まってきています。\n\nアナオさんのお知り合いのこもりさん（女子）も来てくださるそうです♪",
+    "ts": "1713486254.866839",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UAphD",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオは第一希望5、以下4、3日の順で希望です！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "c6493168-465b-4b68-b936-320143e4e156",
+    "team": "T063VL91V0X",
+    "text": "アナオは第一希望5、以下4、3日の順で希望です！",
+    "ts": "1713486548.142679",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "2JJUP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "今、こもりちゃん発狂して髪の毛ないんですけどいいですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1dc7dd19-fae3-4994-993c-6f1fcaadf3e8",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "ゆーゆーおるぐ",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "今、こもりちゃん発狂して髪の毛ないんですけどいいですか？",
+    "ts": "1713487641.918479",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "zFkWy",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ご本人がよかったらええと思いますよ！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a6da1613-d869-49b7-9718-9ee05f9362d8",
+    "team": "T063VL91V0X",
+    "text": "ご本人がよかったらええと思いますよ！",
+    "ts": "1713492878.352949",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iUqVg",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "俺も暇だから行くわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2025c6ea-1dfe-4c1f-9814-dae74217beb9",
+    "team": "T063VL91V0X",
+    "text": "俺も暇だから行くわ",
+    "ts": "1713492921.922799",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "UgQi2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "まってwww「発狂して髪の毛ない」の程度がわからんのやけどそれは大丈夫なのか？\n「抜毛症で大変だ」なのか「躁状態でノリで丸刈りにした」なのかでおいらの心がまえが違うんだよぉ〜来てくれるならどんなでも歓迎しますよ〜！ ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U065F8WL0EN"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6EC342AC-615C-4EDE-ADDA-7D794694B073",
+    "team": "T063VL91V0X",
+    "text": "まってwww「発狂して髪の毛ない」の程度がわからんのやけどそれは大丈夫なのか？\n「抜毛症で大変だ」なのか「躁状態でノリで丸刈りにした」なのかでおいらの心がまえが違うんだよぉ〜来てくれるならどんなでも歓迎しますよ〜！ <@U065F8WL0EN> ",
+    "ts": "1713496152.485989",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "eYFe7",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06478T36MT"
+              },
+              {
+                "text": "  おにぎりを確保した！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A9C12EF6-EFDA-456D-A3A9-DDAA70CC2457",
+    "team": "T063VL91V0X",
+    "text": "<@U06478T36MT>  おにぎりを確保した！",
+    "ts": "1713496178.232589",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "fFNea",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "親に対する怒りで髪の毛切ったらしいです\n髪の毛が落ちてると怒られるらしくて",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A6AF0441-FED4-46E6-9CA7-C8D236029548",
+    "team": "T063VL91V0X",
+    "text": "親に対する怒りで髪の毛切ったらしいです\n髪の毛が落ちてると怒られるらしくて",
+    "ts": "1713496236.775539",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "aw+Ob",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なので、脱毛症ではないです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2B5FE9F3-1669-4A68-A253-B0A54AF958B2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "なので、脱毛症ではないです",
+    "ts": "1713496263.613819",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "byMvJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あっ、良かったっす！気合い入ってるんだね ",
+                "type": "text"
+              },
+              {
+                "name": "zarigani_run",
+                "type": "emoji"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5C0072E4-9304-4B6D-8C95-9B67E92E14CB",
+    "team": "T063VL91V0X",
+    "text": "あっ、良かったっす！気合い入ってるんだね :zarigani_run: ",
+    "ts": "1713496590.939099",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Jd0Rh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "穴掘り、5日で確定ですか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "21e34c07-4555-4799-a68a-b826e3c0631d",
+    "team": "T063VL91V0X",
+    "text": "穴掘り、5日で確定ですか？",
+    "ts": "1713617937.524509",
+    "type": "message",
+    "user": "U065F8WL0EN"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Sxqox",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "穴掘り５日確定にします",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2b9b41e8-c47a-4026-baa0-97214f5f540b",
+    "team": "T063VL91V0X",
+    "text": "穴掘り５日確定にします",
+    "ts": "1713617964.649739",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gDiJA",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【穴掘り会のご案内】\n日時　５月５日　１１時頃に集合　１４時穴掘り終了目安\n集合場所　名城線　自由ヶ丘駅\n持ち物　軍手、金属製のスコップ、汚れてもいい服装で来てください\n小雨決行ですが、普通に降ってる場合は中止とします。（うっかり来ちゃった時は一緒にスーパー銭湯だけでも行きましょう〜！）\n ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U06478T36MT"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U065F8WL0EN"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U063ZCF1H3R"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              },
+              {
+                "type": "user",
+                "user_id": "U064AMJKU0J"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b7038d21-744b-4bbe-bb72-25af8a2c7dd2",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "【穴掘り会のご案内】\n日時　５月５日　１１時頃に集合　１４時穴掘り終了目安\n集合場所　名城線　自由ヶ丘駅\n持ち物　軍手、金属製のスコップ、汚れてもいい服装で来てください\n小雨決行ですが、普通に降ってる場合は中止とします。（うっかり来ちゃった時は一緒にスーパー銭湯だけでも行きましょう〜！）\n <@U06478T36MT> <@U065F8WL0EN> <@U063ZCF1H3R> <@U064AMJKU0J>",
+    "ts": "1713618290.800219",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NnnZt",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "穴ほじり",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7CC4911F-BD5D-4EC7-A819-C820A23B79D4",
+    "team": "T063VL91V0X",
+    "text": "穴ほじり",
+    "ts": "1713868347.488939",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Z7mTp",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "鵺くる？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5A53F8E8-E91A-4773-92CF-E9C21E0CBCCE",
+    "team": "T063VL91V0X",
+    "text": "鵺くる？",
+    "ts": "1713868383.555879",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "g2H3z",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "来るね？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0690BDCD-5BD4-4E30-B61B-F1266BFFA48B",
+    "team": "T063VL91V0X",
+    "text": "来るね？？",
+    "ts": "1713868388.963339",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "7mNu6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こないよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6F04274B-A4EF-47A8-A590-90FE676CB905",
+    "team": "T063VL91V0X",
+    "text": "こないよ",
+    "ts": "1713868440.317469",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "OZhLP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "さみしいよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6FA91328-67E7-49E5-80C8-EE23D641A7D0",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "さみしいよ",
+    "ts": "1713877874.801249",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  }
+]

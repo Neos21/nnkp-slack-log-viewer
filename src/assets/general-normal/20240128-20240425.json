@@ -1,0 +1,5042 @@
+[
+  {
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1706499017,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F06FKAJT1AB",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "IMG_4047.png",
+        "original_h": 2532,
+        "original_w": 1170,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U066859HEJC/F06FKAJT1AB/img_4047.png",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06FKAJT1AB-a535c3251b",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 613735,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_1024.png",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 473,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_360.png",
+        "thumb_360_h": 360,
+        "thumb_360_w": 166,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_480.png",
+        "thumb_480_h": 480,
+        "thumb_480_w": 222,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_64.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_720.png",
+        "thumb_720_h": 720,
+        "thumb_720_w": 333,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_80.png",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_800.png",
+        "thumb_800_h": 1731,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKAJT1AB-0b8f3904cd/img_4047_960.png",
+        "thumb_960_h": 960,
+        "thumb_960_w": 444,
+        "thumb_tiny": "AwAwABZP7SbOfKXP+8atfbAsUbspy4zgdqk+zw5/1Kf9809VCgBRgDsKAGW8yzbioYY45NTUgpaAGnNGDTcAMTg8mlAXutAC4NGDSjHXGKWgApoznrSnPNNDqTgEZ+tAD6KKKAP/2Q==",
+        "timestamp": 1706499017,
+        "title": "IMG_4047",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06FKAJT1AB/img_4047.png",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06FKAJT1AB/download/img_4047.png",
+        "user": "U066859HEJC",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "subtype": "canvas_sharing_message",
+    "text": "",
+    "ts": "1706499104.005769",
+    "type": "message",
+    "upload": false,
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "HtRoJ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "鵺のゆーゆーおるぐ、うんこマークがアウトなんだそうです",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6E59FE65-EF94-474C-A0A0-E650641B4F56",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "hankey",
+        "users": [
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "鵺のゆーゆーおるぐ、うんこマークがアウトなんだそうです",
+    "ts": "1706499134.681479",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "gykHP",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うんちマークないバージョンきぼんぬ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5245D4D0-7155-4FC7-9C8B-349E73D45755",
+    "team": "T063VL91V0X",
+    "text": "うんちマークないバージョンきぼんぬ",
+    "ts": "1706499361.781339",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rNLSS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "探してきます！鵺がどっかで投げてた気がする〜",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "B7D5B5B4-DC6B-4467-8217-07F2EAAE9308",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "pray",
+        "users": [
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "探してきます！鵺がどっかで投げてた気がする〜",
+    "ts": "1706499418.397259",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "attachments": [
+      {
+        "author_icon": "https://avatars.slack-edge.com/2023-11-14/6204660425921_dd99edfaca0062dd03f2_48.png",
+        "author_id": "U066859HEJC",
+        "author_link": "https://w1699144815-gue300630.slack.com/team/U066859HEJC",
+        "author_name": "鵺",
+        "author_subname": "鵺",
+        "channel_id": "C064Z7LPX3J",
+        "channel_team": "T063VL91V0X",
+        "fallback": "[December 16th, 2023 7:22 PM] nue20231105: できました",
+        "footer": "Slack の会話",
+        "from_url": "https://w1699144815-gue300630.slack.com/archives/C064Z7LPX3J/p1702783372361989",
+        "id": 1,
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "channel": "C064Z7LPX3J",
+            "message": {
+              "blocks": [
+                {
+                  "block_id": "QXHck",
+                  "elements": [
+                    {
+                      "elements": [
+                        {
+                          "text": "できました",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "rich_text_section"
+                    }
+                  ],
+                  "type": "rich_text"
+                }
+              ]
+            },
+            "team": "T063VL91V0X",
+            "ts": "1702783372.361989"
+          }
+        ],
+        "mrkdwn_in": [
+          "text"
+        ],
+        "original_url": "https://w1699144815-gue300630.slack.com/archives/C064Z7LPX3J/p1702783372361989",
+        "text": "できました",
+        "ts": "1702783372.361989"
+      }
+    ],
+    "blocks": [
+      {
+        "block_id": "Zs0CE",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "https://w1699144815-gue300630.slack.com/archives/C064Z7LPX3J/p1702783372361989",
+                "type": "link",
+                "url": "https://w1699144815-gue300630.slack.com/archives/C064Z7LPX3J/p1702783372361989"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EBAF23C7-4005-46A2-81FF-E9C835492B99",
+    "team": "T063VL91V0X",
+    "text": "<https://w1699144815-gue300630.slack.com/archives/C064Z7LPX3J/p1702783372361989|https://w1699144815-gue300630.slack.com/archives/C064Z7LPX3J/p1702783372361989>",
+    "ts": "1706499593.800399",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "rEKD0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うんこつきのやつしかなかった。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22A25A94-8AA3-45C8-BA56-065CD3126643",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "hankey",
+        "users": [
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "うんこつきのやつしかなかった。。。",
+    "ts": "1706499601.795209",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Ai7uK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "トイレットペーパーかよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0f46536f-805c-4c56-a98b-0bc034f8e66c",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "kusa",
+        "users": [
+          "U064CLXP068"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "トイレットペーパーかよ",
+    "ts": "1706499619.761529",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Cv90p",
+        "elements": [
+          {
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U066859HEJC"
+              },
+              {
+                "text": " お鵺、うんこなしのゆーゆーおるぐください。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4F89F915-395B-4C1B-A929-32C7441FD866",
+    "team": "T063VL91V0X",
+    "text": "<@U066859HEJC> お鵺、うんこなしのゆーゆーおるぐください。",
+    "ts": "1706499622.388679",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/30v9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うんち拭いた",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2a384267-ca07-4293-977a-82a1b57c136d",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1706502725,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "png",
+        "has_rich_preview": false,
+        "id": "F06FKF0NLT1",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/png",
+        "mode": "hosted",
+        "name": "styles-footer-logo-uuorg.png",
+        "original_h": 128,
+        "original_w": 128,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064CLXP068/F06FKF0NLT1/styles-footer-logo-uuorg.png",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06FKF0NLT1-4715c7f68b",
+        "pretty_type": "PNG",
+        "public_url_shared": false,
+        "size": 15007,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKF0NLT1-b9bb37dc43/styles-footer-logo-uuorg_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKF0NLT1-b9bb37dc43/styles-footer-logo-uuorg_360.png",
+        "thumb_360_h": 128,
+        "thumb_360_w": 128,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKF0NLT1-b9bb37dc43/styles-footer-logo-uuorg_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06FKF0NLT1-b9bb37dc43/styles-footer-logo-uuorg_80.png",
+        "thumb_tiny": "AwAwADDTqOaURgDgs3CjNSVUZkN5J5iltqgL8uQO9ADJUaQtunb5Rk7TgE+goiRoyu2dvmGRuOQD6GnoY/I5Q7iDztocx/Z+E+YAc7aAJ4ZhKGHAdThhnNSVUV4/tkfloV3AhvlwD3q3QBUmi8y6ZScN5YMZ/ukH/wDVTVlYOswUESAK4JxtYVNcfLLDJ6NtP0P/ANfFQr5m+faFYb/miPXHrn3oAkVnWNo9g+Uf3u1DNI0SxhB8w/vdqiEPnDME7LjgqwyV9qDD5IzPOzZ4CqMFvagBWlYu0xUARgqgBzuY06KLy7lFBy3lkyH+8Sf/ANdNfzN8G4Ko3jbEOuPX8Kmg+aWaT1baPoP/AK+aAJZEWRCjDINVmjZZoxIS2ThJBww9j61KZXBI8onFNk/ep+8gJAPANABKALuBgME5BPqMURAG7nYjJG0A+gxUaoI3DJa4I796WRVkcs1qWJ6n1oAAjNNIsZK4OHkPLfQelWY0WNAijAFQRny0IjgKZOacsspYBoiATQB//9k=",
+        "timestamp": 1706502725,
+        "title": "styles-footer-logo-uuorg.png",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06FKF0NLT1/styles-footer-logo-uuorg.png",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06FKF0NLT1/download/styles-footer-logo-uuorg.png",
+        "user": "U064CLXP068",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "text": "うんち拭いた",
+    "ts": "1706502729.485889",
+    "type": "message",
+    "upload": false,
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JPuIh",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うっすら…… ",
+                "type": "text"
+              },
+              {
+                "name": "joy",
+                "type": "emoji",
+                "unicode": "1f602"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "22567B19-6F1F-4F2A-8F31-7D0D77A33500",
+    "team": "T063VL91V0X",
+    "text": "うっすら…… :joy: ",
+    "ts": "1706516346.077999",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wyblT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "いいか、拭いたから、いいか？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "EAEFE256-CF32-45C3-9864-5BD34630EC4D",
+    "team": "T063VL91V0X",
+    "text": "いいか、拭いたから、いいか？",
+    "ts": "1706516361.960349",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4qR+F",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ゆーゆーおるぐって",
+                "type": "text"
+              },
+              {
+                "text": "なんなんですか？ (今更)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "28CED407-5535-43CD-B301-43EF7009F398",
+    "team": "T063VL91V0X",
+    "text": "ゆーゆーおるぐってなんなんですか？ (今更)",
+    "ts": "1706516419.613519",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZmEDs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ゆーゆーおるぐって鵺と私で作った秘密組織です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7C1705B8-D8BE-401B-B9A5-7C87980D2E7F",
+    "team": "T063VL91V0X",
+    "text": "ゆーゆーおるぐって鵺と私で作った秘密組織です。",
+    "ts": "1706516491.751639",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1BWq0",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "美人はうんこしないけど、ザリガニは美人だけど、うんこする。それは、せかいのために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ECCCC529-69AD-4A27-A795-6B9B8B20C16B",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "he-",
+        "users": [
+          "U064CLXP068"
+        ]
+      },
+      {
+        "count": 2,
+        "name": "hankey",
+        "users": [
+          "U065F8WL0EN",
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "美人はうんこしないけど、ザリガニは美人だけど、うんこする。それは、せかいのために。",
+    "ts": "1706516514.405839",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "EJAP4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "これが、ゆーゆーおるぐです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FEB94AD9-68FF-4557-A272-A54C7DBEB089",
+    "team": "T063VL91V0X",
+    "text": "これが、ゆーゆーおるぐです。",
+    "ts": "1706516526.474179",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wIjy4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "せかいのために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E187311E-8D4C-4977-AB8A-9BB05A5E32F2",
+    "team": "T063VL91V0X",
+    "text": "せかいのために。",
+    "ts": "1706516532.955289",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "VgaDY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "秘密組織がスポンサードにいる感じ良いなと思ってたので、\nうんこ拭いたついでにバナーを足しておきました。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "D7030B52-5226-4836-9750-8D2E3C6217A8",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1706516624,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06GDF06FQR",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_0717.jpg",
+        "original_h": 495,
+        "original_w": 1242,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064CLXP068/F06GDF06FQR/img_0717.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06GDF06FQR-2bf940a1d1",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 34096,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_1024.jpg",
+        "thumb_1024_h": 408,
+        "thumb_1024_w": 1024,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_360.jpg",
+        "thumb_360_h": 143,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_480.jpg",
+        "thumb_480_h": 191,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_720.jpg",
+        "thumb_720_h": 287,
+        "thumb_720_w": 720,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_800.jpg",
+        "thumb_800_h": 319,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06GDF06FQR-e78acb0689/img_0717_960.jpg",
+        "thumb_960_h": 383,
+        "thumb_960_w": 960,
+        "thumb_tiny": "AwATADDTpo355C4+tOqNzID8gBFADvn9F/Ogb88hcUxTKc5AHFOJk+XgH1oAX5/Rfzp1NUtnkYH1p1AFL7RL/e/QUGeTB+b9BUVKehrZpDQzz5f+ejfnS+fL/wA9G/OoqWpaRSRcE0mB836UvnP/AHv0qIdBTqllJI//2Q==",
+        "timestamp": 1706516624,
+        "title": "IMG_0717",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06GDF06FQR/img_0717.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06GDF06FQR/download/img_0717.jpg",
+        "user": "U064CLXP068",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "kusa",
+        "users": [
+          "U06478T36MT"
+        ]
+      }
+    ],
+    "text": "秘密組織がスポンサードにいる感じ良いなと思ってたので、\nうんこ拭いたついでにバナーを足しておきました。",
+    "ts": "1706516635.791059",
+    "type": "message",
+    "upload": false,
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ZfoLn",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんのバナーなんすか笑笑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "54A8BB2B-F6E8-41B1-B389-C838DED1568E",
+    "team": "T063VL91V0X",
+    "text": "なんのバナーなんすか笑笑",
+    "ts": "1706516679.624149",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+PogN",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "AI に考えてもらった企業名をもとに自作したバナーです。\nあとの設定は皆さんで詰めてください (ぶん投げ)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0ECA3A63-7832-45E8-A3B4-72E9815C762D",
+    "team": "T063VL91V0X",
+    "text": "AI に考えてもらった企業名をもとに自作したバナーです。\nあとの設定は皆さんで詰めてください (ぶん投げ)",
+    "ts": "1706516754.378199",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "kxX+/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「グッドデッサー」と「アポクスソウル」って企業なんです？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1D6AF4F7-2C5E-429B-BAAE-2E1B9F5E2B59",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "「グッドデッサー」と「アポクスソウル」って企業なんです？？",
+    "ts": "1706516814.037769",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Uu3ax",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "企業なのか、事務所なのか、組織なのか、何なのでしょうね……",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5E01FD1E-B44D-49EA-A9F2-5E396C4EB7AB",
+    "team": "T063VL91V0X",
+    "text": "企業なのか、事務所なのか、組織なのか、何なのでしょうね……",
+    "ts": "1706516927.577959",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p+8Vu",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "グッドデッサー、アメザリズを支える闇のデザイン組織。部員募集中。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7B3E1F40-5ECC-4533-A0B5-FA2EAD69EE20",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "グッドデッサー、アメザリズを支える闇のデザイン組織。部員募集中。",
+    "ts": "1706517028.008129",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SQI1w",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アポクスソウル、ザリガニの奴隷が集まる趣味サークル。オタ芸の稽古に励む。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "2580A56D-23D7-475F-A33E-1FA621013831",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "kusa",
+        "users": [
+          "U064CLXP068",
+          "U063ZCF1H3R"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アポクスソウル、ザリガニの奴隷が集まる趣味サークル。オタ芸の稽古に励む。",
+    "ts": "1706517100.974679",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "cJpRa",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "グッドデッサー…すでに部員いる説あるなぁ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ada3bbe6-4a22-41fb-8ec1-9f0fa15955b7",
+    "team": "T063VL91V0X",
+    "text": "グッドデッサー…すでに部員いる説あるなぁ",
+    "ts": "1706517652.287249",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "LC54g",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "(ちなみに正しい読みは「ゴデッサ」「ピクセルソウル」です笑)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6FA0A154-5386-4C28-B54D-8AEDD7A55FA2",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "kusa",
+        "users": [
+          "U06478T36MT",
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "joy",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "(ちなみに正しい読みは「ゴデッサ」「ピクセルソウル」です笑)",
+    "ts": "1706517712.199349",
+    "type": "message",
+    "user": "U064CLXP068"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "MLATT",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "グッドデッサーとアポクスソウルの方がなんかかっこいいからそっちにしよ！！(横暴の人)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "89318e14-19fa-4a81-93eb-877824208907",
+    "reactions": [
+      {
+        "count": 2,
+        "name": "gyoi",
+        "users": [
+          "U064CLXP068",
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "グッドデッサーとアポクスソウルの方がなんかかっこいいからそっちにしよ！！(横暴の人)",
+    "ts": "1706517855.984069",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NJBF2",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "「1984年」ばりの強権。ビッグブラザーもびっくりよ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "60fe78a1-c3c2-4a11-8c64-2ddf0da4c43a",
+    "team": "T063VL91V0X",
+    "text": "「1984年」ばりの強権。ビッグブラザーもびっくりよ",
+    "ts": "1706517900.808249",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qZ1md",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ザリガニの読み間違えがそのまま採用されてる",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "DBDC2E90-5F32-4556-BB76-FB22A64F4986",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ザリガニの読み間違えがそのまま採用されてる",
+    "ts": "1706534201.463019",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KCPs3",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アポクスソウル・ジャズってジャンルがあるかもしれないっす。キーボードの候補に出るです。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8624D1CC-CA9C-4E87-9853-2F67E591D973",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "アポクスソウル・ジャズってジャンルがあるかもしれないっす。キーボードの候補に出るです。",
+    "ts": "1706534241.006739",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "KhIgr",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "美人はうんこしないから、美人のためにうんこする人がひつようになるので、代わりにうんこしてあげる人々の組織です。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "FF17F73E-D2D2-4386-AABA-D07528472661",
+    "team": "T063VL91V0X",
+    "text": "美人はうんこしないから、美人のためにうんこする人がひつようになるので、代わりにうんこしてあげる人々の組織です。",
+    "ts": "1707214616.923479",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "wIjy4",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "せかいのために。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1AF5A76B-CAB8-4972-B47A-C9AE98ED754A",
+    "team": "T063VL91V0X",
+    "text": "せかいのために。",
+    "ts": "1707214622.872479",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ybjzx",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "せかいのために。うんこする。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E40CBF3C-C71E-49F2-861B-55BBB192970B",
+    "reactions": [
+      {
+        "count": 3,
+        "name": "ゆーゆーおるぐ",
+        "users": [
+          "U066859HEJC",
+          "U0684HU4T7X",
+          "U0688GV3TJ6"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "せかいのために。うんこする。",
+    "ts": "1707215313.642819",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "IVeGV",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "セリアの缶々シリーズに都こんぶとココアシガレットが！！",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4775bd34-5cda-4be0-b74d-6dbeacaa884b",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1710645610,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06PZK7AN9J",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_20240317_121953.jpg",
+        "original_h": 4608,
+        "original_w": 3456,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064AMJKU0J/F06PZK7AN9J/img_20240317_121953.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06PZK7AN9J-17e1560178",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 805237,
+        "thumb_1024": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_1024.jpg",
+        "thumb_1024_h": 1024,
+        "thumb_1024_w": 768,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_360.jpg",
+        "thumb_360_h": 360,
+        "thumb_360_w": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_480.jpg",
+        "thumb_480_h": 480,
+        "thumb_480_w": 360,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_720.jpg",
+        "thumb_720_h": 720,
+        "thumb_720_w": 540,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_800.jpg",
+        "thumb_800_h": 1067,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06PZK7AN9J-f62ec81629/img_20240317_121953_960.jpg",
+        "thumb_960_h": 960,
+        "thumb_960_w": 720,
+        "thumb_tiny": "AwAwACSGVMcnqKiI+YfSrR2yJlagKEMABnrUjGqT37Cm42oAfrVmO2ds7vkUdSabLARMAOUPIPtTAjSMbct1PNO8tPUVMVIPKmjA/umgYyN495CqwI/2utTo+07gvHvVZo8PncQe57ilMgMpBzg9PrQCtfUtlt+4MTg9x2pdypgAZX1z0NVMtyAamEmF2DBOBx6ULYbutCR1MhzjHHrTfJP+TUf2yNSQVbI4PAo+3Rf3W/IUEkFzL++wuMAYPvTHIEOSR5jHP0FRuMMfQ00nimhFiJ94y3AHXmrClc5A59apsNsHA4NTwcxr9Kku9yXyoiclBk0eTF/cFOHSikB//9k=",
+        "timestamp": 1710645610,
+        "title": "IMG_20240317_121953.jpg",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06PZK7AN9J/img_20240317_121953.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06PZK7AN9J/download/img_20240317_121953.jpg",
+        "user": "U064AMJKU0J",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 2,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC",
+          "U064416N422"
+        ]
+      }
+    ],
+    "text": "セリアの缶々シリーズに都こんぶとココアシガレットが！！",
+    "ts": "1710645692.346909",
+    "type": "message",
+    "upload": false,
+    "user": "U064AMJKU0J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iXDJC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "それ缶なのか！？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5723149b-926e-4533-afd8-fc90dd847c5a",
+    "team": "T063VL91V0X",
+    "text": "それ缶なのか！？",
+    "ts": "1710647310.887159",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ES8VO",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "げきかわ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1CFD9AFD-4BF1-461B-A32C-0D1083785078",
+    "team": "T063VL91V0X",
+    "text": "げきかわ",
+    "ts": "1710658645.321379",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "YVMNL",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "なんか、あかんやつの保存の偽装にするやつなんじゃ。。。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "193d041c-62e9-44f4-a206-a424fa8c233d",
+    "team": "T063VL91V0X",
+    "text": "なんか、あかんやつの保存の偽装にするやつなんじゃ。。。",
+    "ts": "1710659373.351689",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "/+FHv",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あかんヤツ！って何いれる気ですか笑",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "b59c8eed-ed8e-41ad-aabe-c19410f951c8",
+    "team": "T063VL91V0X",
+    "text": "あかんヤツ！って何いれる気ですか笑",
+    "ts": "1710667233.878869",
+    "type": "message",
+    "user": "U064AMJKU0J"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "BrpHG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "何かの薬草とか…",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0CEA3C7D-24B4-45EF-8EF8-966CAD02EBF4",
+    "team": "T063VL91V0X",
+    "text": "何かの薬草とか…",
+    "ts": "1710667767.955179",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "V0fS9",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "あ、Riko、キミの名前をミュージック・ビデオのエンドクレジットに入れるぞ？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "8AA8922D-D5C5-46E6-A209-7A87CC2BC314",
+    "team": "T063VL91V0X",
+    "text": "あ、Riko、キミの名前をミュージック・ビデオのエンドクレジットに入れるぞ？",
+    "ts": "1710667793.501209",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+m1Xj",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなも職質された時は試して見てね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4AD43535-3B10-4AE3-86DF-9807D772A39D",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1713152408,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06UMGXARPB",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_5750.jpg",
+        "original_h": 664,
+        "original_w": 986,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U066859HEJC/F06UMGXARPB/img_5750.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06UMGXARPB-6aed228c32",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 111631,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_360.jpg",
+        "thumb_360_h": 242,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_480.jpg",
+        "thumb_480_h": 323,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_720.jpg",
+        "thumb_720_h": 485,
+        "thumb_720_w": 720,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_800.jpg",
+        "thumb_800_h": 539,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06UMGXARPB-e761eb78a6/img_5750_960.jpg",
+        "thumb_960_h": 646,
+        "thumb_960_w": 960,
+        "thumb_tiny": "AwAgADDRZsE5IFNy2evHFNYkStnnpj2pU/woAduPrS7uab1FL3yKAAsccUAnzDzxSDkY9P8A61C/600AMkyJifalQ/MR9KeUy+4k0KmGJ9aADse1HT86MHaeD9KMfN0oAB0p+B6UzBx0xT6AP//Z",
+        "timestamp": 1713152408,
+        "title": "IMG_5750",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06UMGXARPB/img_5750.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06UMGXARPB/download/img_5750.jpg",
+        "user": "U066859HEJC",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "reactions": [
+      {
+        "count": 1,
+        "name": "生",
+        "users": [
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "存",
+        "users": [
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "戦",
+        "users": [
+          "U064B2U40GM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "略",
+        "users": [
+          "U064B2U40GM"
+        ]
+      }
+    ],
+    "text": "みんなも職質された時は試して見てね",
+    "ts": "1713152417.529349",
+    "type": "message",
+    "upload": false,
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "9RjDU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "試してみますね ",
+                "type": "text"
+              },
+              {
+                "name": "zarigani_run",
+                "type": "emoji"
+              },
+              {
+                "text": " ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0E681CB2-CFF3-4D28-8F62-C8CD9B544269",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "試してみますね :zarigani_run: ",
+    "ts": "1713153413.114219",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "4HKJS",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "雑談ノーマルで大丈夫そ？？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "ecd86efe-5821-4811-ab51-6b0e9ff3f6e7",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "iinoyo",
+        "users": [
+          "U064CLXP068"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "annzenndaiiti",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "雑談ノーマルで大丈夫そ？？",
+    "ts": "1713154488.115229",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "n/ZuU",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ノーマルじゃないですね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "74CA972C-1F92-4471-A079-145BBA9DE658",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "ノーマルじゃないですね",
+    "ts": "1713163078.714199",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Alr3+",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ノーマルじゃないの？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0A3ED170-8B34-4457-885E-7CB3B410695B",
+    "team": "T063VL91V0X",
+    "text": "ノーマルじゃないの？",
+    "ts": "1713163947.776049",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "O0TYq",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "大人むけですよね？",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6E59B067-EBDE-4FC3-AAE5-05ECCF54050D",
+    "team": "T063VL91V0X",
+    "text": "大人むけですよね？",
+    "ts": "1713168791.497669",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N4pOZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "漏らすのは子どもだけだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+    "is_locked": false,
+    "latest_reply": "1713187999.053499",
+    "reply_count": 17,
+    "reply_users": [
+      "U063ZCF1H3R",
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "漏らすのは子どもだけだろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175539.895879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Miu4H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "大人なめんな",
+                "type": "text"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c9bf726-df38-4c1f-8edb-13e459173b9e",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "*大人なめんな*:anger::anger::anger:",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175800.412279",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k3koQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっわ。ちびりそう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33a20b02-ea38-4b30-aa50-d3106a73bfeb",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "こっわ。ちびりそう。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713176205.213619",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "no1ix",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさんも漏らすと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bcf48bd6-4b73-40bf-8087-6f350bdc04bf",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "アナオさんも漏らすと思います。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713181615.633579",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QZLX8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c970497-8fcf-4b3b-92c9-95f860336d50",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184197.469979",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p6BCB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7ac80fd9-ebd2-4d58-acd9-1670babe1b3a",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184360.335459",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1hUk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75855cc-4ebc-4fb3-831e-2b8e8e92e180",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184377.771669",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iMoZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3やねん。3段オチやろ鉄則は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9bbe8b7-75ae-4bb1-bd27-8868d8a62f19",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "3やねん。3段オチやろ鉄則は",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184430.495349",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NsewG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "owaraiwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de6cca52-c0f2-4d99-b950-f8d77b735d8f",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "owaraiwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184437.885969",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FaSHd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかってないのはわかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a45b95ee-5d26-44ed-b9d5-f26896dcd191",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "わかってないのはわかった",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184449.866729",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FzbwF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kansaijinwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd731766-a177-4ae8-9086-852df503af8a",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kansaijinwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184482.171619",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JM5//",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそも人間をわかることないぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "14b01337-618b-41a2-9688-134d9b9ba96d",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "そもそも人間をわかることないぞ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184497.980899",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qj78b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん不機嫌やねん飯食うてくるわ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f40d470-686c-4e27-b58f-dc63ae852ff2",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ごめん不機嫌やねん飯食うてくるわ。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184525.258879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Nufs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kawachibenkowai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E95636E7-ED9F-4A49-80CD-867233FFCB95",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kawachibenkowai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184539.824269",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1393h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイムハングリー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f44d39b-d781-4286-a993-32b1bd488c18",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "アイムハングリー",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184593.382409",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SDNjC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b5f0166-ba26-4051-803c-b7c67f8626a6",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713185458.178599",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b49zW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりおいしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A11F3639-F2DF-40B2-8647-C6D50A79F643",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "おにぎりおいしい",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713186869.692549",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ivvb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新しい退魔の呪文やめろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "240ece4d-41e3-47f7-a032-7c6148e99434",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "新しい退魔の呪文やめろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713187999.053499",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N4pOZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "漏らすのは子どもだけだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+    "is_locked": false,
+    "latest_reply": "1713187999.053499",
+    "reply_count": 17,
+    "reply_users": [
+      "U063ZCF1H3R",
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "漏らすのは子どもだけだろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175539.895879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Miu4H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "大人なめんな",
+                "type": "text"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c9bf726-df38-4c1f-8edb-13e459173b9e",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "*大人なめんな*:anger::anger::anger:",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175800.412279",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k3koQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっわ。ちびりそう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33a20b02-ea38-4b30-aa50-d3106a73bfeb",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "こっわ。ちびりそう。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713176205.213619",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "no1ix",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさんも漏らすと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bcf48bd6-4b73-40bf-8087-6f350bdc04bf",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "アナオさんも漏らすと思います。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713181615.633579",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QZLX8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c970497-8fcf-4b3b-92c9-95f860336d50",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184197.469979",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p6BCB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7ac80fd9-ebd2-4d58-acd9-1670babe1b3a",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184360.335459",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1hUk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75855cc-4ebc-4fb3-831e-2b8e8e92e180",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184377.771669",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iMoZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3やねん。3段オチやろ鉄則は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9bbe8b7-75ae-4bb1-bd27-8868d8a62f19",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "3やねん。3段オチやろ鉄則は",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184430.495349",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NsewG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "owaraiwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de6cca52-c0f2-4d99-b950-f8d77b735d8f",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "owaraiwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184437.885969",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FaSHd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかってないのはわかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a45b95ee-5d26-44ed-b9d5-f26896dcd191",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "わかってないのはわかった",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184449.866729",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FzbwF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kansaijinwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd731766-a177-4ae8-9086-852df503af8a",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kansaijinwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184482.171619",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JM5//",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそも人間をわかることないぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "14b01337-618b-41a2-9688-134d9b9ba96d",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "そもそも人間をわかることないぞ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184497.980899",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qj78b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん不機嫌やねん飯食うてくるわ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f40d470-686c-4e27-b58f-dc63ae852ff2",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ごめん不機嫌やねん飯食うてくるわ。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184525.258879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Nufs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kawachibenkowai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E95636E7-ED9F-4A49-80CD-867233FFCB95",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kawachibenkowai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184539.824269",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1393h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイムハングリー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f44d39b-d781-4286-a993-32b1bd488c18",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "アイムハングリー",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184593.382409",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SDNjC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b5f0166-ba26-4051-803c-b7c67f8626a6",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713185458.178599",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b49zW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりおいしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A11F3639-F2DF-40B2-8647-C6D50A79F643",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "おにぎりおいしい",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713186869.692549",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ivvb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新しい退魔の呪文やめろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "240ece4d-41e3-47f7-a032-7c6148e99434",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "新しい退魔の呪文やめろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713187999.053499",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N4pOZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "漏らすのは子どもだけだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+    "is_locked": false,
+    "latest_reply": "1713187999.053499",
+    "reply_count": 17,
+    "reply_users": [
+      "U063ZCF1H3R",
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "漏らすのは子どもだけだろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175539.895879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Miu4H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "大人なめんな",
+                "type": "text"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c9bf726-df38-4c1f-8edb-13e459173b9e",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "*大人なめんな*:anger::anger::anger:",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175800.412279",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k3koQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっわ。ちびりそう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33a20b02-ea38-4b30-aa50-d3106a73bfeb",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "こっわ。ちびりそう。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713176205.213619",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "no1ix",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさんも漏らすと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bcf48bd6-4b73-40bf-8087-6f350bdc04bf",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "アナオさんも漏らすと思います。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713181615.633579",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QZLX8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c970497-8fcf-4b3b-92c9-95f860336d50",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184197.469979",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p6BCB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7ac80fd9-ebd2-4d58-acd9-1670babe1b3a",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184360.335459",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1hUk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75855cc-4ebc-4fb3-831e-2b8e8e92e180",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184377.771669",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iMoZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3やねん。3段オチやろ鉄則は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9bbe8b7-75ae-4bb1-bd27-8868d8a62f19",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "3やねん。3段オチやろ鉄則は",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184430.495349",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NsewG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "owaraiwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de6cca52-c0f2-4d99-b950-f8d77b735d8f",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "owaraiwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184437.885969",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FaSHd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかってないのはわかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a45b95ee-5d26-44ed-b9d5-f26896dcd191",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "わかってないのはわかった",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184449.866729",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FzbwF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kansaijinwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd731766-a177-4ae8-9086-852df503af8a",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kansaijinwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184482.171619",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JM5//",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそも人間をわかることないぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "14b01337-618b-41a2-9688-134d9b9ba96d",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "そもそも人間をわかることないぞ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184497.980899",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qj78b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん不機嫌やねん飯食うてくるわ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f40d470-686c-4e27-b58f-dc63ae852ff2",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ごめん不機嫌やねん飯食うてくるわ。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184525.258879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Nufs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kawachibenkowai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E95636E7-ED9F-4A49-80CD-867233FFCB95",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kawachibenkowai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184539.824269",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1393h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイムハングリー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f44d39b-d781-4286-a993-32b1bd488c18",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "アイムハングリー",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184593.382409",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SDNjC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b5f0166-ba26-4051-803c-b7c67f8626a6",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713185458.178599",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b49zW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりおいしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A11F3639-F2DF-40B2-8647-C6D50A79F643",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "おにぎりおいしい",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713186869.692549",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ivvb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新しい退魔の呪文やめろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "240ece4d-41e3-47f7-a032-7c6148e99434",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "新しい退魔の呪文やめろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713187999.053499",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N4pOZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "漏らすのは子どもだけだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+    "is_locked": false,
+    "latest_reply": "1713187999.053499",
+    "reply_count": 17,
+    "reply_users": [
+      "U063ZCF1H3R",
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "漏らすのは子どもだけだろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175539.895879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Miu4H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "大人なめんな",
+                "type": "text"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c9bf726-df38-4c1f-8edb-13e459173b9e",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "*大人なめんな*:anger::anger::anger:",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175800.412279",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k3koQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっわ。ちびりそう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33a20b02-ea38-4b30-aa50-d3106a73bfeb",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "こっわ。ちびりそう。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713176205.213619",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "no1ix",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさんも漏らすと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bcf48bd6-4b73-40bf-8087-6f350bdc04bf",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "アナオさんも漏らすと思います。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713181615.633579",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QZLX8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c970497-8fcf-4b3b-92c9-95f860336d50",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184197.469979",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p6BCB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7ac80fd9-ebd2-4d58-acd9-1670babe1b3a",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184360.335459",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1hUk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75855cc-4ebc-4fb3-831e-2b8e8e92e180",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184377.771669",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iMoZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3やねん。3段オチやろ鉄則は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9bbe8b7-75ae-4bb1-bd27-8868d8a62f19",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "3やねん。3段オチやろ鉄則は",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184430.495349",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NsewG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "owaraiwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de6cca52-c0f2-4d99-b950-f8d77b735d8f",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "owaraiwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184437.885969",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FaSHd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかってないのはわかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a45b95ee-5d26-44ed-b9d5-f26896dcd191",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "わかってないのはわかった",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184449.866729",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FzbwF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kansaijinwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd731766-a177-4ae8-9086-852df503af8a",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kansaijinwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184482.171619",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JM5//",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそも人間をわかることないぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "14b01337-618b-41a2-9688-134d9b9ba96d",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "そもそも人間をわかることないぞ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184497.980899",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qj78b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん不機嫌やねん飯食うてくるわ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f40d470-686c-4e27-b58f-dc63ae852ff2",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ごめん不機嫌やねん飯食うてくるわ。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184525.258879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Nufs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kawachibenkowai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E95636E7-ED9F-4A49-80CD-867233FFCB95",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kawachibenkowai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184539.824269",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1393h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイムハングリー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f44d39b-d781-4286-a993-32b1bd488c18",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "アイムハングリー",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184593.382409",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SDNjC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b5f0166-ba26-4051-803c-b7c67f8626a6",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713185458.178599",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b49zW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりおいしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A11F3639-F2DF-40B2-8647-C6D50A79F643",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "おにぎりおいしい",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713186869.692549",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ivvb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新しい退魔の呪文やめろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "240ece4d-41e3-47f7-a032-7c6148e99434",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "新しい退魔の呪文やめろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713187999.053499",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "N4pOZ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "漏らすのは子どもだけだろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+    "is_locked": false,
+    "latest_reply": "1713187999.053499",
+    "reply_count": 17,
+    "reply_users": [
+      "U063ZCF1H3R",
+      "U06478T36MT",
+      "U064A3MMLFM"
+    ],
+    "reply_users_count": 3,
+    "subscribed": false,
+    "team": "T063VL91V0X",
+    "text": "漏らすのは子どもだけだろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175539.895879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "Miu4H",
+        "elements": [
+          {
+            "elements": [
+              {
+                "style": {
+                  "bold": true
+                },
+                "text": "大人なめんな",
+                "type": "text"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              },
+              {
+                "name": "anger",
+                "style": {
+                  "bold": true
+                },
+                "type": "emoji",
+                "unicode": "1f4a2"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7c9bf726-df38-4c1f-8edb-13e459173b9e",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "*大人なめんな*:anger::anger::anger:",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713175800.412279",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "k3koQ",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "こっわ。ちびりそう。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "33a20b02-ea38-4b30-aa50-d3106a73bfeb",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "こっわ。ちびりそう。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713176205.213619",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "no1ix",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アナオさんも漏らすと思います。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "bcf48bd6-4b73-40bf-8087-6f350bdc04bf",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "アナオさんも漏らすと思います。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713181615.633579",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "QZLX8",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "0c970497-8fcf-4b3b-92c9-95f860336d50",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ここは「大人は漏らさない」言うてた俺本人が漏らすってオチのほうが強かったな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184197.469979",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "p6BCB",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7ac80fd9-ebd2-4d58-acd9-1670babe1b3a",
+    "root": {
+      "blocks": [
+        {
+          "block_id": "N4pOZ",
+          "elements": [
+            {
+              "elements": [
+                {
+                  "text": "漏らすのは子どもだけだろ",
+                  "type": "text"
+                }
+              ],
+              "type": "rich_text_section"
+            }
+          ],
+          "type": "rich_text"
+        }
+      ],
+      "client_msg_id": "4a160982-8d4c-497f-8eae-90c5e887c573",
+      "is_locked": false,
+      "latest_reply": "1713187999.053499",
+      "reply_count": 17,
+      "reply_users": [
+        "U063ZCF1H3R",
+        "U06478T36MT",
+        "U064A3MMLFM"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "T063VL91V0X",
+      "text": "漏らすのは子どもだけだろ",
+      "thread_ts": "1713175539.895879",
+      "ts": "1713175539.895879",
+      "type": "message",
+      "user": "U06478T36MT"
+    },
+    "subtype": "thread_broadcast",
+    "text": "ちびりそう。じゃなくちびった。の方がつっこみやすかったのはある。(ガチトーン)",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184360.335459",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R1hUk",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "d75855cc-4ebc-4fb3-831e-2b8e8e92e180",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "もう一発かぶせてきてたらジョバババぐらい書いたがな",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184377.771669",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "iMoZf",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "3やねん。3段オチやろ鉄則は",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "e9bbe8b7-75ae-4bb1-bd27-8868d8a62f19",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "3やねん。3段オチやろ鉄則は",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184430.495349",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "NsewG",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "owaraiwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "de6cca52-c0f2-4d99-b950-f8d77b735d8f",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "owaraiwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184437.885969",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FaSHd",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "わかってないのはわかった",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "a45b95ee-5d26-44ed-b9d5-f26896dcd191",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "わかってないのはわかった",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184449.866729",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "FzbwF",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kansaijinwakaranai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "cd731766-a177-4ae8-9086-852df503af8a",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kansaijinwakaranai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184482.171619",
+    "type": "message",
+    "user": "U063ZCF1H3R"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "JM5//",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "そもそも人間をわかることないぞ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "14b01337-618b-41a2-9688-134d9b9ba96d",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "そもそも人間をわかることないぞ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184497.980899",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "qj78b",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ごめん不機嫌やねん飯食うてくるわ。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "1f40d470-686c-4e27-b58f-dc63ae852ff2",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "ごめん不機嫌やねん飯食うてくるわ。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184525.258879",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "+Nufs",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "kawachibenkowai",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E95636E7-ED9F-4A49-80CD-867233FFCB95",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "kawachibenkowai",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184539.824269",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "1393h",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "アイムハングリー",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "5f44d39b-d781-4286-a993-32b1bd488c18",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "アイムハングリー",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713184593.382409",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "SDNjC",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "7b5f0166-ba26-4051-803c-b7c67f8626a6",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "うん、これは俺河内弁でキレ散らかしてなな子さんがちびるフリやったのに俺が台無しにしたわ。おにぎり死刑。",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713185458.178599",
+    "type": "message",
+    "user": "U06478T36MT"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "b49zW",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "おにぎりおいしい",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "A11F3639-F2DF-40B2-8647-C6D50A79F643",
+    "parent_user_id": "U06478T36MT",
+    "team": "T063VL91V0X",
+    "text": "おにぎりおいしい",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713186869.692549",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ivvb6",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "新しい退魔の呪文やめろ",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "240ece4d-41e3-47f7-a032-7c6148e99434",
+    "parent_user_id": "U06478T36MT",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "heart_hands",
+        "users": [
+          "U064A3MMLFM"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "新しい退魔の呪文やめろ",
+    "thread_ts": "1713175539.895879",
+    "ts": "1713187999.053499",
+    "type": "message",
+    "user": "U06478T36MT"
+  }
+]

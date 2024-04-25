@@ -1,0 +1,215 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "IxQLm",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "お鵺がシールを作ってくれました",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "189E406E-EC48-4DFA-AF0D-8C8CFE9EF218",
+    "team": "T063VL91V0X",
+    "text": "お鵺がシールを作ってくれました",
+    "ts": "1709005657.041149",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "dR4PK",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "【コンビニシール倶楽部】\nプリント番号: 9LWDKBGFMT",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "C2B02427-8C66-4C03-8947-0454C8DF8CD3",
+    "reactions": [
+      {
+        "count": 1,
+        "name": "性教育",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "つけマン毛",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "ゆーゆーおるぐ",
+        "users": [
+          "U066859HEJC"
+        ]
+      },
+      {
+        "count": 1,
+        "name": "くまえり",
+        "users": [
+          "U066859HEJC"
+        ]
+      }
+    ],
+    "team": "T063VL91V0X",
+    "text": "【コンビニシール倶楽部】\nプリント番号: 9LWDKBGFMT",
+    "ts": "1709005665.104359",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "ivR/m",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "ローソンでプリントいただけます♪",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "F9902F35-A489-49E8-B50B-81D95544E0F4",
+    "display_as_bot": false,
+    "files": [
+      {
+        "created": 1709005669,
+        "display_as_bot": false,
+        "editable": false,
+        "external_type": "",
+        "file_access": "visible",
+        "filetype": "jpg",
+        "has_rich_preview": false,
+        "id": "F06MENB2UPJ",
+        "is_external": false,
+        "is_public": true,
+        "is_starred": false,
+        "media_display_type": "unknown",
+        "mimetype": "image/jpeg",
+        "mode": "hosted",
+        "name": "IMG_3711.jpg",
+        "original_h": 600,
+        "original_w": 1000,
+        "permalink": "https://w1699144815-gue300630.slack.com/files/U064A3MMLFM/F06MENB2UPJ/img_3711.jpg",
+        "permalink_public": "https://slack-files.com/T063VL91V0X-F06MENB2UPJ-9279bafe54",
+        "pretty_type": "JPEG",
+        "public_url_shared": false,
+        "size": 68662,
+        "thumb_160": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_360.jpg",
+        "thumb_360_h": 216,
+        "thumb_360_w": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_480.jpg",
+        "thumb_480_h": 288,
+        "thumb_480_w": 480,
+        "thumb_64": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_64.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_720.jpg",
+        "thumb_720_h": 432,
+        "thumb_720_w": 720,
+        "thumb_80": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_80.jpg",
+        "thumb_800": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_800.jpg",
+        "thumb_800_h": 480,
+        "thumb_800_w": 800,
+        "thumb_960": "https://files.slack.com/files-tmb/T063VL91V0X-F06MENB2UPJ-9b49bdc037/img_3711_960.jpg",
+        "thumb_960_h": 576,
+        "thumb_960_w": 960,
+        "thumb_tiny": "AwAcADC40+1yu0cd80CctnCD86rXBIkbHXNCSMx4Coue/JNIZZWbcyrtAz71Md3YCqqjEyVb/CgQ0lh2H0pV3fxAD6UmW9DThz2xTAzrrd5uV5IanNyvO3PrV3PsKM+wqboadiqhzJHk5Iq5Tc+wp1NMRQ818/fbr2NX6TaPQflS0wP/2Q==",
+        "timestamp": 1709005669,
+        "title": "IMG_3711",
+        "url_private": "https://files.slack.com/files-pri/T063VL91V0X-F06MENB2UPJ/img_3711.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T063VL91V0X-F06MENB2UPJ/download/img_3711.jpg",
+        "user": "U064A3MMLFM",
+        "user_team": "T063VL91V0X",
+        "username": ""
+      }
+    ],
+    "text": "ローソンでプリントいただけます♪",
+    "ts": "1709005687.719479",
+    "type": "message",
+    "upload": false,
+    "user": "U064A3MMLFM"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "a++gY",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "みんなで繁華街に貼って回ろうね",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "6449C22A-253B-465D-B720-B025DDDB3A81",
+    "team": "T063VL91V0X",
+    "text": "みんなで繁華街に貼って回ろうね",
+    "ts": "1709005981.847939",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "T/5zR",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "神棚に飾ってお楽しみください",
+                "type": "text"
+              },
+              {
+                "name": "relieved",
+                "type": "emoji",
+                "unicode": "1f60c"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "E61550F4-D9DC-49D1-9309-030D02205853",
+    "team": "T063VL91V0X",
+    "text": "神棚に飾ってお楽しみください:relieved:",
+    "ts": "1709006078.223029",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  }
+]
