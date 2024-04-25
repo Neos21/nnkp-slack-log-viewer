@@ -1,0 +1,62 @@
+[
+  {
+    "blocks": [
+      {
+        "block_id": "UOnef",
+        "elements": [
+          {
+            "elements": [
+              {
+                "name": "eyes",
+                "type": "emoji",
+                "unicode": "1f440"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "18F29D4A-C961-4B2E-9427-BEE4A19ADD43",
+    "team": "T063VL91V0X",
+    "text": ":eyes:",
+    "ts": "1709011971.177539",
+    "type": "message",
+    "user": "U066859HEJC"
+  },
+  {
+    "blocks": [
+      {
+        "block_id": "R2jW/",
+        "elements": [
+          {
+            "elements": [
+              {
+                "text": "完全に凍結しております（すみません ",
+                "type": "text"
+              },
+              {
+                "name": "woman-bowing",
+                "type": "emoji",
+                "unicode": "1f647-200d-2640-fe0f"
+              },
+              {
+                "text": "）",
+                "type": "text"
+              }
+            ],
+            "type": "rich_text_section"
+          }
+        ],
+        "type": "rich_text"
+      }
+    ],
+    "client_msg_id": "3384A2A4-D954-4418-98F5-51244B3DC7CF",
+    "team": "T063VL91V0X",
+    "text": "完全に凍結しております（すみません :woman-bowing:）",
+    "ts": "1709023060.163229",
+    "type": "message",
+    "user": "U064A3MMLFM"
+  }
+]
