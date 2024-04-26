@@ -10,10 +10,23 @@
 <div class="wrapper">
   <div class="menu">
     <div class="menu-container">
-      <app-menu />
+      @if(isLoggedIn) {
+        <app-menu />
+      }
+      @else {
+        <div>ログインしてください</div>
+      }
     </div>
   </div>
   <div class="contents">
-    <router-outlet />
+    @if(isLoggedIn) {
+      <router-outlet />
+    }
+    @else {
+      <div class="login-form">
+        <p><input type="password" [(ngModel)]="inputPassword" placeholder="Password"></p>
+        <p><button type="button" (click)="onLogin()">Login</button></p>
+      </div>
+    }
   </div>
 </div>
